@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:43.000Z
+pubDatetime: 2026-05-31T22:40:01.000Z
 title: "Jogadores baratos de Liga Portugal no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false

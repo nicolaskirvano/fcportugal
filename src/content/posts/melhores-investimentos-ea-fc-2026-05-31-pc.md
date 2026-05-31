@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:44.000Z
+pubDatetime: 2026-05-31T22:40:02.000Z
 title: "Melhores investimentos em Liga Portugal no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Ousmane Diomande (85, Liga Portugal) lidera, com +69.2% em 7 dias a 55k coins no PC, e o modelo dá 56% de chance de seguir subindo."
+    a: "Trincão (86, Liga Portugal) lidera, com +62.5% em 7 dias a 49k coins no PC, e o modelo dá 39% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **PC**:
 
-> 🔝 **Destaque:** Ousmane Diomande (85) acumula **+69.2% em 7 dias** a 55k coins.
+> 🔝 **Destaque:** Trincão (86) acumula **+62.5% em 7 dias** a 49k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,20 +31,17 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ousmane Diomande | 85 | Liga Portugal | 55k coins | +23.6% | +69.2% | 56% |
-| Nicolás Otamendi | 86 | Liga Portugal | 65k coins | +8.3% | +40.5% | 50% |
-| Rodrigo Mora | 88 | Liga Portugal | 36k coins | +4.3% | +39.4% | 12% |
+| Trincão | 86 | Liga Portugal | 49k coins | +24.2% | +62.5% | 39% |
+| Francisco Moura | 90 | Liga Portugal | 25k coins | +8.7% | +61.3% | 23% |
 | Ricardo Carvalho | 88 | Liga Portugal | 20k coins | +9.7% | +12.9% | 56% |
 | Alexander Bah | 86 | Liga Portugal | 153k coins | +17.7% | +11.7% | 10% |
 
 
 ## 📈 Análise dos destaques
 
-- **Ousmane Diomande (85)** — 55k coins, **+69.2% em 7 dias** (+23.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Trincão (86)** — 49k coins, **+62.5% em 7 dias** (+24.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nicolás Otamendi (86)** — 65k coins, **+40.5% em 7 dias** (+8.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Rodrigo Mora (88)** — 36k coins, **+39.4% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Francisco Moura (90)** — 25k coins, **+61.3% em 7 dias** (+8.7% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Ricardo Carvalho (88)** — 20k coins, **+12.9% em 7 dias** (+9.7% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
@@ -66,7 +63,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Ousmane Diomande (85, Liga Portugal) lidera, com +69.2% em 7 dias a 55k coins no PC, e o modelo dá 56% de chance de seguir subindo.
+Trincão (86, Liga Portugal) lidera, com +62.5% em 7 dias a 49k coins no PC, e o modelo dá 39% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
