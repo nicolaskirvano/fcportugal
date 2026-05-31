@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:40:02.000Z
+pubDatetime: 2026-05-31T21:27:44.000Z
 title: "Melhores investimentos em Liga Portugal no EA FC (31/05/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -32,9 +32,9 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ousmane Diomande | 85 | Liga Portugal | 55k coins | +23.6% | +69.2% | 56% |
-| Ricardo Carvalho | 88 | Liga Portugal | 20k coins | +16.4% | +47.2% | 56% |
 | Nicolás Otamendi | 86 | Liga Portugal | 65k coins | +8.3% | +40.5% | 50% |
 | Rodrigo Mora | 88 | Liga Portugal | 36k coins | +4.3% | +39.4% | 12% |
+| Ricardo Carvalho | 88 | Liga Portugal | 20k coins | +9.7% | +12.9% | 56% |
 | Alexander Bah | 86 | Liga Portugal | 153k coins | +17.7% | +11.7% | 10% |
 
 
@@ -42,11 +42,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Ousmane Diomande (85)** — 55k coins, **+69.2% em 7 dias** (+23.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ricardo Carvalho (88)** — 20k coins, **+47.2% em 7 dias** (+16.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
 - **Nicolás Otamendi (86)** — 65k coins, **+40.5% em 7 dias** (+8.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Rodrigo Mora (88)** — 36k coins, **+39.4% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+
+- **Ricardo Carvalho (88)** — 20k coins, **+12.9% em 7 dias** (+9.7% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Alexander Bah (86)** — 153k coins, **+11.7% em 7 dias** (+17.7% em 24h). Preço em linha com a média de 7 dias (+7%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
@@ -74,6 +74,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

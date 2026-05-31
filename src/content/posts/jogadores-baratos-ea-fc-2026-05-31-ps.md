@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:40:01.000Z
+pubDatetime: 2026-05-31T21:27:43.000Z
 title: "Jogadores baratos de Liga Portugal no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matheus Dias | 87 | CDM | Liga Portugal | 14k coins | -8.5% |
-| Vangelis Pavlidis | 86 | ST | Liga Portugal | 12k coins | -17.9% |
-| Yanis Begraoui | 86 | CAM | Liga Portugal | 12k coins | -66.9% |
-| Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -61.3% |
-| Pizzi | 85 | RM | Liga Portugal | 13k coins | -36.6% |
-| Santi García | 84 | CAM | Liga Portugal | 12k coins | -58.2% |
-| Florian Grillitsch | 84 | CM | Liga Portugal | 12k coins | -59.3% |
-| Emmanuel Maviram | 84 | LB | Liga Portugal | 12k coins | -73.1% |
-| Rodrigo Zalazar | 84 | LW | Liga Portugal | 12k coins | -58.2% |
-| William Gomes | 84 | RW | Liga Portugal | 12k coins | -16.1% |
-| João Carvalho | 84 | LM | Liga Portugal | 12k coins | -16.1% |
-| Vangelis Pavlidis | 84 | ST | Liga Portugal | 12k coins | -65.2% |
-| Larrazabal | 84 | RB | Liga Portugal | 12k coins | -64.4% |
-| Jesús Ramírez | 84 | ST | Liga Portugal | 12k coins | -59.8% |
-| Jan Bednarek | 84 | CB | Liga Portugal | 12k coins | -58.6% |
+| Matheus Dias | 87 | CDM | Liga Portugal | 14k coins | -4.9% |
+| Yanis Begraoui | 86 | CAM | Liga Portugal | 11k coins | -64% |
+| Vangelis Pavlidis | 86 | ST | Liga Portugal | 11k coins | -19.6% |
+| Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -60% |
+| Pizzi | 85 | RM | Liga Portugal | 14k coins | -30.8% |
+| Vangelis Pavlidis | 84 | ST | Liga Portugal | 11k coins | -62.7% |
+| João Carvalho | 84 | LM | Liga Portugal | 11k coins | -21.4% |
+| Larrazabal | 84 | RB | Liga Portugal | 11k coins | -63.3% |
+| Jesús Ramírez | 84 | ST | Liga Portugal | 11k coins | -61.7% |
+| Emmanuel Maviram | 84 | LB | Liga Portugal | 11k coins | -74.6% |
+| Jovane Cabral | 84 | LM | Liga Portugal | 11k coins | -62.5% |
+| Borja Sainz | 83 | LW | Liga Portugal | 11k coins | -63.3% |
+| Beni | 83 | CM | Liga Portugal | 11k coins | -63.3% |
 
 
 ## 📈 Destaques
 
-- **Matheus Dias (87, CDM)** da Liga Portugal, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Matheus Dias (87, CDM)** da Liga Portugal, a apenas **14k coins**
 
-- **Vangelis Pavlidis (86, ST)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Yanis Begraoui (86, CAM)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Yanis Begraoui (86, CAM)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Vangelis Pavlidis (86, ST)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Pedro Gonçalves (86, CAM)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pizzi (85, RM)** da Liga Portugal, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pizzi (85, RM)** da Liga Portugal, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -81,6 +79,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

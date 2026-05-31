@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:40:01.000Z
+pubDatetime: 2026-05-31T21:27:43.000Z
 title: "Melhores investimentos em Liga Portugal no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Nélson Oliveira (86, Liga Portugal) lidera, com +22.6% em 7 dias a 19k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
+    a: "Rodrigo Mora (88, Liga Portugal) lidera, com +33.6% em 7 dias a 39k coins no Console (PS), e o modelo dá 83% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Nélson Oliveira (86) acumula **+22.6% em 7 dias** a 19k coins.
+> 🔝 **Destaque:** Rodrigo Mora (88) acumula **+33.6% em 7 dias** a 39k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,26 +31,21 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nélson Oliveira | 86 | Liga Portugal | 19k coins | +5.6% | +22.6% | 50% |
-| Anatoliy Trubin | 88 | Liga Portugal | 232k coins | +22.1% | +20.2% | 95% |
-| Ricardo Carvalho | 89 | Liga Portugal | 84k coins | +2.4% | +12.8% | 50% |
-| António Silva | 87 | Liga Portugal | 40k coins | +3.9% | +11.9% | 5% |
-| Rodrigo Mora | 88 | Liga Portugal | 36k coins | +28.6% | +10.8% | 83% |
-| Ricardo Horta | 90 | Liga Portugal | 20k coins | +2.5% | +9.3% | 5% |
-| Eduardo Quaresma | 88 | Liga Portugal | 52k coins | +16.4% | +7.3% | 35% |
+| Rodrigo Mora | 88 | Liga Portugal | 39k coins | +4% | +33.6% | 83% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 38k coins | +15.4% | +27.1% | 5% |
+| Ricardo Carvalho | 89 | Liga Portugal | 91k coins | +27.3% | +22.2% | 50% |
+| Paulo Futre | 92 | Liga Portugal | 91k coins | +8.3% | +11.7% | 5% |
 
 
 ## 📈 Análise dos destaques
 
-- **Nélson Oliveira (86)** — 19k coins, **+22.6% em 7 dias** (+5.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Rodrigo Mora (88)** — 39k coins, **+33.6% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+6%). 🔮 O modelo reforça a tese: **83% de chance de seguir subindo**.
 
-- **Anatoliy Trubin (88)** — 232k coins, **+20.2% em 7 dias** (+22.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Ivan Cavaleiro (85)** — 38k coins, **+27.1% em 7 dias** (+15.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ricardo Carvalho (89)** — 84k coins, **+12.8% em 7 dias** (+2.4% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ricardo Carvalho (89)** — 91k coins, **+22.2% em 7 dias** (+27.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **António Silva (87)** — 40k coins, **+11.9% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (+3%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
-
-- **Rodrigo Mora (88)** — 36k coins, **+10.8% em 7 dias** (+28.6% em 24h). Preço em linha com a média de 7 dias (-0%). 🔮 O modelo reforça a tese: **83% de chance de seguir subindo**.
+- **Paulo Futre (92)** — 91k coins, **+11.7% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (+2%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -68,7 +63,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Nélson Oliveira (86, Liga Portugal) lidera, com +22.6% em 7 dias a 19k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
+Rodrigo Mora (88, Liga Portugal) lidera, com +33.6% em 7 dias a 39k coins no Console (PS), e o modelo dá 83% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -76,6 +71,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 

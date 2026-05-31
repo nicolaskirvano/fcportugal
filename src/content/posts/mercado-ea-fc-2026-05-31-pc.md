@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:40:02.000Z
+pubDatetime: 2026-05-31T21:27:44.000Z
 title: "Liga Portugal no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Ricardo Carvalho (89), -34.8% em 24h, a 68k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 21 em queda (média 5.62%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 20 em queda (média 4.08%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **21 caíram**, com variação média de **5.62%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **20 caíram**, com variação média de **4.08%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Geovany Quenda (85) **+48.8%** · 🔴 **Maior baixa:** Ricardo Carvalho (89) **-34.8%**
 
@@ -87,11 +87,13 @@ Geovany Quenda (85, Liga Portugal), com +48.8% em 24h, a 90k coins no PC.
 Ricardo Carvalho (89), -34.8% em 24h, a 68k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 21 em queda (média 5.62%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 20 em queda (média 4.08%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 📲 Os preços e previsões deste post vêm do **NF Market**, o painel de mercado do EA FC. Acompanhe ao vivo e receba alertas de alta e queda em <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">nfmarket.com.br</a>.
 
 ---
 
