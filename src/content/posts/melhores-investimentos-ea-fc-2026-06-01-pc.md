@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:40:02.000Z
+pubDatetime: 2026-06-01T13:40:02.000Z
 title: "Melhores investimentos em Liga Portugal no EA FC (01/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 01/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/06/2026) no EA FC?"
-    a: "Trincão (86, Liga Portugal) lidera, com +74.1% em 7 dias a 49k coins no PC, e o modelo dá 39% de chance de seguir subindo."
+    a: "Pizzi (85, Liga Portugal) lidera, com +81.8% em 7 dias a 40k coins no PC, e o modelo dá 31% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **01/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Trincão (86) acumula **+74.1% em 7 dias** a 49k coins.
+> 🔝 **Destaque:** Pizzi (85) acumula **+81.8% em 7 dias** a 40k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,21 +31,24 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Trincão | 86 | Liga Portugal | 49k coins | +3.2% | +74.1% | 39% |
-| Paulo Futre | 92 | Liga Portugal | 147k coins | +14.8% | +36.1% | 42% |
-| Nélson Oliveira | 86 | Liga Portugal | 18k coins | +17.7% | +25.9% | 59% |
-| Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +7.7% | +16.7% | 50% |
+| Pizzi | 85 | Liga Portugal | 40k coins | +39.1% | +81.8% | 31% |
+| Paulo Futre | 92 | Liga Portugal | 148k coins | +31% | +37% | 42% |
+| Geovany Quenda | 85 | Liga Portugal | 120k coins | +38.7% | +26.3% | 52% |
+| Matheus Dias | 87 | Liga Portugal | 16k coins | +16.7% | +21.2% | 77% |
+| Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +12.9% | +16.7% | 50% |
 
 
 ## 📈 Análise dos destaques
 
-- **Trincão (86)** — 49k coins, **+74.1% em 7 dias** (+3.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pizzi (85)** — 40k coins, **+81.8% em 7 dias** (+39.1% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Paulo Futre (92)** — 147k coins, **+36.1% em 7 dias** (+14.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paulo Futre (92)** — 148k coins, **+37% em 7 dias** (+31% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nélson Oliveira (86)** — 18k coins, **+25.9% em 7 dias** (+17.7% em 24h). Preço em linha com a média de 7 dias (+2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Geovany Quenda (85)** — 120k coins, **+26.3% em 7 dias** (+38.7% em 24h). Preço +45% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nicolás Otamendi (86)** — 70k coins, **+16.7% em 7 dias** (+7.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Matheus Dias (87)** — 16k coins, **+21.2% em 7 dias** (+16.7% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Nicolás Otamendi (86)** — 70k coins, **+16.7% em 7 dias** (+12.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -63,7 +66,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/06/2026) no EA FC?**  
-Trincão (86, Liga Portugal) lidera, com +74.1% em 7 dias a 49k coins no PC, e o modelo dá 39% de chance de seguir subindo.
+Pizzi (85, Liga Portugal) lidera, com +81.8% em 7 dias a 40k coins no PC, e o modelo dá 31% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

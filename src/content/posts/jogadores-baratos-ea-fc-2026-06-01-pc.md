@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:40:03.000Z
+pubDatetime: 2026-06-01T13:40:03.000Z
 title: "Jogadores baratos de Liga Portugal no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 01/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (01/06/2026)?"
-    a: "Vangelis Pavlidis (86, Liga Portugal) aparece como melhor custo-benefício, a 11k coins no PC."
+    a: "Pedro Gonçalves (86, Liga Portugal) aparece como melhor custo-benefício, a 11k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Vangelis Pavlidis (86) por apenas 11k coins.
+> 💰 **Melhor pechincha:** Pedro Gonçalves (86) por apenas 11k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vangelis Pavlidis | 86 | ST | Liga Portugal | 11k coins | -15.4% |
-| Pedro Gonçalves | 86 | CAM | Liga Portugal | 11k coins | -75% |
-| Yanis Begraoui | 86 | CAM | Liga Portugal | 11k coins | -77.4% |
+| Pedro Gonçalves | 86 | CAM | Liga Portugal | 11k coins | -75.6% |
+| Yanis Begraoui | 86 | CAM | Liga Portugal | 11k coins | -64.2% |
+| Vangelis Pavlidis | 86 | ST | Liga Portugal | 11k coins | -17.3% |
 | Rodrigo Zalazar | 84 | LW | Liga Portugal | 11k coins | -77.5% |
-| Santi García | 84 | CAM | Liga Portugal | 11k coins | -71.5% |
-| Jesús Ramírez | 84 | ST | Liga Portugal | 11k coins | -67.9% |
-| Larrazabal | 84 | RB | Liga Portugal | 11k coins | -81% |
-| Jovane Cabral | 84 | LM | Liga Portugal | 11k coins | -77.5% |
-| Florian Grillitsch | 84 | CM | Liga Portugal | 11k coins | -77.1% |
+| Jan Bednarek | 84 | CB | Liga Portugal | 11k coins | -77.4% |
+| Vangelis Pavlidis | 84 | ST | Liga Portugal | 11k coins | -64.2% |
+| João Carvalho | 84 | LM | Liga Portugal | 11k coins | -10.4% |
 | William Gomes | 84 | RW | Liga Portugal | 11k coins | -14% |
-| Emmanuel Maviram | 84 | LB | Liga Portugal | 11k coins | -72% |
-| João Carvalho | 84 | LM | Liga Portugal | 11k coins | -8.3% |
-| Vangelis Pavlidis | 84 | ST | Liga Portugal | 11k coins | -63.3% |
-| Jan Bednarek | 84 | CB | Liga Portugal | 11k coins | -76.6% |
-| Beni | 83 | CM | Liga Portugal | 11k coins | -73.1% |
+| Florian Grillitsch | 84 | CM | Liga Portugal | 11k coins | -77.8% |
+| Jovane Cabral | 84 | LM | Liga Portugal | 11k coins | -75.6% |
+| Larrazabal | 84 | RB | Liga Portugal | 11k coins | -25.9% |
+| Jesús Ramírez | 84 | ST | Liga Portugal | 11k coins | -64.2% |
+| Santi García | 84 | CAM | Liga Portugal | 11k coins | -70.6% |
+| Beni | 83 | CM | Liga Portugal | 11k coins | -21.8% |
+| Borja Sainz | 83 | LW | Liga Portugal | 11k coins | -17.3% |
 
 
 ## 📈 Destaques
-
-- **Vangelis Pavlidis (86, ST)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Pedro Gonçalves (86, CAM)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Yanis Begraoui (86, CAM)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Vangelis Pavlidis (86, ST)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Rodrigo Zalazar (84, LW)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Santi García (84, CAM)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jan Bednarek (84, CB)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (01/06/2026)?**  
-Vangelis Pavlidis (86, Liga Portugal) aparece como melhor custo-benefício, a 11k coins no PC.
+Pedro Gonçalves (86, Liga Portugal) aparece como melhor custo-benefício, a 11k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

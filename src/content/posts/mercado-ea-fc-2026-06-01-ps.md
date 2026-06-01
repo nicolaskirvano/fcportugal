@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:40:01.000Z
+pubDatetime: 2026-06-01T13:40:01.000Z
 title: "Liga Portugal no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Oskar Pietuszewski (86) — 95% de probabilidade de alta, a 67k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 27 em queda (média 3.16%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 18 cartas em alta contra 26 em queda (média 3.7%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **27 caíram**, com variação média de **3.16%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **18 subiram** e **26 caíram**, com variação média de **3.7%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Geovany Quenda (85) **+42.9%** · 🔴 **Maior baixa:** Anatoliy Trubin (88) **-28.3%**
 
@@ -38,12 +38,12 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | João Moutinho | 88 | Liga Portugal | 58k coins | +37.6% | +23.8% |
 | José Fonte | 85 | Liga Portugal | 40k coins | +28.2% | +3.2% |
 | Francisco Moura | 90 | Liga Portugal | 24k coins | +25% | +20.2% |
+| Quaresma | 85 | Liga Portugal | 126k coins | +20% | -25.9% |
 | Oskar Pietuszewski | 86 | Liga Portugal | 67k coins | +18.6% | +34% |
 | André Gomes | 80 | Liga Portugal | 27k coins | +18.5% | -9.2% |
 | Ousmane Diomande | 85 | Liga Portugal | 39k coins | +17.3% | -4.9% |
 | Nicolás Otamendi | 86 | Liga Portugal | 44k coins | +15.9% | +4.2% |
 | Gonçalo Inácio | 89 | Liga Portugal | 132k coins | +12.8% | -0.8% |
-| Richard Ríos | 88 | Liga Portugal | 355k coins | +12.7% | +46.1% |
 
 
 ### Análise das altas
@@ -61,7 +61,6 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | --- | --- | --- | --- | --- | --- |
 | Anatoliy Trubin | 88 | Liga Portugal | 172k coins | -28.3% | -28% |
 | Rodrigo Mora | 87 | Liga Portugal | 28k coins | -18.8% | -1.8% |
-| Quaresma | 85 | Liga Portugal | 106k coins | -14.5% | -31.6% |
 | António Silva | 87 | Liga Portugal | 35k coins | -10.3% | -9.1% |
 | Gabri Veiga | 81 | Liga Portugal | 28k coins | -3.4% | -6.7% |
 
@@ -72,7 +71,7 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Rodrigo Mora (87)** caiu **-18.8%** em 24h, a **28k coins** (faixa do dia: 25k–34k). Está -11% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 74% de probabilidade.
 
-- **Quaresma (85)** caiu **-14.5%** em 24h, a **106k coins** (faixa do dia: 80k–123k). Está -11% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **António Silva (87)** caiu **-10.3%** em 24h, a **35k coins** (faixa do dia: 34k–50k). Está -10% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -122,7 +121,7 @@ Anatoliy Trubin (88), -28.3% em 24h, a 172k coins.
 Pelo modelo FutQuant, Oskar Pietuszewski (86) — 95% de probabilidade de alta, a 67k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 27 em queda (média 3.16%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 18 cartas em alta contra 26 em queda (média 3.7%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
