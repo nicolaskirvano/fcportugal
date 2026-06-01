@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:40:01.000Z
+pubDatetime: 2026-06-01T01:40:02.000Z
 title: "Jogadores baratos de Liga Portugal no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Matheus Dias (87, Liga Portugal) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Yanis Begraoui (86, Liga Portugal) aparece como melhor custo-benefício, a 11k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Matheus Dias (87) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Yanis Begraoui (86) por apenas 11k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,11 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matheus Dias | 87 | CDM | Liga Portugal | 14k coins | -4.9% |
 | Yanis Begraoui | 86 | CAM | Liga Portugal | 11k coins | -64% |
 | Vangelis Pavlidis | 86 | ST | Liga Portugal | 11k coins | -19.6% |
 | Pedro Gonçalves | 86 | CAM | Liga Portugal | 12k coins | -60% |
 | Pizzi | 85 | RM | Liga Portugal | 14k coins | -30.8% |
+| William Gomes | 84 | RW | Liga Portugal | 11k coins | -21.4% |
 | Vangelis Pavlidis | 84 | ST | Liga Portugal | 11k coins | -62.7% |
 | João Carvalho | 84 | LM | Liga Portugal | 11k coins | -21.4% |
 | Larrazabal | 84 | RB | Liga Portugal | 11k coins | -63.3% |
@@ -46,8 +46,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 ## 📈 Destaques
 
-- **Matheus Dias (87, CDM)** da Liga Portugal, a apenas **14k coins**
-
 - **Yanis Begraoui (86, CAM)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Vangelis Pavlidis (86, ST)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
@@ -55,6 +53,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - **Pedro Gonçalves (86, CAM)** da Liga Portugal, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Pizzi (85, RM)** da Liga Portugal, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **William Gomes (84, RW)** da Liga Portugal, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -71,7 +71,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Matheus Dias (87, Liga Portugal) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Yanis Begraoui (86, Liga Portugal) aparece como melhor custo-benefício, a 11k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

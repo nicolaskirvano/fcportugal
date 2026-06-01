@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:40:01.000Z
+pubDatetime: 2026-06-01T01:40:02.000Z
 title: "Melhores investimentos em Liga Portugal no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Rodrigo Mora | 88 | Liga Portugal | 39k coins | +4% | +33.6% | 83% |
 | Ivan Cavaleiro | 85 | Liga Portugal | 38k coins | +15.4% | +27.1% | 5% |
-| Ricardo Carvalho | 89 | Liga Portugal | 91k coins | +27.3% | +22.2% | 50% |
+| Ricardo Carvalho | 89 | Liga Portugal | 92k coins | +9.5% | +15.7% | 50% |
 | Paulo Futre | 92 | Liga Portugal | 91k coins | +8.3% | +11.7% | 5% |
 
 
@@ -43,7 +43,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Ivan Cavaleiro (85)** — 38k coins, **+27.1% em 7 dias** (+15.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Ricardo Carvalho (89)** — 91k coins, **+22.2% em 7 dias** (+27.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ricardo Carvalho (89)** — 92k coins, **+15.7% em 7 dias** (+9.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 - **Paulo Futre (92)** — 91k coins, **+11.7% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (+2%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
