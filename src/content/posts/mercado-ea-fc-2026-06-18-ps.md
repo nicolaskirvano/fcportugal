@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:25:09.000Z
+pubDatetime: 2026-06-18T22:40:31.000Z
 title: "Liga Portugal no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,57 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Nélson Oliveira (86, Liga Portugal), com +57.1% em 24h, a 22k coins no Console (PS)."
+    a: "Nicolás Otamendi (86, Liga Portugal), com +11.1% em 24h, a 72k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Oskar Pietuszewski (86), -29.1% em 24h, a 39k coins."
+    a: "Ricardo Carvalho (88), -34.1% em 24h, a 22k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Oskar Pietuszewski (86) — 95% de probabilidade de alta, a 39k coins."
+    a: "Pelo modelo FutQuant, Oskar Pietuszewski (86) — 95% de probabilidade de alta, a 43k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 12 cartas em alta contra 16 em queda (média -0.01%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 13 cartas em alta contra 18 em queda (média -1.91%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado da Liga Portugal no PS apresenta um cenário de lateralidade consolidado, com 12 altas e 16 quedas registradas nas últimas 24 horas. A média geral de variação é de -0.01%, indicando que o volume de compra e venda está equilibrado e sem direcionamento forte de tendência para o segmento.
+O mercado da Liga Portugal em console PS segue um cenário predominantemente vendedor, com a maioria das cartas recuando nos últimos 24 horas, totalizando 13 altas contra 18 quedas e uma média negativa de -1.91%.
 
-> 🟢 **Maior alta:** Nélson Oliveira (86) **+57.1%** · 🔴 **Maior baixa:** Oskar Pietuszewski (86) **-29.1%**
+> 🟢 **Maior alta:** Nicolás Otamendi (86) **+11.1%** · 🔴 **Maior baixa:** Ricardo Carvalho (88) **-34.1%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nélson Oliveira | 86 | Liga Portugal | 22k coins | +57.1% | +57.1% |
-| Ricardo Horta | 90 | Liga Portugal | 34k coins | +22% | +60% |
-| Nicolás Otamendi | 86 | Liga Portugal | 72k coins | +19.2% | +45.2% |
-| João Moutinho | 88 | Liga Portugal | 100k coins | +8.5% | +72.8% |
-| Ricardo Carvalho | 89 | Liga Portugal | 84k coins | +8.4% | +27.3% |
-| José Fonte | 85 | Liga Portugal | 35k coins | +7.5% | +18.9% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 42k coins | +6.2% | +3.7% |
-| Jovane Cabral | 84 | Liga Portugal | 52k coins | +5% | +32.9% |
-| Alexander Bah | 86 | Liga Portugal | 96k coins | +4.4% | +30.6% |
-| Rodrigo Mora | 88 | Liga Portugal | 38k coins | +3.4% | +18% |
+| Nicolás Otamendi | 86 | Liga Portugal | 72k coins | +11.1% | +42.1% |
+| José Fonte | 85 | Liga Portugal | 30k coins | +10.4% | +12.1% |
+| João Moutinho | 88 | Liga Portugal | 104k coins | +10.1% | +74.4% |
+| Jovane Cabral | 84 | Liga Portugal | 44k coins | +9.4% | +31.2% |
+| Jesús Ramírez | 84 | Liga Portugal | 39k coins | +7.6% | -6.6% |
+| Trincão | 86 | Liga Portugal | 22k coins | +4.8% | -17.1% |
+| Santi García | 84 | Liga Portugal | 37k coins | +3.8% | +2.5% |
+| Dailon Livramento | 80 | Liga Portugal | 46k coins | +3.3% | -1.6% |
 
 
-Nélson Oliveira lidera as altas com impressionantes 57.1% em 24 horas, cotado a 22k coins, enquanto Ricardo Horta sobe 22% para 34k coins. Defensores como Otamendi (+19.2% a 72k) e Carvalho (+8.4% a 84k) também registraram valorização, embora a probabilidade de alta sustentada para Horta e Moutinho seja baixa, sugerindo movimento especulativo isolado.
+Nicolás Otamendi lidera as altas com 11.1% de ganho a 72k coins, seguido de perto por José Fonte com 10.4% a 30k coins e João Moutinho subindo 10.1% a 104k coins. Jovane Cabral e Jesús Ramírez também apresentam valorização relevante, com 9.4% e 7.6% respectivamente, indicando interesse pontual em defesas e meias.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Oskar Pietuszewski | 86 | Liga Portugal | 39k coins | -29.1% | -3.7% |
-| João Carvalho | 84 | Liga Portugal | 40k coins | -15.6% | -6.9% |
-| Geovany Quenda | 85 | Liga Portugal | 32k coins | -14.2% | -38.4% |
-| Richard Ríos | 87 | Liga Portugal | 309k coins | -14.2% | +9.6% |
-| Larrazabal | 84 | Liga Portugal | 46k coins | -12.1% | -8.6% |
-| Jan Bednarek | 84 | Liga Portugal | 44k coins | -10.6% | +0.6% |
-| Quaresma | 85 | Liga Portugal | 80k coins | -10.3% | +12.1% |
-| Eduardo Quaresma | 88 | Liga Portugal | 41k coins | -8.9% | +21.5% |
-| Florian Grillitsch | 84 | Liga Portugal | 45k coins | -7.1% | -3.7% |
-| Paulo Futre | 92 | Liga Portugal | 81k coins | -6.4% | -14.3% |
+| Ricardo Carvalho | 88 | Liga Portugal | 22k coins | -34.1% | -10.8% |
+| Oskar Pietuszewski | 86 | Liga Portugal | 43k coins | -27.7% | +6.2% |
+| Anatoliy Trubin | 88 | Liga Portugal | 168k coins | -19.6% | +5.7% |
+| António Silva | 87 | Liga Portugal | 41k coins | -18.8% | -9.1% |
+| João Carvalho | 84 | Liga Portugal | 37k coins | -18.2% | -9.8% |
+| William Gomes | 84 | Liga Portugal | 40k coins | -14.8% | -8.5% |
+| Ousmane Diomande | 85 | Liga Portugal | 46k coins | -14.2% | +16.4% |
+| Richard Ríos | 87 | Liga Portugal | 270k coins | -14.1% | +1.8% |
+| Larrazabal | 84 | Liga Portugal | 40k coins | -12.1% | -9.1% |
+| Jan Bednarek | 84 | Liga Portugal | 44k coins | -6.3% | +5.4% |
 
 
-Oskar Pietuszewiski desponta como a maior queda com -29.1%, atingindo 39k coins, seguido por João Carvalho (-15.6% a 40k) e Geovany Quenda (-14.2% a 32k). Richard Ríos também recua 14.2% para 309k coins, demonstrando correção significativa em ativos de maior valor, enquanto nomes como Larrazabal e Quaresma ajustam seus preços para baixo.
+Ricardo Carvalho despencou brutalmente 34.1% a 22k coins, enquanto Oskar Pietuszewski caiu 27.7% a 43k coins e Anatoliy Trubin recuou 19.6% a 168k coins. A queda generalizada afasta Antonio Silva, João Carvalho e Richard Ríos, que perderam entre 14% e 18% de valor, refletindo a pressão de venda no segmento.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,17 +72,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Oskar Pietuszewski | 86 | 39k coins | 45k coins | 95% |
-| Alexander Bah | 86 | 96k coins | 114k coins | 95% |
-| Anatoliy Trubin | 88 | 180k coins | 242k coins | 95% |
-| Geovany Quenda | 85 | 32k coins | 36k coins | 93% |
-| João Carvalho | 84 | 40k coins | 46k coins | 93% |
-| Rodrigo Mora | 88 | 38k coins | 42k coins | 83% |
+| Oskar Pietuszewski | 86 | 43k coins | 50k coins | 95% |
+| Alexander Bah | 86 | 90k coins | 106k coins | 95% |
+| Anatoliy Trubin | 88 | 168k coins | 226k coins | 95% |
+| João Carvalho | 84 | 37k coins | 42k coins | 93% |
+| Rodrigo Mora | 88 | 36k coins | 40k coins | 83% |
 | Jan Bednarek | 84 | 44k coins | 48k coins | 81% |
-| Jesús Ramírez | 84 | 37k coins | 40k coins | 74% |
+| Santi García | 84 | 37k coins | 40k coins | 81% |
+| Jesús Ramírez | 84 | 39k coins | 41k coins | 74% |
 
 
-O modelo projeta alta provável para Oskar Pietuszewski (95% de chance a 39k) e Alexander Bah (95% a 96k), além de Anatoliy Trubin com 95% de probabilidade a 180k coins. Outros ativos com forte indicação de recuperação incluem Geovany Quenda (93% a 32k) e João Carvalho (93% a 40k), que caíram hoje mas têm alta probabilidade de reversion.
+O modelo projeta alta para Oskar Pietuszewski, Alexander Bah e Anatoliy Trubin, todos com probabilidade de 95%, além de João Carvalho com 93% e Rodrigo Mora com 83%. Santi García e Jesús Ramírez também aparecem na lista de potenciais valorizações com probabilidades acima de 70%.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -93,18 +91,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Paulo Futre | 92 | 81k coins | -15.6% |
-| João Moutinho | 88 | 100k coins | -29.1% |
-| Larrazabal | 84 | 46k coins | -24.1% |
-| Ricardo Horta | 90 | 34k coins | -15.6% |
-| Ivan Cavaleiro | 85 | 19k coins | -21.4% |
-| Emmanuel Maviram | 84 | 48k coins | -12.6% |
-| Trincão | 86 | 19k coins | -10.3% |
+| João Moutinho | 88 | 104k coins | -29.1% |
+| António Silva | 87 | 41k coins | -17.5% |
+| Larrazabal | 84 | 40k coins | -24.1% |
+| Paulo Futre | 92 | 94k coins | -15.6% |
+| Emmanuel Maviram | 84 | 47k coins | -12.6% |
+| Trincão | 86 | 22k coins | -10.3% |
 | Yanis Begraoui | 86 | 30k coins | -10.1% |
+| Vangelis Pavlidis | 86 | 30k coins | -8% |
 
 
 ## 🎯 Conclusão do dia
-Recomenda-se comprar os ativos com alta probabilidade de alta do modelo que sofreram quedas hoje, como Pietuszewski e Quenda, visando uma reversion de curto prazo. Evite perseguir as altas de baixa probabilidade como Horta e segure os ativos estáveis até que o mercado defina uma nova direção clara além da lateralidade atual.
+Com o clima vendedor predominante e quedas expressivas em cartas caras, o momento é de cautela e oportunidade de compra em ativos com alta probabilidade de recuperação, como Trubin e Pietuszewski. Evite segurar posições em cartas sem suporte de demanda e considere entrar nos ativos indicados pelo modelo de previsão.
 
 
 ## ⚙️ A engine por tras deste post
@@ -114,16 +112,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Nélson Oliveira (86, Liga Portugal), com +57.1% em 24h, a 22k coins no Console (PS).
+Nicolás Otamendi (86, Liga Portugal), com +11.1% em 24h, a 72k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Oskar Pietuszewski (86), -29.1% em 24h, a 39k coins.
+Ricardo Carvalho (88), -34.1% em 24h, a 22k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Oskar Pietuszewski (86) — 95% de probabilidade de alta, a 39k coins.
+Pelo modelo FutQuant, Oskar Pietuszewski (86) — 95% de probabilidade de alta, a 43k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 12 cartas em alta contra 16 em queda (média -0.01%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 13 cartas em alta contra 18 em queda (média -1.91%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
