@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:38:00.000Z
+pubDatetime: 2026-06-19T01:41:57.000Z
 title: "Liga Portugal no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Ousmane Diomande (85, Liga Portugal), com +48.9% em 24h, a 48k coins no PC."
+    a: "Ousmane Diomande (85, Liga Portugal), com +52.5% em 24h, a 46k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Trincão (86), -39.6% em 24h, a 22k coins."
+    a: "Trincão (86), -45.3% em 24h, a 20k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 14 cartas em alta contra 14 em queda (média 2.75%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 18 cartas em alta contra 15 em queda (média 3.69%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado da Liga Portugal em PC apresenta hoje um cenário fascinante de clima comprador, onde a pressão de compra superou claramente a oferta, resultando em uma divisão equilibrada mas tendenciosa de 14 altas e 14 quedas, com uma média de variação positiva de 2.75% nas últimas 24 horas. Este ambiente sugere que os traders estão ativos e dispostos a pagar prêmios por cartas de alta demanda, especialmente aquelas com probabilidades de alta significativas, criando oportunidades tangíveis para quem souber identificar os pontos de entrada corretos. A volatilidade é o nome do jogo, e a presença de movimentos extremos em ambos os lados indica que o mercado está reagindo fortemente a eventos in-game ou à escassez percebida de certos ativos, exigindo uma leitura precisa dos indicadores de probabilidade para não ser surpreendido por reversões brusas. O tom do dia é de cautela otimista, onde cada decisão de compra ou venda deve ser respaldada pela análise rigorosa dos percentuais de variação e das probabilidades associadas, evitando-se apostas cegas em tendências de curto prazo sem fundamentos sólidos. Compreender que a média positiva de 2.75% é apenas um agregador e que a realidade micro de cada carta varia drasticamente é crucial para a sobrevivência do trader nesta sessão específica do Ultimate Team.
+O mercado da Liga Portugal em PC exibe um viés claramente comprador nesta terça-feira, 18 de junho de 2026, com um balanço assimétrico de 18 altas contra 15 quedas, impulsionando uma média de valorização de 3.69% em apenas 24 horas. Esse cenário sugere uma liquidez apertada no lado dos vendedores, forçando os traders a ajustar as metas de compra para cima, especialmente em ativos de médio e alto valor que estão sendo consolidados por squads de competição. O tom do dia é de cautela otimista, onde a probabilidade de alta em ativos específicos como João Moutinho e Vangelis Pavlidis indica uma forte retenção de estoque por parte dos colecionadores que antecipam eventos futuros ou escassez de supply. Traders experientes devem observar que a volatilidade está concentrada em cartas com ratings entre 84 e 90, criando oportunidades de arbitragem rápida para quem monitorar as flutuações de preço a cada ciclo de atualização do mercado. A dinâmica atual favorece aqueles que conseguem identificar os pontos de inflexão antes que a massa de jogadores realize suas compras finais para o fim de semana.
 
-> 🟢 **Maior alta:** Ousmane Diomande (85) **+48.9%** · 🔴 **Maior baixa:** Trincão (86) **-39.6%**
+> 🟢 **Maior alta:** Ousmane Diomande (85) **+52.5%** · 🔴 **Maior baixa:** Trincão (86) **-45.3%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ousmane Diomande | 85 | Liga Portugal | 48k coins | +48.9% | +37.3% |
-| João Moutinho | 88 | Liga Portugal | 85k coins | +41.7% | +51.8% |
-| Ricardo Horta | 90 | Liga Portugal | 45k coins | +26.8% | +68.2% |
-| Borja Sainz | 83 | Liga Portugal | 42k coins | +23.2% | +0.6% |
+| Ousmane Diomande | 85 | Liga Portugal | 46k coins | +52.5% | +31% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 28k coins | +44.9% | +22.8% |
+| João Moutinho | 88 | Liga Portugal | 85k coins | +41.7% | +41.7% |
+| Ricardo Horta | 90 | Liga Portugal | 45k coins | +26.8% | +66.7% |
+| António Silva | 87 | Liga Portugal | 65k coins | +24.4% | +21.7% |
+| João Carvalho | 84 | Liga Portugal | 47k coins | +18.9% | +24.3% |
 | Francisco Moura | 90 | Liga Portugal | 40k coins | +17.6% | +77.8% |
+| Vangelis Pavlidis | 90 | Liga Portugal | 47k coins | +16% | +56.7% |
 | Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +13.8% | 0% |
-| João Carvalho | 84 | Liga Portugal | 48k coins | +13.1% | +25% |
-| Vangelis Pavlidis | 90 | Liga Portugal | 47k coins | +9.9% | +72.5% |
-| Santi García | 84 | Liga Portugal | 50k coins | +8.9% | +29.8% |
-| Eduardo Quaresma | 88 | Liga Portugal | 43k coins | +7.5% | +14.7% |
+| Santi García | 84 | Liga Portugal | 50k coins | +12.4% | +32.5% |
 
 
-A liderança absoluta das altas pertence a Ousmane Diomande, cuja carta de 85 rating disparou impressionantes 48.9% em 24 horas, atingindo um preço de 48k coins, um movimento robusto respaldado por uma probabilidade de alta de 56% que confirma a força da demanda sustentada e não apenas especulação de curto prazo.紧随其后 é João Moutinho, o veterano de 88 rating, que registrou uma alta de 41.7% para chegar a 85k coins, um salto significativo impulsionado por uma probabilidade de alta altíssima de 75%, sugerindo que o mercado está prestando muita atenção à sua utilidade em squads específicos ou promoções ativas que valorizam sua posição e nacionalidade. Ricardo Horta, com seu rating de 90, também não ficou para trás, subindo 26.8% para 45k coins, embora sua probabilidade de alta de apenas 28% indique que este movimento pode ser mais volátil e sujeito a correções rápidas se a pressão de compra não se manter constante. Borja Sainz, uma carta de 83 rating, teve um desempenho sólido com alta de 23.2% para 42k coins, apoiado por uma probabilidade de alta de 42%, o que o torna um ativo interessante para traders que buscam carteis de entrada mais acessíveis com potencial de crescimento moderado e risco controlado. Francisco Moura, outro atacante de 90 rating, completou o top 5 das altas com um aumento de 17.6% para 40k coins, mas sua baixa probabilidade de alta de 23% serve como um alerta para traders mais conservadores, indicando que a sustentabilidade deste preço pode ser frágil a menos que novos gatilhos de demanda surjam.
+O destaque absoluto das altas é Ousmane Diomande, que registrou um impressionante aumento de 52.5% em 24 horas, atingindo 46k coins, com uma probabilidade de alta projetada em 56%, indicando que o mercado ainda não esgotou a força da compra devido à sua utilidade defensiva em times de alta competitividade.紧随其后, Ivan Cavaleiro subiu 44.9% para 28k coins, com 47% de chance de continuar subindo, refletindo uma demanda específica por médios ofensivos versáteis que estão em falta nas rotinas de pacotes do dia. João Moutinho, apesar de ser um ativo de alto valor a 85k coins, apresentou uma valorização de 41.7% e uma probabilidade de alta de 75%, o que sinaliza uma forte confiança dos investidores de longo prazo na manutenção do seu piso de preço, tornando-o um ativo seguro para segurar em portfólios diversificados. Ricardo Horta, com 26.8% de alta para 45k coins e apenas 28% de probabilidade de continuar subindo, mostra sinais de saturação imediata, sugerindo que a correção pode estar próxima após este pico de demanda pontual. Por fim, António Silva subiu 24.4% para 65k coins com 56% de probabilidade de alta, consolidando-se como uma opção defensiva premium onde o supply está sendo absorvido rapidamente por squads que buscam upgrades para seus zagueiros titulares.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Trincão | 86 | Liga Portugal | 22k coins | -39.6% | -15.9% |
+| Trincão | 86 | Liga Portugal | 20k coins | -45.3% | -24.3% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 34k coins | -24.7% | -11.3% |
 | Ricardo Carvalho | 89 | Liga Portugal | 80k coins | -23.8% | +42.9% |
-| Rodrigo Mora | 88 | Liga Portugal | 34k coins | -20.3% | -7.4% |
-| Emmanuel Maviram | 84 | Liga Portugal | 36k coins | -16.3% | +2.9% |
-| Alexander Bah | 86 | Liga Portugal | 150k coins | -15.6% | +6.3% |
-| Larrazabal | 84 | Liga Portugal | 46k coins | -13.6% | +1.1% |
-| Rodrigo Mora | 87 | Liga Portugal | 22k coins | -13.5% | -35.7% |
-| Quaresma | 85 | Liga Portugal | 80k coins | -13.1% | +1.9% |
-| Richard Ríos | 87 | Liga Portugal | 400k coins | -7.2% | -8.5% |
-| Matheus Dias | 87 | Liga Portugal | 30k coins | -4.6% | +93.8% |
+| Emmanuel Maviram | 84 | Liga Portugal | 34k coins | -19.2% | -6.1% |
+| Larrazabal | 84 | Liga Portugal | 44k coins | -16.4% | -2.2% |
+| Rodrigo Mora | 88 | Liga Portugal | 33k coins | -16.2% | -9.5% |
+| Jovane Cabral | 84 | Liga Portugal | 36k coins | -13.4% | -10.1% |
+| Richard Ríos | 87 | Liga Portugal | 389k coins | -9.5% | -10.8% |
+| Borja Sainz | 83 | Liga Portugal | 40k coins | -7.1% | -6.5% |
+| Matheus Dias | 87 | Liga Portugal | 30k coins | -6.9% | +86.2% |
 
 
-Do outro lado do espectro, Trincão lidera as quedas com uma queda drástica de 39.6%, caindo para 22k coins, um movimento alarmante dado que sua probabilidade de alta é de apenas 39%, sugerindo uma perda de confiança imediata no ativo ou uma saturação de oferta que pode continuar a pressionar os preços para baixo nos próximos ciclos de mercado. Ricardo Carvalho, uma carta de alto rating de 89, sofreu uma queda de 23.8% para 80k coins, mas a probabilidade de alta de 69% indica que esta pode ser uma oportunidade de compra estratégica, pois o mercado parece estar sobre-reagindo negativamente a fatores temporários que não refletem o valor intrínseco da carta a longo prazo. Rodrigo Mora, em sua versão de 88 rating, caiu 20.3% para 34k coins, e com uma probabilidade de alta muito baixa de 12%, este ativo parece estar em uma tendência de baixa estrutural, representando um risco significativo para qualquer trader que considere segurar esta carta na esperança de uma recuperação rápida. Emmanuel Maviram, de 84 rating, registrou uma queda de 16.3% para 36k coins, mas sua probabilidade de alta de 53% sugere que o mercado pode estar encontrando um suporte neste nível, tornando-o um candidato potencial para uma estratégia de compra em fundo se a volatilidade se acalmar. Alexander Bah, apesar de ser uma carta de alto valor com 86 rating e preço de 150k coins, caiu 15.6%, e sua probabilidade de alta extremamente baixa de 10% é um sinal claro de que o ativo está enfrentando uma forte pressão vendedora que pode continuar a erodir seu valor, aconselhando cautela extrema na exposição a esta carta.
+Na frente das baixas, Trincão lidera a queda com uma desvalorização brutal de 45.3% para 20k coins, uma queda alarmante que pode ser atribuída a uma oferta massiva de sellers após o pico de uso em eventos anteriores, com apenas 39% de chance de recuperação imediata. Rodrigo Zalazar também sofreu uma queda significativa de 24.7% para 34k coins, com baixa probabilidade de alta de 26%, indicando que o ativo está em uma tendência de baixa estrutural e deve ser evitado para compras a menos que haja uma notícia específica revertendo o sentimento. Ricardo Carvalho, um ativo de alto risco a 80k coins, caiu 23.8% e possui uma probabilidade de alta de 69%, o que cria um cenário contraditório onde o preço baixo atrai compradores, mas a volatilidade recente sugere cautela extrema para não comprar na faca caindo. Emmanuel Maviram despencou 19.2% para 34k coins, com 53% de chance de alta, o que pode representar uma oportunidade de compra de contramão para traders agressivos que acreditam na estabilidade do seu rating de 84. Larrazabal completou o grupo de quedas relevantes com -16.4% para 44k coins e 50% de probabilidade de alta, equilibrando a balança de riscos e oportunidades para quem busca ativos de meio campo com potencial de recuperação técnica nos próximos ciclos.
 
 
 ## 🎯 Conclusão do dia
-A estratégia ideal para hoje foca em aproveitar a força das altas sustentadas por probabilidades elevadas, priorizando a compra de João Moutinho e Ousmane Diomande como ativos de curto prazo para revenda rápida, enquanto se evita expor capital a Ricardo Horta devido à sua baixa probabilidade de continuidade. Recomenda-se fortemente a entrada em Ricardo Carvalho e Emmanuel Maviram, pois suas quedas recentes parecem ser correções temporárias em ativos com fortes indicadores de recuperação, oferecendo um risco-recompensa favorável para traders que possam segurar por algumas horas até a estabilização dos preços. É crucial evitar completamente Rodrigo Mora (88) e Alexander Bah, pois suas probabilidades de alta de 12% e 10% respectivamente indicam tendências de baixa fortes que podem resultar em perdas significativas se os traders tentarem adivinhar o fundo do mercado sem confirmação de virada. Trincão também deve ser evitado por enquanto, já que sua alta probabilidade de continuação da queda sugere que o suporte de preço ainda não foi estabelecido, tornando-o um ativo de alto risco para compra imediata. O timing é essencial; compre nos momentos de maior pânico nas baixas probáveis de recuperação e venda nas picos de euforia das altas com suporte de probabilidade, mantendo sempre uma reserva de coins para explorar oportunidades emergentes que possam surgir da volatilidade residual do dia.
+A estratégia ideal para hoje é comprar os ativos com alta probabilidade de valorização e piso consolidado, como João Moutinho e António Silva, segurando-os por pelo menos 48 horas para capturar os ganhos de longo prazo em um mercado de clima comprador. É recomendado evitar a compra de Trincão e Rodrigo Zalazar neste momento, pois as quedas acentuadas e as baixas probabilidades de alta indicam que o fundo ainda não foi estabelecido, arriscando capital desnecessário em ativos em livre queda. Traders de curto prazo podem tentar lucrar com a volatilidade de Ivan Cavaleiro e Ousmane Diomande, comprando em pequenos picos de oferta e vendendo rapidamente antes que a probabilidade de alta se esgote, aproveitando a liquidez momentânea. Mantenha uma carteira diversificada entre defensores premium e médios versáteis, pois a média de 3.69% de alta sugere que o mercado como um todo está em expansão, beneficiando quem tem paciência para segurar ativos de qualidade. Finalmente, monitore de perto as atualizações de preços de Ricardo Horta e Francisco Moura, pois suas probabilidades de alta mais baixas indicam que podem ser bons candidatos para venda se o preço subir um pouco mais, travando lucros em um ambiente de incerteza relativa.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Ousmane Diomande (85, Liga Portugal), com +48.9% em 24h, a 48k coins no PC.
+Ousmane Diomande (85, Liga Portugal), com +52.5% em 24h, a 46k coins no PC.
 
 **E a maior queda do dia?**  
-Trincão (86), -39.6% em 24h, a 22k coins.
+Trincão (86), -45.3% em 24h, a 20k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 14 cartas em alta contra 14 em queda (média 2.75%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 18 cartas em alta contra 15 em queda (média 3.69%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
