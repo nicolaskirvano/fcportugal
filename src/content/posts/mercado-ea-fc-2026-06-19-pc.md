@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:44:14.000Z
+pubDatetime: 2026-06-19T19:41:48.000Z
 title: "Liga Portugal no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Ivan Cavaleiro (85, Liga Portugal), com +53.5% em 24h, a 32k coins no PC."
+    a: "Geovany Quenda (85, Liga Portugal), com +60% em 24h, a 62k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Richard Ríos (87), -17.4% em 24h, a 361k coins."
+    a: "Gonçalo Inácio (89), -25% em 24h, a 146k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 18 cartas em alta contra 9 em queda (média 8.71%)."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 12 cartas em alta contra 17 em queda (média 1.59%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de Liga Portugal em PC apresenta um cenário extremamente aquecido para o dia 19 de junho de 2026, onde a euforia compradora domina completamente os indicadores técnicos e sentimentais. Com um balanço agressivo de 18 altas contra apenas 9 quedas no último ciclo de 24 horas, a média de variação positiva atingiu um robusto 8.71%, sinalizando uma liquidez forte e uma disposição clara dos traders para assumir riscos em ativos de médio e alto valor. Este ambiente de otimismo generalizado cria uma janela de oportunidade para quem sabe ler as probabilidades subjacentes, pois nem todo ativo que sobe está tecnicamente saudável para uma compra imediata, exigindo uma leitura atenta sobre a sustentabilidade desses ganhos. A volatilidade elevada serve como termômetro de que o mercado está reagindo a notícias ou eventos de squad que ainda não foram totalmente precificados, mas a correção é iminente para os ativos que esticaram demais seus fundamentos. Portanto, a estratégia do dia deve focar em identificar quais desses movimentos são impulsivos e quais representam uma reavaliação estrutural do valor dos jogadores na liga portuguesa.
+O mercado da Liga Portugal em PC apresenta um cenário de aquecimento significativo para o dia 19 de junho de 2026, onde a pressão de compra se sobrepõe claramente à oferta, resultando em uma média de alta de 1.59% nas últimas 24 horas. Observamos um desequilíbrio favorável aos vendedores no curto prazo, com 12 movimentos de alta destacando-se contra apenas 17 quedas, indicando que os traders estão dispostos a pagar um prêmio por ativos específicos, provavelmente em preparação para eventos sazonais ou metagames emergentes. O sentimento geral é de cautela otimista, onde a volatilidade não é aleatória, mas sim direcionada por demandas específicas de times competitivos que estão ajustando suas formações para os novos desafios do patch atual. Traders experientes devem estar atentos à liquidez, pois volumes concentrados em poucos jogadores podem criar bolhas locais que se expandem rapidamente se não houver correção imediata. É fundamental analisar a probabilidade de alta associada a cada ativo para distinguir entre movimentos sustentados por fundamentos de jogo e picos especulativos de curta duração.
 
-> 🟢 **Maior alta:** Ivan Cavaleiro (85) **+53.5%** · 🔴 **Maior baixa:** Richard Ríos (87) **-17.4%**
+> 🟢 **Maior alta:** Geovany Quenda (85) **+60%** · 🔴 **Maior baixa:** Gonçalo Inácio (89) **-25%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ivan Cavaleiro | 85 | Liga Portugal | 32k coins | +53.5% | +65% |
-| António Silva | 87 | Liga Portugal | 56k coins | +39.1% | +41.8% |
-| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +33.9% | +8.5% |
-| Vangelis Pavlidis | 90 | Liga Portugal | 50k coins | +26.8% | +103.1% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +22.7% | +25.8% |
-| João Carvalho | 84 | Liga Portugal | 45k coins | +22.4% | +5.9% |
-| Jovane Cabral | 84 | Liga Portugal | 42k coins | +20.4% | +7.5% |
-| Ricardo Carvalho | 89 | Liga Portugal | 60k coins | +16.7% | +87.5% |
-| Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +13.8% | 0% |
-| Oskar Pietuszewski | 86 | Liga Portugal | 98k coins | +10.7% | +37.8% |
+| Geovany Quenda | 85 | Liga Portugal | 62k coins | +60% | -17.3% |
+| Florian Grillitsch | 84 | Liga Portugal | 42k coins | +50% | +13.5% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 28k coins | +29.2% | +43.8% |
+| António Silva | 87 | Liga Portugal | 52k coins | +28.4% | +13% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 48k coins | +27.4% | +24.2% |
+| Jan Bednarek | 84 | Liga Portugal | 48k coins | +26.7% | +1.6% |
+| Rodrigo Mora | 87 | Liga Portugal | 27k coins | +21.1% | +16% |
+| Ricardo Carvalho | 89 | Liga Portugal | 92k coins | +15.6% | +49.2% |
+| Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +13.8% | +6.9% |
+| Eduardo Quaresma | 88 | Liga Portugal | 48k coins | +11.7% | +40.4% |
 
 
-Entre os principais motores de alta, Ivan Cavaleiro lidera o ranking com um impressionante aumento de 53.5% em 24 horas, posicionando seu preço em 32 mil coins, embora sua probabilidade de continuidade seja moderada de 47%, sugerindo que pode ser um alvo para venda em curto prazo. Seguido de perto por António Silva, que registrou alta de 39.1% atingindo 56 mil coins, com uma probabilidade de alta de 56% que indica um momentum mais sustentável, tornando-o interessante para swing trades de alguns dias. Jesús Ramírez também chama a atenção com 33.9% de valorização, cotado em 42 mil coins, e sua probabilidade de alta de 50% coloca-o em um ponto de equilíbrio onde traders conservadores devem aguardar confirmação de volume antes de entrar. Vangelis Pavlidis, apesar de ter subido apenas 26.8% para 50 mil coins, apresenta a maior probabilidade de alta do grupo com 73%, o que o torna o ativo mais promissor para compras agressivas com horizonte de médio prazo, dada a força técnica do seu gráfico. Por outro lado, Rodrigo Zalazar sobe 22.7% para 50 mil coins, mas sua baixa probabilidade de alta de 26% alerta fortemente para uma possível correção imediata, servindo como exemplo clássico de ativo sobrecomprado que deve ser evitado na compra ou vendido se já estiver em carteira.
+Geovany Quenda lidera as altas com um impressionante aumento de 60% em 24 horas, atingindo 62k coins, impulsionado por uma probabilidade de alta de 52% que sugere sustentação técnica forte no curto prazo. Florian Grillitsch segue com alta de 50% para 42k coins, embora sua probabilidade de alta de 33% indique que este movimento pode ser mais frágil e sujeito a correções rápidas se não houver volume de compra constante. Ivan Cavaleiro sobe 29.2% para 28k coins, com uma probabilidade de alta de 47%, tornando-o um ativo interessante para swing trades rápidos, aproveitando a inércia do mercado antes de possíveis consolidações. António Silva, com rating de 87, registra alta de 28.4% para 52k coins e uma robusta probabilidade de alta de 56%, o que o torna um dos ativos mais seguros para acumulação, sugerindo demanda consistente de times que priorizam defesa sólida. Rodrigo Zalazar aumenta 27.4% para 48k coins, mas sua baixa probabilidade de alta de 26% alerta para a possibilidade de um topo local, recomendando cautela na entrada de novos capitais neste ativo específico.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Richard Ríos | 87 | Liga Portugal | 361k coins | -17.4% | -17.2% |
-| Richard Ríos | 88 | Liga Portugal | 214k coins | -12% | +35.8% |
-| Paulo Futre | 92 | Liga Portugal | 103k coins | -10.4% | -17.6% |
-| Matheus Dias | 87 | Liga Portugal | 29k coins | -10.1% | +96.6% |
-| William Gomes | 84 | Liga Portugal | 38k coins | -9.6% | +7.1% |
-| Alexander Bah | 86 | Liga Portugal | 142k coins | -7.8% | +10.9% |
-| Geovany Quenda | 85 | Liga Portugal | 37k coins | -5.1% | -3.3% |
-| José Fonte | 85 | Liga Portugal | 67k coins | -3.6% | -4.3% |
+| Gonçalo Inácio | 89 | Liga Portugal | 146k coins | -25% | -23.9% |
+| Richard Ríos | 88 | Liga Portugal | 220k coins | -19.6% | +24.1% |
+| Matheus Dias | 87 | Liga Portugal | 26k coins | -17.8% | +76.7% |
+| Francisco Moura | 90 | Liga Portugal | 33k coins | -15.4% | +21.1% |
+| Richard Ríos | 87 | Liga Portugal | 339k coins | -15% | -22.2% |
+| William Gomes | 84 | Liga Portugal | 34k coins | -14.4% | +2.1% |
+| Ricardo Horta | 90 | Liga Portugal | 42k coins | -11.1% | +40.4% |
+| Vangelis Pavlidis | 90 | Liga Portugal | 47k coins | -9.6% | +73.5% |
+| Quaresma | 89 | Liga Portugal | 285k coins | -9.2% | -7.1% |
+| Alexander Bah | 86 | Liga Portugal | 141k coins | -8.4% | +10.2% |
 
 
-Na ponta oposta, Richard Ríos (versão 87) lidera as quedas com uma queda drástica de 17.4%, caindo para 361 mil coins, e sua probabilidade de alta de apenas 18% indica um colapso de confiança que pode continuar em queda livre, representando um risco altíssimo para compradores de fundo. Sua contraparte, Richard Ríos (88), também despenca 12% para 214 mil coins, com probabilidade de alta de 25%, reforçando a tese de que toda a família de cards desse jogador está em desvalorização acentuada devido a fatores externos ou falta de demanda. Paulo Futre, o icônico 92, recua 10.4% para 103 mil coins, e embora tenha uma probabilidade de alta de 42%, a queda em ativos de legado geralmente sinaliza redistribuição de capital para ativos mais líquidos e menos arriscados no momento. Matheus Dias surpreende com uma queda de 10.1% para 29 mil coins, mas sua alta probabilidade de alta de 77% sugere que esta é uma correção saudável e uma oportunidade de compra de longo prazo para traders com paciência. William Gomes cai 9.6% para 38 mil coins com probabilidade de alta de 30%, indicando fraqueza estrutural que deve ser evitada, enquanto Alexander Bah, com queda de 7.8% para 142 mil coins e probabilidade de alta de apenas 10%, mostra sinais de exaustão de compradores que devem ser observados com extrema cautela.
+Gonçalo Inácio despencou 25% em 24 horas, caindo para 146k coins, com uma probabilidade de alta de apenas 16%, o que sinaliza uma queda fundamental ou perda de relevância no meta atual, criando um risco elevado de continuação da baixa. Richard Ríos (89) caiu 19.6% para 220k coins, e apesar de ter uma probabilidade de alta de 25%, a magnitude da queda sugere que grandes investidores estão desfazendo posições, possivelmente em antecipação a eventos de fim de temporada. Matheus Dias sofreu uma queda de 17.8% para 26k coins, mas sua alta probabilidade de alta de 77% indica que esta pode ser uma oportunidade de compra agressiva, pois o ativo está drasticamente desvalorizado em relação à sua utilidade real no jogo. Francisco Moura, com rating de 90, caiu 15.4% para 33k coins com probabilidade de alta de 23%, refletindo uma perda de confiança do mercado em atacantes de alto custo que não entregam performance consistente nos testes de comunidade. A queda de 15% de Richard Ríos (87) para 339k coins, com probabilidade de alta de 18%, reforça a tendência de fuga de capitais de cards premium que não conseguem justificar seu preço elevado diante de alternativas mais baratas e eficientes.
 
 
 ## 🎯 O que fazer hoje
-A estratégia vencedora para hoje deve priorizar a compra agressiva de Vangelis Pavlidis e António Silva, aproveitando suas altas probabilidades de continuidade (73% e 56%, respectivamente) enquanto o sentimento de mercado permanece aquecido, mas com stop-loss ajustado para proteger contra reversões rápidas. Deve-se evitar completamente a compra de Ivan Cavaleiro e Rodrigo Zalazar neste momento, pois apesar das altas percentuais, suas baixas probabilidades de continuidade sugerem que estão no topo de um movimento especulativo e pronto para corrigir. Uma oportunidade de ouro existe na compra de Matheus Dias, utilizando sua queda de 10.1% como ponto de entrada, dado que a alta probabilidade de alta de 77% indica que o preço atual é uma anomalia temporária em um ativo forte. Traders devem monitorar de perto Richard Ríos, mas apenas para shortar ou evitar, já que a queda dupla em suas versões indica uma saída massiva de capital que pode ainda se aprofundar. O timing ideal é agir nas primeiras horas do ciclo para capturar a volatilidade inicial, mas manter a disciplina para vender os ativos de baixa probabilidade assim que a euforia do dia começar a esfriar, garantindo lucros no bolso e não no papel.
+A estratégia ideal para hoje é focar na compra de ativos com alta probabilidade de recuperação e utilidade comprovada, como Matheus Dias (77% prob. alta) e António Silva (56% prob. alta), que oferecem bom custo-benefício para times competitivos. Traders de curto prazo devem considerar Geovany Quenda para lucros rápidos, mas devem estabelecer stops de perda rigorosos devido à volatilidade extrema de 60% em um único dia. É crucial evitar a venda de ativos como Florian Grillitsch e Rodrigo Zalazar até que haja confirmação de reversão, pois suas probabilidades de alta são insuficientes para garantir segurança imediata, mas ainda podem oferecer ganhos marginais. Posições em Gonçalo Inácio e Richard Ríos (89) devem ser reduzidas ou liquidadas, já que as probabilidades de alta baixas indicam que o suporte técnico foi rompido e a queda pode se aprofundar. Mantenha uma reserva de liquidez significativa para aproveitar oportunidades de compra em queda livre, especialmente em cards de rating 85+ que apresentem probabilidade de alta superior a 50%, equilibrando risco e retorno no mercado aquecido da Liga Portugal.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -75,13 +77,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Ivan Cavaleiro (85, Liga Portugal), com +53.5% em 24h, a 32k coins no PC.
+Geovany Quenda (85, Liga Portugal), com +60% em 24h, a 62k coins no PC.
 
 **E a maior queda do dia?**  
-Richard Ríos (87), -17.4% em 24h, a 361k coins.
+Gonçalo Inácio (89), -25% em 24h, a 146k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 18 cartas em alta contra 9 em queda (média 8.71%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 12 cartas em alta contra 17 em queda (média 1.59%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
