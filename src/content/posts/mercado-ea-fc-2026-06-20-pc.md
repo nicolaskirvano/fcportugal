@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:41:27.000Z
+pubDatetime: 2026-06-20T19:41:50.000Z
 title: "Liga Portugal no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Pablo Felipe (80, Liga Portugal), com +53.4% em 24h, a 44k coins no PC."
+    a: "Santi García (84, Liga Portugal), com +39.6% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Rodrigo Zalazar (84), -35.5% em 24h, a 32k coins."
+    a: "Rodrigo Zalazar (84), -36.1% em 24h, a 38k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 15 cartas em alta contra 17 em queda (média 1.31%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 3.79%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O cenário do mercado de EA FC Ultimate Team para o segmento Liga Portugal em PC nesta data de 20 de junho de 2026 apresenta uma dinâmica de consolidação lateral, caracterizada pela ausência de um direcionamento macroeconômico claro que possa ditar tendências sustentadas de alta ou baixa generalizadas. Os indicadores de sentimento revelam um equilíbrio tênue entre forças compradoras e vendedoras, com um total de 15 registros de altas e 17 de quedas no período analisado, resultando em uma variação média modesta de apenas 1,31% nas últimas 24 horas. Essa volatilidade controlada sugere que os traders devem adotar uma postura seletiva e cirúrgica, focando em oportunidades pontuais geradas por flutuações específicas de demanda de squads e rotatividade de itens em vez de tentar prever movimentos de mercado em larga escala. A falta de eventos catalisadores imediatos ou anúncios de promoções massivas mantém a liquidez estável, permitindo que ativos mal precificados se ajustem rapidamente às novas realidades de oferta e procura. Portanto, a análise de hoje deve priorizar a identificação de dissonâncias entre o preço atual e a probabilidade estatística de alta, explorando assim as ineficiências momentâneas que surgem nesse ambiente de indecisão coletiva.
+O mercado da Liga Portugal em PC para o dia 20 de junho de 2026 apresenta um cenário de volatilidade controlada, mas com um viés claramente positivo para os traders que sabem identificar oportunidades de curto prazo, visto que o sentimento geral é de alta com 16 valorizações significativas contra apenas 16 quedas, resultando em uma média de valorização de 3.79% nas últimas 24 horas. Esse equilíbrio numérico, embora pareça neutro à primeira vista, esconde uma dinâmica de compra agressiva em cartas específicas, onde a demanda por ativos de nicho e lendários está superando a oferta disponível, criando distorções de preço que são ideais para quem opera com precisão cirúrgica. O tom do dia sugere que o mercado está digerindo notícias ou atualizações de forma seletiva, elevando o valor de certos jogadores enquanto ignora outros, o que exige uma leitura atenta das probabilidades de alta associadas a cada movimento para evitar armadilhas de liquidez. Traders experientes devem notar que a média de 3.79% é um indicador robusto de saúde do mercado, indicando que o capital está fluindo livremente e que não há uma depressão generalizada, mas sim uma realocação estratégica de recursos entre os ativos do segmento português. Portanto, a estratégia hoje deve focar em aproveitar a euforia em torno dos maiores altares, como Santi García e Quaresma, enquanto se aguarda a estabilização dos ativos que sofreram quedas abruptas, usando a volatilidade como aliada para compras de oportunidade em momentos de pânico de venda.
 
-> 🟢 **Maior alta:** Pablo Felipe (80) **+53.4%** · 🔴 **Maior baixa:** Rodrigo Zalazar (84) **-35.5%**
+> 🟢 **Maior alta:** Santi García (84) **+39.6%** · 🔴 **Maior baixa:** Rodrigo Zalazar (84) **-36.1%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pablo Felipe | 80 | Liga Portugal | 44k coins | +53.4% | -6.3% |
-| Santi García | 84 | Liga Portugal | 50k coins | +51.5% | +23.5% |
-| Pizzi | 85 | Liga Portugal | 36k coins | +45% | +70.6% |
-| Vangelis Pavlidis | 84 | Liga Portugal | 37k coins | +20.3% | 0% |
-| Emmanuel Maviram | 84 | Liga Portugal | 42k coins | +15.9% | -12.5% |
-| Richard Ríos | 88 | Liga Portugal | 247k coins | +12.3% | +0.8% |
-| Nélson Oliveira | 86 | Liga Portugal | 26k coins | +12% | +3% |
-| Matheus Dias | 87 | Liga Portugal | 30k coins | +11.2% | +36.8% |
-| Alexander Bah | 86 | Liga Portugal | 157k coins | +10.6% | +22.7% |
-| Eduardo Quaresma | 88 | Liga Portugal | 50k coins | +9.9% | +102% |
+| Santi García | 84 | Liga Portugal | 48k coins | +39.6% | +19% |
+| Quaresma | 89 | Liga Portugal | 300k coins | +33.9% | +39.1% |
+| Paulo Futre | 92 | Liga Portugal | 109k coins | +29.4% | -18.5% |
+| Alexander Bah | 86 | Liga Portugal | 167k coins | +20.6% | +32.8% |
+| Matheus Dias | 87 | Liga Portugal | 30k coins | +18.9% | +44.8% |
+| Richard Ríos | 87 | Liga Portugal | 397k coins | +17.4% | -8.7% |
+| Larrazabal | 84 | Liga Portugal | 52k coins | +17.3% | +32.9% |
+| Emmanuel Maviram | 84 | Liga Portugal | 42k coins | +15.9% | -11.6% |
+| António Silva | 87 | Liga Portugal | 54k coins | +14.9% | +8% |
+| Nélson Oliveira | 86 | Liga Portugal | 26k coins | +13% | +4% |
 
 
-A análise das maiores valorizações destaca Pablo Felipe, que registrou uma explosão de 53,4% em 24 horas, atingindo a cotação de 44k coins, um movimento robusto apoiado por uma probabilidade de alta calculada em 62%, indicando forte interesse de mercado em seu perfil. Em segundo lugar, Santi García subiu 51,5% para valer 50k coins, embora sua probabilidade de continuação da alta seja baixa em apenas 15%, sugerindo que este pode ser um pico momentâneo de interesse especulativo antes de uma correção natural. Pizzi também se destaca com uma alta de 45% em 24 horas, posicionando-se a 36k coins, com uma probabilidade de alta de 31% que aponta para uma sustentabilidade moderada, talvez impulsionada por sua utilidade em meta squads específicos. Vangelis Pavlidis apresenta uma subida mais conservadora de 20,3% para 37k coins, mas sua probabilidade de alta de 57% oferece uma base mais sólida para investimentos de curto prazo, indicando que a demanda está superando a oferta de forma consistente. Emmanuel Maviram completou o top 5 com uma alta de 15,9% para 42k coins, com uma probabilidade de alta de 53%, reforçando a tendência de valorização em ativos de médio custo que estão sendo descobertos por traders buscando alternativas mais acessíveis aos caras de mercado.
+Santi García lidera as valorizações com um impressionante aumento de 39.6% em 24 horas, atingindo o patamar de 48k coins, um movimento impulsionado por sua baixa probabilidade de alta futura de apenas 15%, o que sugere que o preço atual pode ser um topo de curto prazo e que a compra deve ser feita com cautela para revenda imediata antes da correção. Nuno Mendes, conhecido como Quaresma, subiu 33.9% para 300k coins, um ativo de alto valor com probabilidade de alta de 61%, indicando que há espaço para crescimento adicional e que investidores de longo prazo estão acumulando posições nessa carta lendária, tornando-a segura para segurar. Paulo Futre, com 29.4% de alta para 109k coins e probabilidade de 42%, mostra uma demanda consistente de jogadores que buscam qualidade em meio campo, equilibrando risco e recompensa de forma atrativa para traders intermediários que desejam diversificar seus portfólios com ativos de média alta. Alexander Bah registrou 20.6% de alta para 167k coins, mas sua probabilidade de alta de apenas 10% alerta para uma possível saturação de compras, sugerindo que é o momento ideal para realizar lucros e não para entrar em novas posições. Matheus Dias, apesar de ter uma probabilidade de alta extremamente alta de 77%, subiu 18.9% para 30k coins, representando uma oportunidade de baixo custo e alto potencial de retorno, ideal para traders com capital limitado que buscam alavancar ganhos percentuais significativos em ativos de entrada.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodrigo Zalazar | 84 | Liga Portugal | 32k coins | -35.5% | -18.9% |
-| Jan Bednarek | 84 | Liga Portugal | 33k coins | -30% | -11.3% |
-| Jesús Ramírez | 84 | Liga Portugal | 40k coins | -21.7% | -21.7% |
-| Geovany Quenda | 85 | Liga Portugal | 52k coins | -15.3% | +21.4% |
-| Beni | 83 | Liga Portugal | 38k coins | -15% | -15% |
-| Trincão | 86 | Liga Portugal | 27k coins | -13.2% | +10.9% |
-| José Fonte | 85 | Liga Portugal | 60k coins | -9.7% | -13.6% |
-| William Gomes | 84 | Liga Portugal | 33k coins | -9.7% | -17.1% |
-| Dailon Livramento | 80 | Liga Portugal | 45k coins | -8.9% | -8.5% |
-| Larrazabal | 84 | Liga Portugal | 50k coins | -6.5% | +28.2% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 38k coins | -36.1% | -20.5% |
+| José Fonte | 85 | Liga Portugal | 57k coins | -17.9% | -17.9% |
+| Beni | 83 | Liga Portugal | 34k coins | -16.2% | -16.2% |
+| Gonçalo Inácio | 89 | Liga Portugal | 126k coins | -13.1% | -18.7% |
+| Eduardo Quaresma | 88 | Liga Portugal | 42k coins | -10.5% | +71.7% |
+| William Gomes | 84 | Liga Portugal | 33k coins | -9% | -17.1% |
+| Dailon Livramento | 80 | Liga Portugal | 43k coins | -8.9% | -8.5% |
+| Jesús Ramírez | 84 | Liga Portugal | 38k coins | -7.8% | -7.2% |
+| Rodrigo Mora | 87 | Liga Portugal | 26k coins | -6.4% | +20% |
+| Pablo Felipe | 80 | Liga Portugal | 44k coins | -5.3% | -6.3% |
 
 
-No outro extremo do espectro, Rodrigo Zalazar sofreu a maior desvalorização com uma queda de 35,5% em 24 horas, caindo para 32k coins, um movimento severo que reflete uma probabilidade de alta baixa de apenas 26%, sinalizando perda de confiança dos traders e possível saturação de oferta. Jan Bednarek também recuou significativamente, despencando 30% para 33k coins, e apesar de ter uma probabilidade de alta ligeiramente superior de 42%, a magnitude da queda sugere que o preço atual ainda pode não ter encontrado seu fundo imediato. Jesús Ramírez perdeu 21,7% de seu valor, estabelecando-se a 40k coins, e com uma probabilidade de alta de 50%, o ativo encontra-se em um ponto de inflexão onde a decisão entre compra ou venda depende exclusivamente de confirmções de volume nas próximas horas. Geovany Quenda, um ativo de maior ticket, caiu 15,3% para 52k coins, mas sua probabilidade de alta de 52% indica que a correção pode ser uma oportunidade de entrada para traders com maior tolerância a risco, apostando na resiliência de itens de alto rating. Beni completou as principais quedas com uma baixa de 15% para 38k coins, apresentando uma probabilidade de alta fraca de 25%, o que alerta para a possibilidade de continuidade da descida caso não haja absorção rápida da oferta excedente no mercado.
+Rodrigo Zalazar sofreu a maior queda do dia, despencando 36.1% para 38k coins, um movimento drástico que pode indicar uma venda em massa por parte de grandes investidores ou uma mudança nas meta-listas, embora sua probabilidade de alta de 26% sugira que a recuperação pode ser lenta e arriscada para quem tentar comprar no fundo. José Fonte caiu 17.9% para 57k coins, com probabilidade de alta de 41%, indicando que a queda pode ser uma correção saudável após um período de valorização excessiva, oferecendo uma oportunidade de compra para quem acredita na estabilidade de defensores veteranos no longo prazo. Beni registrou uma queda de 16.2% para 34k coins, com probabilidade de alta de 25%, o que aponta para uma falta de interesse imediato do mercado e um risco elevado de continuação da baixa, tornando-o um ativo a ser evitado por traders de curto prazo que buscam volatilidade positiva. Gonçalo Inácio, com 13.1% de queda para 126k coins e probabilidade de alta de apenas 16%, mostra sinais de exaustão de compradores, sugerindo que o preço pode continuar caindo até encontrar um suporte mais forte, sendo crucial monitorar atentamente a liquidez antes de considerar qualquer compra. Eduardo Quaresma caiu 10.5% para 42k coins, mas sua alta probabilidade de alta de 59% torna essa queda uma oportunidade de ouro para compra de dip, pois o mercado parece estar subestimando seu potencial de recuperação, o que pode resultar em ganhos rápidos para traders ágeis.
 
 
 ## 🎯 A estratégia do dia
-A estratégia recomendada para o dia 20 de junho de 2026 envolve comprar seletivamente ativos como Pablo Felipe e Vangelis Pavlidis, que combinam altas recentes com probabilidades de continuidade elevadas, buscando lucros rápidos em um mercado lateral. É prudente segurar posições em jogadores como Pizzi e Emmanuel Maviram, pois suas probabilidades de alta moderadas sugerem que o valor pode se estabilizar antes de qualquer movimento decisivo, permitindo que o trader avalie a ação do preço sem pressão excessiva. Deve-se evitar agressivamente a compra de Santi García e Rodrigo Zalazar neste momento, pois o primeiro apresenta sinais exauridos de alta com baixa probabilidade de continuação, enquanto o segundo está em uma queda livre sem sinais claros de reversão imediata. A venda de ativos em queda livre como Jan Bednarek e Beni deve ser considerada se o trader precisar de liquidez, dada a baixa probabilidade de alta desses itens, mas a compra de Geovany Quenda pode ser uma aposta calculada para quem busca diversificar com ativos de maior valor que ainda mantêm equilíbrio estatístico. O timing ideal para execuções é durante os horários de pico de atividade, quando a liquidez é maior, permitindo que as ordens sejam preenchidas sem slippage excessivo, maximizando a eficiência das operações em um ambiente de mercado sem direção clara.
+A estratégia do dia deve focar em realizar lucros imediatos em Santi García e Alexander Bah, dado que suas altas percentuais são significativas mas suas probabilidades de alta futura são baixas, indicando que o movimento de preço pode se esgotar a qualquer momento e a revenda rápida é a chave para garantir o lucro. Ao mesmo tempo, recomendo fortemente comprar Matheus Dias e Eduardo Quaresma, pois suas altas probabilidades de alta (77% e 59%, respectivamente) combinadas com preços acessíveis (30k e 42k) oferecem o melhor risco-retorno do mercado, permitindo acumular posições com margem de segurança. Para traders com maior capital, Quaresma e Paulo Futre são escolhas sólidas para segurar, pois suas probabilidades de alta de 61% e 42%, respectivamente, sugerem um trend de alta sustentado que pode continuar nos próximos dias, proporcionando ganhos estáveis sem a necessidade de operações de day trading intensas. É crucial evitar comprar Rodrigo Zalazar e Beni no momento, pois as quedas acentuadas e as baixas probabilidades de alta indicam que o mercado ainda está em fase de desvalorização e a tentativa de comprar no fundo pode resultar em perdas se a tendência de baixa se prolongar. Em resumo, o mercado de hoje recompensa a disciplina de vender no topo dos ativos de baixa probabilidade e comprar no fundo dos ativos de alta probabilidade, mantendo um portfólio balanceado entre ativos de curto prazo para fluxo de caixa e ativos de médio prazo para crescimento de capital, sempre monitorando as flutuações de preço em tempo real para ajustar as posições conforme necessário.
 
 
 ## 🧪 De onde vêm estes números
@@ -77,13 +77,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Pablo Felipe (80, Liga Portugal), com +53.4% em 24h, a 44k coins no PC.
+Santi García (84, Liga Portugal), com +39.6% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**  
-Rodrigo Zalazar (84), -35.5% em 24h, a 32k coins.
+Rodrigo Zalazar (84), -36.1% em 24h, a 38k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 15 cartas em alta contra 17 em queda (média 1.31%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 16 cartas em alta contra 16 em queda (média 3.79%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
