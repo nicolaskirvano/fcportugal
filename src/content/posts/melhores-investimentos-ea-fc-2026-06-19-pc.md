@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:42:12.000Z
+pubDatetime: 2026-06-20T01:42:27.000Z
 title: "Melhores investimentos em Liga Portugal no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Ricardo Carvalho (89, Liga Portugal) lidera, com +49.2% em 7 dias a 92k coins no PC, e o modelo dá 69% de chance de seguir subindo."
+    a: "Eduardo Quaresma (88, Liga Portugal) lidera, com +57.3% em 7 dias a 49k coins no PC, e o modelo dá 59% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Ricardo Carvalho (89) acumula **+49.2% em 7 dias** a 92k coins.
+> 🔝 **Destaque:** Eduardo Quaresma (88) acumula **+57.3% em 7 dias** a 49k coins.
 
 
 ## 🧠 A leitura do dia
-Ao analisar o mercado da Liga Portugal no EA FC Ultimate Team para a data de 19 de junho de 2026, observa-se um cenário de alta volatilidade positiva em diversos ativos da competição. A tendência de valorização nos últimos sete dias aponta para uma seleção estratégica de cartas que merecem atenção imediata, especialmente aquelas com maior probabilidade estatística de continuação da alta. Entre os destaques, Ricardo Carvalho surge como uma peça fundamental para portfólios focados em segurança e retorno consistente. Com uma valorização de 15,6% nas últimas 24 horas, a carta de rating 89 apresenta uma probabilidade de alta de 69%, o indicador mais robusto entre os ativos analisados. Cotada a 92 mil coins, a entrada neste ativo sugere uma aposta na estabilidade defensiva, onde a alta probabilidade de continuidade do preço pode compensar o custo inicial mais elevado, oferecendo um equilíbrio entre risco e recompensa para investidores cautelosos.
+O mercado da Liga Portugal em EA FC Ultimate Team apresenta um cenário particularmente volátil e interessante para investidores astutos nesta data de 19 de junho de 2026. Ao analisar as tendências dos últimos sete dias, observa-se que o foco principal deve ser direcionado a ativos que demonstram força imediata no curto prazo, especificamente nas últimas 24 horas. Entre os destaques, o lateral-esquerdo Eduardo Quaresma, com uma classificação de 88, surge como o ativo mais promissor. Sua valorização de 11,4% em apenas um dia, combinada com uma probabilidade de alta de 59%, indica um momentum de compra robusto. Atualmente cotado a 49 mil coins, este jogador oferece um equilíbrio atrativo entre risco e retorno, sugerindo que a comunidade está a perceber o seu potencial para compor equipas competitivas ou para ser utilizado em SBCs futuros, o que justifica a entrada neste momento.
 
-Outro ponto de destaque relevante é a performance de Eduardo Quaresma, cuja carta de rating 88 registrou um aumento de 11,7% em apenas um dia. Com uma probabilidade de alta de 59% e um preço de mercado de 48 mil coins, Quaresma representa uma opção intermediária interessante. A combinação de uma subida moderada, mas consistente, com uma probabilidade de continuidade acima da média, indica que a demanda por suas habilidades técnicas está se consolidando. Para quem busca diversificar o portfólio com ativos de linha de meio-campo ou ataque que não exijam o capital elevado de Carvalho, mas que ofereçam uma segurança maior do que ativos de menor rating, Quaresma se posiciona como uma escolha racional baseada nos dados de tendência atual.
+Paralelamente, a defesa central Ousmane Diomande, classificado com 85, merece atenção especial devido à sua performance de mercado impressionante. Com um aumento de 16,9% nas últimas 24 horas, este é o maior percentual de subida entre os ativos listados. A probabilidade de alta de 56% reforça a ideia de que esta tendência não é apenas um ruído de mercado, mas sim um movimento sustentado. Cota-se a 54 mil coins, um preço acessível para o poder de compra atual, mas que pode escalar rapidamente se a demanda por defesas de nível médio-alto se intensificar. Investir em Diomande é uma aposta na continuidade desta subida acentuada, aproveitando a inércia positiva gerada pela sua recente valorização.
 
-No segmento de entrada, o mercado exibe oportunidades atraentes para investidores com capital mais limitado. Ivan Cavaleiro, com rating 85, lidera a porcentagem de valorização em 24 horas com impressionantes 29,2%. Apesar de sua probabilidade de alta ser de 47%, o preço de 28 mil coins torna-o um ativo de baixo risco financeiro. A alta volatilidade recente sugere um movimento especulativo forte, e a entrada neste ativo pode ser justificada pela busca de ganhos rápidos, desde que o investidor esteja disposto a aceitar a incerteza estatística de que a tendência pode se reverter a qualquer momento. É uma carta de alta rotatividade, ideal para traders que monitoram o mercado ativamente.
+No entanto, é crucial analisar também os ativos de maior valor, como Alexander Bah. Com uma classificação de 86, este lateral-direito cotado a 157 mil coins apresenta um comportamento de mercado distinto. Embora tenha registado apenas um aumento de 4,7% nas últimas 24 horas, a sua probabilidade de alta é significativamente baixa, com apenas 10%. Este dado sugere que Bah pode estar num topo de curto prazo ou que a sua liquidez é menor, tornando-o um ativo de risco elevado para novos investimentos. A alta probabilidade de estagnação ou correção indica que, apesar do seu preço elevado, não é o momento ideal para entrada, a menos que se busque uma estratégia de longo prazo baseada em eventos específicos do jogo.
 
-António Silva e Rodrigo Mora também merecem destaque por apresentarem perfis de risco similar, com probabilidades de alta de 56% cada. Silva, de rating 87, subiu 28,4% e está cotada a 52 mil coins, enquanto Mora, também de rating 87, registrou alta de 21,1% e custa 27 mil coins. A similaridade nas probabilidades estatísticas contrasta com a diferença de preços e magnitude da subida. Silva parece indicar uma valorização mais estruturada e duradoura devido ao maior investimento da base de jogadores, enquanto Mora oferece uma alavanca de preço menor para uma chance estatística idêntica de continuidade. Ambos são candidatos sólidos para entrada, dependendo da tolerância ao capital inicial do investidor.
+Já Larrazabal, com 84 de rating, apresenta um cenário intermediário e peculiar. O seu aumento de 1,7% em 24 horas parece modesto à primeira vista, mas a probabilidade de alta de 50% revela um interesse constante e estável por parte dos jogadores. Cotado a 45 mil coins, é o ativo mais barato da lista, o que pode atrair investidores com orçamentos mais limitados que procuram diversificação. A estabilidade relativa do seu preço, aliada a uma probabilidade equilibrada de alta, faz dele uma opção segura para quem prefere evitar a volatilidade extrema observada em Quaresma e Diomande.
 
-Finalmente, Rodrigo Zalazar e Nicolás Otamendi completam o cenário com perfis distintos. Zalazar, de rating 84, teve uma alta de 27,4%, mas sua probabilidade de continuação é baixa, de apenas 26%, a 48 mil coins. Isso sugere uma correção iminente ou uma estabilização, tornando-o menos atraente para compra imediata sem sinais de reversão. Por outro lado, Otamendi, de rating 86, subiu 13,8% com probabilidade de 50% e custa 70 mil coins. Sua posição é mais neutra, servindo como um ativo de defesa para quem prefere evitar a alta volatilidade de Cavaleiro ou Zalazar, mas ainda deseja participar da tendência de alta da liga, com uma probabilidade equilibrada de manter ou aumentar o valor nos próximos dias.
+Em suma, a análise dos dados indica que as melhores oportunidades de entrada hoje concentram-se em Eduardo Quaresma e Ousmane Diomande. Ambos combinam aumentos percentuais significativos nas últimas 24 horas com probabilidades de alta superiores a 50%, o que reduz o risco de perda imediata. A decisão de ignorar Alexander Bah deve-se à sua baixa probabilidade de continuidade na subida, enquanto Larrazabal serve como uma reserva estratégica para portfólios mais conservadores.
+
+Portanto, para maximizar os lucros na Liga Portugal nesta sexta-feira, 19 de junho de 2026, recomenda-se priorizar a aquisição de Quaresma e Diomande. Estes ativos demonstram clareza na tendência de valorização e possuem preços de entrada que ainda permitem margens de lucro consideráveis caso as probabilidades de alta se concretizem nos próximos dias. O monitoramento constante das próximas 24 horas será essencial para validar se esta tendência se mantém ou se inverte.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +45,21 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ricardo Carvalho | 89 | Liga Portugal | 92k coins | +15.6% | +49.2% | 69% |
-| Ivan Cavaleiro | 85 | Liga Portugal | 28k coins | +29.2% | +43.8% | 47% |
-| Eduardo Quaresma | 88 | Liga Portugal | 48k coins | +11.7% | +40.4% | 59% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 48k coins | +27.4% | +24.2% | 26% |
-| Rodrigo Mora | 87 | Liga Portugal | 27k coins | +21.1% | +16% | 56% |
-| António Silva | 87 | Liga Portugal | 52k coins | +28.4% | +13% | 56% |
-| Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +13.8% | +6.9% | 50% |
+| Eduardo Quaresma | 88 | Liga Portugal | 49k coins | +11.4% | +57.3% | 59% |
+| Ousmane Diomande | 85 | Liga Portugal | 54k coins | +16.9% | +54% | 56% |
+| Alexander Bah | 86 | Liga Portugal | 157k coins | +4.7% | +22.7% | 10% |
+| Larrazabal | 84 | Liga Portugal | 45k coins | +1.7% | +5.3% | 50% |
 
 
 ## 📈 Análise dos destaques
 
-- **Ricardo Carvalho (89)** — 92k coins, **+49.2% em 7 dias** (+15.6% em 24h). Preço em linha com a média de 7 dias (-7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Eduardo Quaresma (88)** — 49k coins, **+57.3% em 7 dias** (+11.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ivan Cavaleiro (85)** — 28k coins, **+43.8% em 7 dias** (+29.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ousmane Diomande (85)** — 54k coins, **+54% em 7 dias** (+16.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Eduardo Quaresma (88)** — 48k coins, **+40.4% em 7 dias** (+11.7% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Alexander Bah (86)** — 157k coins, **+22.7% em 7 dias** (+4.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Rodrigo Zalazar (84)** — 48k coins, **+24.2% em 7 dias** (+27.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
-- **Rodrigo Mora (87)** — 27k coins, **+16% em 7 dias** (+21.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Larrazabal (84)** — 45k coins, **+5.3% em 7 dias** (+1.7% em 24h). Preço em linha com a média de 7 dias (-1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +77,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Ricardo Carvalho (89, Liga Portugal) lidera, com +49.2% em 7 dias a 92k coins no PC, e o modelo dá 69% de chance de seguir subindo.
+Eduardo Quaresma (88, Liga Portugal) lidera, com +57.3% em 7 dias a 49k coins no PC, e o modelo dá 59% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
