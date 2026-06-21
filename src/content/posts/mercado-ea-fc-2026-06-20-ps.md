@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:42:52.000Z
+pubDatetime: 2026-06-21T01:41:11.000Z
 title: "Liga Portugal no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,58 +13,58 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Quaresma (85, Liga Portugal), com +52.1% em 24h, a 60k coins no Console (PS)."
+    a: "Alexander Bah (86, Liga Portugal), com +17.8% em 24h, a 92k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Francisco Moura (90), -22.6% em 24h, a 21k coins."
+    a: "Paulo Futre (92), -27.7% em 24h, a 35k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Alexander Bah (86) — 95% de probabilidade de alta, a 92k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 10 cartas em alta contra 18 em queda (média -1.25%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 16 em queda (média -4.19%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado da Liga Portugal em consoles PlayStation apresenta um cenário de extrema cautela para o dia 20 de junho de 2026, caracterizado por uma predominância clara de quedas nos preços, com 18 ativos registrando perdas contra apenas 10 altas, resultando em uma média negativa de -1.25% nas últimas 24 horas. Esse sentimento de desânimo reflete uma liquidez reduzida e uma hesitação dos traders em assumir posições de compra, especialmente em ativos de alto valor, onde a falta de volume de ofertas está pressionando os preços para baixo. A volatilidade observada sugere que o mercado está em fase de consolidação após movimentos anteriores, com os participantes aguardando sinais mais claros de demanda ou eventos específicos do jogo para reativar a especulação. É fundamental que o trader mantenha a disciplina e evite compras impulsivas em ativos que estão em tendência de baixa, pois a probabilidade de continuidade das quedas é alta na ausência de catalisadores imediatos. A análise detalhada dos dados revela oportunidades seletivas em ativos com alta probabilidade de recuperação, mas exige uma gestão de risco rigorosa para não ser pego em movimentos de correção prolongada.
+O mercado da Liga Portugal em Console apresenta um cenário de extrema volatilidade e pessimismo generalizado nesta segunda-feira, 20 de junho de 2026, com os indicadores apontando claramente para uma tendência de baixa estrutural nos preços dos ativos. A análise dos dados das últimas 24 horas revela um desequilíbrio significativo na liquidez, onde apenas 12 jogadores registaram altas de preço, enquanto 16 sofreram quedas, resultando numa média negativa de -4.19% no segmento, o que sinaliza uma fuga de capitais e uma hesitação dos traders em manter posições de longo prazo. Este ambiente de incerteza é característico de períodos de transição ou de antecipação de eventos maiores, onde a especulação de curto prazo se torna mais arriscada e a demanda por cards de alto rendimento diminui substancialmente. Para o trader experiente, este é um dia para observar com cautela as divergências entre a ação do preço e as probabilidades de alta projetadas pelo modelo, identificando oportunidades de compra em ativos que estão sendo descartados indevidamente pelo mercado em massa. A predominância das quedas sugere que muitos jogadores, mesmo aqueles com fundamentos sólidos, estão sofrendo pressão de venda excessiva, criando assimpotenciais assimetrias de risco-recompensa para quem souber navegar neste mar de incertezas com disciplina e análise técnica rigorosa.
 
-> 🟢 **Maior alta:** Quaresma (85) **+52.1%** · 🔴 **Maior baixa:** Francisco Moura (90) **-22.6%**
+> 🟢 **Maior alta:** Alexander Bah (86) **+17.8%** · 🔴 **Maior baixa:** Paulo Futre (92) **-27.7%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Quaresma | 85 | Liga Portugal | 60k coins | +52.1% | -9.9% |
-| Rodrigo Mora | 88 | Liga Portugal | 21k coins | +34.9% | -19.8% |
-| Alexander Bah | 86 | Liga Portugal | 92k coins | +28.1% | +14.8% |
-| Gonçalo Inácio | 89 | Liga Portugal | 164k coins | +26.9% | +20.4% |
-| Geovany Quenda | 85 | Liga Portugal | 28k coins | +25.6% | -23.6% |
-| Ricardo Horta | 90 | Liga Portugal | 28k coins | +13.7% | +12.5% |
-| José Fonte | 85 | Liga Portugal | 42k coins | +11.2% | +29% |
-| Jovane Cabral | 84 | Liga Portugal | 33k coins | +7% | -27.9% |
-| Jan Bednarek | 84 | Liga Portugal | 45k coins | +4.7% | -2.2% |
+| Alexander Bah | 86 | Liga Portugal | 92k coins | +17.8% | +33.1% |
+| Emmanuel Maviram | 84 | Liga Portugal | 48k coins | +14.5% | +6.5% |
+| Geovany Quenda | 85 | Liga Portugal | 26k coins | +14.4% | -29.9% |
+| Jan Bednarek | 84 | Liga Portugal | 46k coins | +13.3% | +0.5% |
+| Florian Grillitsch | 84 | Liga Portugal | 35k coins | +12.8% | -16.1% |
+| Gonçalo Inácio | 89 | Liga Portugal | 162k coins | +8.7% | +14.1% |
+| Jovane Cabral | 84 | Liga Portugal | 38k coins | +7.2% | -31.3% |
+| Vangelis Pavlidis | 84 | Liga Portugal | 38k coins | +4.9% | 0% |
+| Pedro Gonçalves | 86 | Liga Portugal | 32k coins | +4.8% | 0% |
 
 
-Entre os poucos ativos que conseguiram se destacar positivamente, Quaresma (85) lidera as altas com um impressionante aumento de 52.1% em 24 horas, atingindo a marca de 60k coins, embora sua probabilidade de alta futura seja moderada em 43%, indicando que o movimento pode ser mais especulativo do que fundamentado em demanda sustentável. Rodrigo Mora (88) apresenta uma alta robusta de 34.9%, posicionando-se a 21k coins, e é um dos ativos mais promissores do dia com uma probabilidade de alta de 83%, sugerindo forte interesse de compra e potencial para continuidade da tendência ascendente. Alexander Bah (86) sobe 28.1% para 92k coins, destacando-se pela altíssima probabilidade de alta de 95%, o que o torna um dos ativos mais seguros para acumulação, pois o modelo indica forte suporte técnico e demanda latente no mercado. Gonçalo Inácio (89) registra uma alta de 26.9% a 164k coins, mas sua probabilidade de alta de apenas 23% alerta para a possibilidade de correção imediata, caracterizando um movimento de curto prazo que deve ser monitorado com cautela. Geovany Quenda (85) completa o grupo de destaque com alta de 25.6% a 28k coins e probabilidade de 93%, oferecendo uma relação risco-retorno atrativa para traders que buscam ativos de entrada mais acessível com forte potencial de valorização.
+Entre os poucos ativos que conseguiram resistir à onda de vendas, Alexander Bah se destaca com uma impressionante alta de 17.8% em 24 horas, atingindo os 92k coins, um movimento que é fortemente respaldado pela probabilidade de alta de 95% indicada pelo nosso modelo, sugerindo uma convergência forte entre a oferta reduzida e uma demanda emergente para laterais ofensivos de alto nível. Emmanuel Maviram também registrou um desempenho notável, subindo 14.5% para os 48k coins, embora sua probabilidade de alta de apenas 8% indique que este movimento pode ser mais volátil e sujeito a correções rápidas, tornando-o um ativo de risco para trades de curto prazo. Geovany Quenda segue a lógica de valorização, com um aumento de 14.4% para 26k coins e uma probabilidade de alta de 93%, o que o consolida como uma das oportunidades mais seguras para acumulação, dada a forte indicação estatística de continuidade na tendência de alta. Jan Bednarek, com uma alta de 13.3% para 46k coins e probabilidade de 81%, representa uma opção de defesa sólida para quem busca diversificar a carteira com jogadores de média entrada que apresentam sinais técnicos de compra claros e sustentáveis. Por fim, Florian Grillitsch subiu 12.8% para 35k coins com uma probabilidade de alta de 56%, indicando uma recuperação moderada que pode se consolidar, enquanto Gonçalo Inácio, apesar de ser um ativo de maior porte com alta de 8.7% para 162k coins, apresenta uma probabilidade de alta de apenas 23%, o que exige extrema cautela devido à baixa probabilidade de continuidade do movimento positivo.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Francisco Moura | 90 | Liga Portugal | 21k coins | -22.6% | +1.1% |
-| Paulo Futre | 92 | Liga Portugal | 40k coins | -21.6% | -45.9% |
-| Santi García | 84 | Liga Portugal | 32k coins | -15.6% | -18.2% |
-| Anatoliy Trubin | 88 | Liga Portugal | 146k coins | -15.1% | -14.1% |
-| Eduardo Quaresma | 88 | Liga Portugal | 52k coins | -13.5% | +27.7% |
-| Florian Grillitsch | 84 | Liga Portugal | 36k coins | -11.4% | -26.2% |
-| Ricardo Carvalho | 88 | Liga Portugal | 31k coins | -9.6% | +54.8% |
-| Matheus Dias | 87 | Liga Portugal | 22k coins | -8.7% | +31.9% |
-| Ousmane Diomande | 85 | Liga Portugal | 50k coins | -7.7% | +12.6% |
-| Dailon Livramento | 80 | Liga Portugal | 38k coins | -7.1% | -16.8% |
+| Paulo Futre | 92 | Liga Portugal | 35k coins | -27.7% | -52.4% |
+| Richard Ríos | 87 | Liga Portugal | 342k coins | -25.7% | -7.3% |
+| Nicolás Otamendi | 86 | Liga Portugal | 52k coins | -24.3% | -11.7% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 32k coins | -20.4% | +79.2% |
+| Matheus Dias | 87 | Liga Portugal | 24k coins | -18.3% | +36.2% |
+| William Gomes | 84 | Liga Portugal | 36k coins | -12% | -8.8% |
+| Richard Ríos | 88 | Liga Portugal | 195k coins | -7.1% | -10.1% |
+| Santi García | 84 | Liga Portugal | 36k coins | -6.5% | -8.9% |
+| João Carvalho | 84 | Liga Portugal | 48k coins | -4.8% | 0% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 36k coins | -4.7% | -13% |
 
 
-No lado negativo, Francisco Moura (90) sofre a maior queda com -22.6% em 24 horas, caindo para 21k coins, e sua baixa probabilidade de alta de 5% indica que o ativo está em fase de desvalorização acentuada, devendo ser evitado por enquanto. Paulo Futre (92) também apresenta uma queda significativa de -21.6% para 40k coins, com probabilidade de alta de apenas 5%, reforçando a tendência de baixa em ativos de alta raridade que estão perdendo suporte de compra. Santi García (84) recua 15.6% para 32k coins, mas sua alta probabilidade de alta de 81% sugere que esta pode ser uma oportunidade de compra em fundo de queda, pois o modelo indica forte potencial de recuperação. Anatoliy Trubin (88) cai 15.1% para 146k coins, mas com probabilidade de alta de 95%, este ativo se destaca como uma das melhores oportunidades de compra no mercado, pois a queda parece ser uma correção técnica em um ativo com forte demanda subjacente. Eduardo Quaresma (88) registra queda de -13.5% para 52k coins com probabilidade de alta de 35%, indicando instabilidade e risco moderado, enquanto Florian Grillitsch (84) cai 11.4% para 36k coins com probabilidade de 56%, sugerindo um mercado lateralizado que pode reverter a qualquer momento.
+No outro extremo, as quedas são severas e indicam uma liquidação agressiva de posições, com Paulo Futre liderando as perdas com uma queda dramática de 27.7% para 35k coins, apesar de sua raridade e rating de 92, o que sugere uma correção de preço excessiva que pode oferecer oportunidades de compra para traders de valor, já que sua probabilidade de alta é de apenas 5%. Richard Ríos, na versão 87, sofreu uma queda de 25.7% para 342k coins, um movimento significativo para um ativo de alto valor, mas que ainda mantém uma probabilidade de alta de 42%, indicando que o mercado pode estar testando o fundo antes de uma possível estabilização ou recuperação parcial. Nicolás Otamendi registrou uma queda de 24.3% para 52k coins, com uma probabilidade de alta de 33%, o que sugere que a pressão vendedora ainda está presente, mas com sinais de esgotamento, tornando-o um ativo a ser monitorado de perto para reversiones de curto prazo. Ivan Cavaleiro caiu 20.4% para 32k coins, e com uma probabilidade de alta de apenas 5%, parece estar em uma tendência de baixa estrutural, o que o torna um ativo perigoso para comprar a fundo, a menos que haja uma mudança abrupta no sentimento do mercado. Matheus Dias, com queda de 18.3% para 24k coins e probabilidade de alta de 50%, apresenta um cenário mais equilibrado, onde a decisão de compra deve ser baseada na tolerância ao risco do trader, já que há chances iguais de continuação da queda ou de uma recuperação técnica imediata.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,15 +74,14 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Alexander Bah | 86 | 92k coins | 110k coins | 95% |
-| Anatoliy Trubin | 88 | 146k coins | 196k coins | 95% |
-| Geovany Quenda | 85 | 28k coins | 32k coins | 93% |
-| Rodrigo Mora | 88 | 21k coins | 23k coins | 83% |
-| Jan Bednarek | 84 | 45k coins | 49k coins | 81% |
-| Santi García | 84 | 32k coins | 35k coins | 81% |
-| Jesús Ramírez | 84 | 33k coins | 35k coins | 74% |
+| Geovany Quenda | 85 | 26k coins | 29k coins | 93% |
+| João Carvalho | 84 | 48k coins | 54k coins | 93% |
+| Jan Bednarek | 84 | 46k coins | 51k coins | 81% |
+| Santi García | 84 | 36k coins | 39k coins | 81% |
+| Jesús Ramírez | 84 | 40k coins | 43k coins | 74% |
 
 
-O modelo de previsão identifica Alexander Bah (86) como o ativo com maior probabilidade de alta, com 95% de chance de valorização a partir dos atuais 92k coins, tornando-o o alvo principal para acumulação estratégica. Anatoliy Trubin (88) também apresenta 95% de probabilidade de alta, apesar da queda recente, com preço atual de 146k coins, indicando que a correção é uma oportunidade de entrada para traders de médio prazo. Geovany Quenda (85) é projetado para alta com 93% de probabilidade a 28k coins, oferecendo uma opção de baixo custo com alto potencial de retorno. Rodrigo Mora (88) mantém sua força com 83% de probabilidade de alta a 21k coins, consolidando sua posição como um dos ativos mais seguros do dia. Jan Bednarek (84) e Santi García (84) compartilham 81% de probabilidade de alta, com preços de 45k e 32k coins respectivamente, sugerindo que o mercado está começando a reconhecer o valor desses ativos. Jesús Ramírez (84) completa a lista com 74% de probabilidade de alta a 33k coins, oferecendo uma alternativa adicional para diversificação de portfólio.
+O modelo estatístico projeta uma continuidade seletiva nas altas para ativos específicos, destacando Alexander Bah com probabilidade de alta de 95% a 92k coins, reforçando sua posição como o ativo mais seguro do dia, e Geovany Quenda com 93% de probabilidade a 26k coins, confirmando a tese de valorização de jogadores de entrada com suporte técnico forte. João Carvalho também entra no radar com 93% de probabilidade de alta a 48k coins, sugerindo que há uma demanda oculta por meias-atacantes que ainda não foi totalmente precificada pelo mercado, oferecendo uma oportunidade de compra antes da potencial correção. Jan Bednarek e Santi García compartilham a probabilidade de alta de 81%, respectivamente a 46k coins e 36k coins, indicando uma convergência de interesse em jogadores de média entrada que estão sendo negligenciados, o que pode levar a movimentos de preço significativos nas próximas horas. Por último, Jesús Ramírez com 74% de probabilidade a 40k coins completa o top 5 de ativos com maior expectativa de retorno positivo, sugerindo que o modelo identifica uma sustentação de preço nestes níveis que deve evitar quedas mais profundas e potencialmente gerar ganhos para quem entrar com stop-loss ajustado.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -91,18 +90,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Ricardo Horta | 90 | 28k coins | -15.6% |
-| António Silva | 87 | 58k coins | -17.5% |
-| Paulo Futre | 92 | 40k coins | -15.6% |
-| Francisco Moura | 90 | 21k coins | -34.2% |
-| Emmanuel Maviram | 84 | 41k coins | -12.6% |
-| Trincão | 86 | 16k coins | -10.3% |
+| Ivan Cavaleiro | 85 | 32k coins | -21.4% |
+| Larrazabal | 84 | 45k coins | -24.1% |
+| Paulo Futre | 92 | 35k coins | -15.6% |
+| Emmanuel Maviram | 84 | 48k coins | -12.6% |
+| Trincão | 86 | 18k coins | -10.3% |
 | Yanis Begraoui | 86 | 30k coins | -10.1% |
 | Vangelis Pavlidis | 86 | 30k coins | -8% |
+| Gonçalo Inácio | 89 | 162k coins | -8% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia para o dia deve focar na acumulação seletiva de ativos com alta probabilidade de valorização, priorizando Alexander Bah (86) e Anatoliy Trubin (88) devido às suas probabilidades de 95% de alta, mesmo com a queda recente de Trubin. É recomendado evitar compras em ativos como Francisco Moura (90) e Paulo Futre (92), que apresentam quedas acentuadas e baixas probabilidades de recuperação imediata, minimizando o risco de perdas. Traders devem considerar a entrada em Geovany Quenda (85) e Rodrigo Mora (88) como posições de curto prazo, aproveitando a alta probabilidade de alta e os preços acessíveis. A venda de ativos como Gonçalo Inácio (89) deve ser considerada se houver ganhos, dada a baixa probabilidade de continuidade da alta, enquanto ativos em queda com alta probabilidade de recuperação, como Santi García (84), devem ser monitorados para compra em fundos. O timing é crucial, e os traders devem aguardar a confirmação de suporte nos ativos alvo antes de executar as ordens de compra, garantindo uma gestão de risco eficiente.
+A estratégia para o dia deve ser predominantemente defensiva, focando na acumulação de ativos com alta probabilidade de alta e probabilidade de queda mínima, evitando expor capital excessivo a ativos de alta volatilidade sem suporte técnico claro. Recomenda-se fortemente a compra de Alexander Bah e Geovany Quenda, dados os altos percentuais de probabilidade de alta de 95% e 93%, respectivamente, que oferecem um perfil de risco-recompensa atrativo em um mercado de baixa. É aconselhável segurar posições em Jan Bednarek e João Carvalho, pois as previsões indicam continuidade positiva, enquanto ativos como Paulo Futre e Ivan Cavaleiro devem ser evitados para compra a fundo devido às baixas probabilidades de alta de 5%, que sugerem tendências de baixa persistentes. Traders mais agressivos podem considerar a compra de Richard Ríos (87) e Nicolás Otamendi em níveis de suporte, apostando em uma reversione técnica de curto prazo, mas devem utilizar stops de perda apertados devido à volatilidade recente. O timing ideal para operações é durante as horas de menor liquidez, onde a pressão de venda tende a diminuir, permitindo entradas mais precisas nos ativos previstos para alta, enquanto se deve estar preparado para sair rapidamente de posições que não confirmem o rompimento de resistência nos primeiros 30 minutos de negociação.
 
 
 ## 🧪 De onde vêm estes números
@@ -112,16 +111,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Quaresma (85, Liga Portugal), com +52.1% em 24h, a 60k coins no Console (PS).
+Alexander Bah (86, Liga Portugal), com +17.8% em 24h, a 92k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Francisco Moura (90), -22.6% em 24h, a 21k coins.
+Paulo Futre (92), -27.7% em 24h, a 35k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
 Pelo modelo FutQuant, Alexander Bah (86) — 95% de probabilidade de alta, a 92k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 10 cartas em alta contra 18 em queda (média -1.25%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 16 em queda (média -4.19%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
