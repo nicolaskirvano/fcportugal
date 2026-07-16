@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcportugal.pages.dev/",
     title: "Liga Portugal FUT",
     description:
-      "Precos e mercado da Liga Portugal no EA FC Ultimate Team, atualizados todos os dias.",
+      "preços e mercado da Liga Portugal no EA FC Ultimate Team, atualizados todos os dias.",
     author: "Liga Portugal FUT",
-    profile: "https://fcportugal.pages.dev/",
+    profile: "https://fcportugal.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Liga Portugal FUT",
