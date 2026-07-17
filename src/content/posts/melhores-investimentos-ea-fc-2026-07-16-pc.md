@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:00:34.000Z
+pubDatetime: 2026-07-17T00:12:20.000Z
 title: "Investimentos EA FC: Liga Portugal em 16/07 — PC"
 draft: false
 featured: true
@@ -45,13 +45,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Oskar Pietuszewski | 86 | Liga Portugal | 101k coins | +23.3% | +64.3% | Esticada |
 | Francisco Moura | 90 | Liga Portugal | 50k coins | +18.9% | +37.5% | Momentum moderado |
-| António Silva | 87 | Liga Portugal | 60k coins | +24.1% | +37.5% | Esticada |
+| António Silva | 87 | Liga Portugal | 58k coins | +24.1% | +37.5% | Esticada |
 | Paulo Futre | 92 | Liga Portugal | 120k coins | +14.2% | +16% | Momentum moderado |
 | Jesús Ramírez | 84 | Liga Portugal | 42k coins | +16.8% | +13.6% | Momentum moderado |
+| Ricardo Horta | 90 | Liga Portugal | 50k coins | +11.1% | +9.9% | Momentum moderado |
 | Vangelis Pavlidis | 86 | Liga Portugal | 50k coins | +19.3% | +9.4% | Momentum moderado |
 | Nicolás Otamendi | 86 | Liga Portugal | 100k coins | +1.6% | +7.2% | Entrada a observar |
 | Vangelis Pavlidis | 84 | Liga Portugal | 38k coins | +11.1% | +7.1% | Momentum moderado |
-| Ricardo Horta | 90 | Liga Portugal | 48k coins | +6.7% | +5.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -60,7 +60,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Francisco Moura (90)** — 50k coins, **+37.5% em 7 dias** (+18.9% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **António Silva (87)** — 60k coins, **+37.5% em 7 dias** (+24.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **António Silva (87)** — 58k coins, **+37.5% em 7 dias** (+24.1% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Paulo Futre (92)** — 120k coins, **+16% em 7 dias** (+14.2% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

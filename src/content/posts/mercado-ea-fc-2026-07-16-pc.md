@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:00:32.000Z
+pubDatetime: 2026-07-17T00:12:19.000Z
 title: "Mercado EA FC em 16/07: Liga Portugal — PC"
 draft: false
 featured: true
@@ -13,18 +13,18 @@ tags:
 description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "António Silva (87, Liga Portugal), com +24.1% em 24h, a 60k coins no PC."
+    a: "António Silva (87, Liga Portugal), com +24.1% em 24h, a 58k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Ousmane Diomande (85), -30.9% em 24h, a 48k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 15 cartas em alta contra 16 em queda (média 0.84%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 15 cartas em alta contra 16 em queda (média 1.35%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **16/07/2026** no PC com dia **indefinido** — sem tendência dominante: **15 cartas subiram** e **16 caíram** (80+ acima de 5k coins), variação média de **0.84%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **16/07/2026** no PC com dia **indefinido** — sem tendência dominante: **15 cartas subiram** e **16 caíram** (80+ acima de 5k coins), variação média de **1.35%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** António Silva (87) **+24.1%** · 🔴 **Maior baixa:** Ousmane Diomande (85) **-30.9%**
 
@@ -43,7 +43,7 @@ O mercado do **EA FC** abre **16/07/2026** no PC com dia **indefinido** — sem 
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| António Silva | 87 | Liga Portugal | 60k coins | +24.1% | +37.5% |
+| António Silva | 87 | Liga Portugal | 58k coins | +24.1% | +37.5% |
 | Florian Grillitsch | 84 | Liga Portugal | 49k coins | +23.9% | +3.7% |
 | Oskar Pietuszewski | 86 | Liga Portugal | 101k coins | +23.3% | +64.3% |
 | Vangelis Pavlidis | 86 | Liga Portugal | 50k coins | +19.3% | +9.4% |
@@ -51,13 +51,13 @@ O mercado do **EA FC** abre **16/07/2026** no PC com dia **indefinido** — sem 
 | Jesús Ramírez | 84 | Liga Portugal | 42k coins | +16.8% | +13.6% |
 | Paulo Futre | 92 | Liga Portugal | 120k coins | +14.2% | +16% |
 | Vangelis Pavlidis | 84 | Liga Portugal | 38k coins | +11.1% | +7.1% |
+| Ricardo Horta | 90 | Liga Portugal | 50k coins | +11.1% | +9.9% |
 | Emmanuel Maviram | 84 | Liga Portugal | 50k coins | +10.6% | 0% |
-| Jan Bednarek | 84 | Liga Portugal | 38k coins | +8.1% | 0% |
 
 
 ### Análise das altas
 
-- **António Silva (87)** subiu **+24.1%** em 24h, a **60k coins** (faixa do dia: 49k–75k). Está em linha com a média de 7 dias (+1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **António Silva (87)** subiu **+24.1%** em 24h, a **58k coins** (faixa do dia: 49k–75k). Está em linha com a média de 7 dias (-3%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 - **Florian Grillitsch (84)** subiu **+23.9%** em 24h, a **49k coins** (faixa do dia: 35k–49k). Está +10% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
@@ -69,24 +69,24 @@ O mercado do **EA FC** abre **16/07/2026** no PC com dia **indefinido** — sem 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Ousmane Diomande | 85 | Liga Portugal | 48k coins | -30.9% | +32.7% |
-| Rodrigo Mora | 87 | Liga Portugal | 32k coins | -30.6% | -5.1% |
 | Vangelis Pavlidis | 90 | Liga Portugal | 35k coins | -26.3% | -11.4% |
 | Pizzi | 85 | Liga Portugal | 30k coins | -22.8% | +9.9% |
-| Santi García | 84 | Liga Portugal | 35k coins | -17.1% | -18.5% |
+| Rodrigo Mora | 87 | Liga Portugal | 32k coins | -19.4% | +10.3% |
+| Santi García | 84 | Liga Portugal | 35k coins | -17.1% | -18.1% |
 | Larrazabal | 84 | Liga Portugal | 34k coins | -14.3% | +2.2% |
-| Yanis Begraoui | 86 | Liga Portugal | 36k coins | -13.2% | -34.1% |
 | Ivan Cavaleiro | 85 | Liga Portugal | 23k coins | -8.9% | -31.3% |
-| Eduardo Quaresma | 88 | Liga Portugal | 26k coins | -7.6% | -46.6% |
 | Borja Sainz | 83 | Liga Portugal | 40k coins | -4.7% | +0.6% |
+| Pablo Felipe | 80 | Liga Portugal | 46k coins | -3.7% | -1.1% |
+| Eduardo Quaresma | 88 | Liga Portugal | 26k coins | -3.5% | -46.6% |
 
 
 ### Análise das baixas
 
 - **Ousmane Diomande (85)** caiu **-30.9%** em 24h, a **48k coins** (faixa do dia: 47k–69k). Está em linha com a média de 7 dias (-7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Rodrigo Mora (87)** caiu **-30.6%** em 24h, a **32k coins** (faixa do dia: 18k–44k). Está em linha com a média de 7 dias (-1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
-
 - **Vangelis Pavlidis (90)** caiu **-26.3%** em 24h, a **35k coins** (faixa do dia: 35k–48k). Está em linha com a média de 7 dias (-8%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+
+- **Pizzi (85)** caiu **-22.8%** em 24h, a **30k coins** (faixa do dia: 30k–40k). Está -10% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
@@ -114,13 +114,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-António Silva (87, Liga Portugal), com +24.1% em 24h, a 60k coins no PC.
+António Silva (87, Liga Portugal), com +24.1% em 24h, a 58k coins no PC.
 
 **E a maior queda do dia?**  
 Ousmane Diomande (85), -30.9% em 24h, a 48k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 15 cartas em alta contra 16 em queda (média 0.84%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 15 cartas em alta contra 16 em queda (média 1.35%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
