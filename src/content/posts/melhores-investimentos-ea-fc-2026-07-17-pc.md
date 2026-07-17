@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T13:40:18.000Z
+pubDatetime: 2026-07-17T16:40:18.000Z
 title: "Investimentos EA FC: Liga Portugal em 17/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "João Moutinho (88, Liga Portugal) lidera, com +46% em 7 dias a 119k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "João Moutinho (88, Liga Portugal) lidera, com +49.7% em 7 dias a 119k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** João Moutinho (88) acumula **+46% em 7 dias** a 119k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** João Moutinho (88) acumula **+49.7% em 7 dias** a 119k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 17/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-17-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.8% em 24h** e **+24.0% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+22.1% em 24h** e **+39.7% em 7 dias**.
+- **4 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Moutinho | 88 | Liga Portugal | 119k coins | +20.8% | +46% | Esticada |
-| Jovane Cabral | 84 | Liga Portugal | 50k coins | +22.8% | +24.4% | Esticada |
-| Paulo Futre | 92 | Liga Portugal | 155k coins | +26% | +24% | Esticada |
-| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +16.8% | +13.6% | Momentum moderado |
-| Vangelis Pavlidis | 84 | Liga Portugal | 38k coins | +3.4% | +7.1% | Entrada a observar |
+| João Moutinho | 88 | Liga Portugal | 119k coins | +22.1% | +49.7% | Esticada |
+| Ousmane Diomande | 85 | Liga Portugal | 54k coins | +17.6% | +48.6% | Momentum moderado |
+| Trincão | 86 | Liga Portugal | 38k coins | +36.2% | +45% | Esticada |
+| Nélson Oliveira | 86 | Liga Portugal | 31k coins | +11.2% | +34.4% | Momentum moderado |
+| Pizzi | 85 | Liga Portugal | 39k coins | +22% | +28.1% | Esticada |
+| Jovane Cabral | 84 | Liga Portugal | 45k coins | +24.2% | +25% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **João Moutinho (88)** — 119k coins, **+46% em 7 dias** (+20.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Moutinho (88)** — 119k coins, **+49.7% em 7 dias** (+22.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jovane Cabral (84)** — 50k coins, **+24.4% em 7 dias** (+22.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Diomande (85)** — 54k coins, **+48.6% em 7 dias** (+17.6% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paulo Futre (92)** — 155k coins, **+24% em 7 dias** (+26% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trincão (86)** — 38k coins, **+45% em 7 dias** (+36.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jesús Ramírez (84)** — 42k coins, **+13.6% em 7 dias** (+16.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nélson Oliveira (86)** — 31k coins, **+34.4% em 7 dias** (+11.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vangelis Pavlidis (84)** — 38k coins, **+7.1% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pizzi (85)** — 39k coins, **+28.1% em 7 dias** (+22% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-João Moutinho (88, Liga Portugal) lidera, com +46% em 7 dias a 119k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+João Moutinho (88, Liga Portugal) lidera, com +49.7% em 7 dias a 119k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
