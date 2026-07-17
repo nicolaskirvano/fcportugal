@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga Portugal FUT"
 pubDatetime: 2026-06-20T19:41:03.000Z
-title: "Melhores investimentos em Liga Portugal no EA FC (20/06/2026): análise e previsões — Console (PS)"
+title: "Momentum de Liga Portugal no EA FC em 20/06 — PS"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Richard Ríos (88, Liga Portugal) lidera, com +37.5% em 7 dias a 192k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 20/06/2026 no PS: Richard Ríos liderou 7d com +37,5%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Richard Ríos** liderou o recorte com **+37,5% em 7d** e +20,6% em 24h. Entre 4 cartas, 4 tinham as duas janelas positivas; a mediana semanal foi **+24,4%**.
+
+Os preços destacados iam de **74k coins** a **192k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Liga Portugal no EA FC em 20/06 — PS](/charts/melhores-investimentos-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **20/06/2026** no **Console (PS)**:
 
 > 🔝 **Destaque:** Richard Ríos (88) acumula **+37.5% em 7 dias** a 192k coins.
 
@@ -41,9 +48,9 @@ Em conclusão, a estratégia para hoje deve equilibrar a agressividade de Richar
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Richard Ríos | 88 | Liga Portugal | 192k coins | +20.6% | +37.5% | 50% |
 | Nicolás Otamendi | 86 | Liga Portugal | 74k coins | +23.3% | +27.6% | 33% |
@@ -53,7 +60,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## 📈 Análise dos destaques
 
-- **Richard Ríos (88)** — 192k coins, **+37.5% em 7 dias** (+20.6% em 24h). Preço -20% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Richard Ríos (88)** — 192k coins, **+37.5% em 7 dias** (+20.6% em 24h). Preço -20% abaixo da média de 7 dias (descontada). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Nicolás Otamendi (86)** — 74k coins, **+27.6% em 7 dias** (+23.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
@@ -64,10 +71,10 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 🧪 De onde vêm estes números
@@ -76,13 +83,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Richard Ríos (88, Liga Portugal) lidera, com +37.5% em 7 dias a 192k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
+**Qual carta liderava o momentum em 20/06/2026 no EA FC?**
+Richard Ríos (88, Liga Portugal) lidera, com +37.5% em 7 dias a 192k coins no Console (PS). No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -91,3 +98,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Liga Portugal no EA FC em 20/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Liga Portugal no EA FC em 19/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-19-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

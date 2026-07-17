@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga Portugal FUT"
 pubDatetime: 2026-06-02T13:40:03.000Z
-title: "Liga Portugal no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Liga Portugal no EA FC em 02/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 02/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (02/06/2026)?"
-    a: "Pizzi (85, Liga Portugal), com +39.1% em 24h, a 40k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Rodrigo Mora (88), -35% em 24h, a 49k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 27 em queda (média -1.47%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 02/06/2026 no PC: Pizzi liderou as altas e Rodrigo Mora as baixas em Liga Portugal. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **9 subiram** e **27 caíram**, com variação média de **-1.47%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 13 cartas destacadas nas tabelas, **Pizzi** registrou o maior movimento de 24h (+39,1%), enquanto **Rodrigo Mora** marcou o menor (-35,0%). A distância entre os extremos foi de **74,1 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-7,5%**: 5 destaques subiam e 8 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Liga Portugal no EA FC em 02/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-02-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **9 subiram** e **27 caíram**, com variação média de **-1.47%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Pizzi (85) **+39.1%** · 🔴 **Maior baixa:** Rodrigo Mora (88) **-35%**
 
@@ -41,11 +46,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Pizzi (85)** subiu **+39.1%** em 24h, a **40k coins** (faixa do dia: 28k–42k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
+- **Pizzi (85)** subiu **+39.1%** em 24h, a **40k coins** (faixa do dia: 28k–42k). Está em linha com a média de 7 dias (+5%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Geovany Quenda (85)** subiu **+38.7%** em 24h, a **120k coins** (faixa do dia: 86k–130k). Está +45% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Geovany Quenda (85)** subiu **+38.7%** em 24h, a **120k coins** (faixa do dia: 86k–130k). Está +45% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Paulo Futre (92)** subiu **+31%** em 24h, a **148k coins** (faixa do dia: 101k–159k). Está +20% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Paulo Futre (92)** subiu **+31%** em 24h, a **148k coins** (faixa do dia: 101k–159k). Está +20% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -64,11 +69,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Rodrigo Mora (88)** caiu **-35%** em 24h, a **49k coins** (faixa do dia: 42k–75k). Está +24% acima da média de 7 dias (aquecida). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Rodrigo Mora (88)** caiu **-35%** em 24h, a **49k coins** (faixa do dia: 42k–75k). Está +24% acima da média de 7 dias (aquecida). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
-- **Quaresma (89)** caiu **-30.1%** em 24h, a **300k coins** (faixa do dia: 300k–499k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
+- **Quaresma (89)** caiu **-30.1%** em 24h, a **300k coins** (faixa do dia: 300k–499k). Está em linha com a média de 7 dias (-3%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Vangelis Pavlidis (90)** caiu **-27.5%** em 24h, a **25k coins** (faixa do dia: 18k–38k). Está +20% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Vangelis Pavlidis (90)** caiu **-27.5%** em 24h, a **25k coins** (faixa do dia: 18k–38k). Está +20% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -78,16 +83,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (02/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (02/06/2026)?**
 Pizzi (85, Liga Portugal), com +39.1% em 24h, a 40k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Rodrigo Mora (88), -35% em 24h, a 49k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 27 em queda (média -1.47%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 9 cartas em alta contra 27 em queda (média -1.47%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -96,3 +101,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Liga Portugal baratos no EA FC em 02/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-02-pc/)
+- [Momentum de Liga Portugal no EA FC em 02/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-02-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

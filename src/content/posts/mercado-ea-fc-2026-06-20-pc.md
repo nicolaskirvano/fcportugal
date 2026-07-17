@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga Portugal FUT"
 pubDatetime: 2026-06-21T01:42:10.000Z
-title: "Liga Portugal no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Liga Portugal no EA FC em 20/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Santi García (84, Liga Portugal), com +47.9% em 24h, a 48k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Jan Bednarek (84), -38.5% em 24h, a 28k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 18 cartas em alta contra 16 em queda (média 6.04%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PC: Santi García liderou as altas e Jan Bednarek as baixas em Liga Portugal. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Santi García** registrou o maior movimento de 24h (+47,9%), enquanto **Jan Bednarek** marcou o menor (-38,5%). A distância entre os extremos foi de **86,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,3%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Liga Portugal no EA FC em 20/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-20-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Liga Portugal em PC apresenta um cenário de extrema volatilidade com um viés claramente alcista, onde as valorizações lideram a agenda com 18 altas contra apenas 16 quedas, resultando em uma média de variação positiva de 6.04% nas últimas 24 horas. Esse ambiente de compra agressiva sugere que os traders estão buscando ativos de qualidade em ligas secundárias, talvez em preparação para eventos futuros ou rotas específicas que favorecem jogadores com ratings elevados e custos acessíveis. A predominância de altas em jogadores como Santi García e Richard Ríos indica uma liquidez concentrada em nomes que oferecem bom custo-benefício para squads de média e alta gama. É crucial entender que essa média positiva não é uniforme, pois a dispersão entre os ativos cria oportunidades de arbitragem para quem sabe identificar os pontos de entrada corretos. O tom do dia é de otimismo cauteloso, onde a velocidade de execução é tão importante quanto a seleção do ativo, já que o mercado pode corrigir rapidamente após esses picos iniciais.
 
@@ -76,16 +81,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Santi García (84, Liga Portugal), com +47.9% em 24h, a 48k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Jan Bednarek (84), -38.5% em 24h, a 28k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 18 cartas em alta contra 16 em queda (média 6.04%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 18 cartas em alta contra 16 em queda (média 6.04%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Liga Portugal no EA FC em 20/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-20-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Liga Portugal no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

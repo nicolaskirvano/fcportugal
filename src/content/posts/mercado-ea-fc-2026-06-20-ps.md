@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga Portugal FUT"
 pubDatetime: 2026-06-21T01:41:11.000Z
-title: "Liga Portugal no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Liga Portugal no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Alexander Bah (86, Liga Portugal), com +17.8% em 24h, a 92k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Paulo Futre (92), -27.7% em 24h, a 35k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Alexander Bah (86) — 95% de probabilidade de alta, a 92k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 16 em queda (média -4.19%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Alexander Bah liderou as altas e Paulo Futre as baixas em Liga Portugal. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 19 cartas destacadas nas tabelas, **Alexander Bah** registrou o maior movimento de 24h (+17,8%), enquanto **Paulo Futre** marcou o menor (-27,7%). A distância entre os extremos foi de **45,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-4,7%**: 9 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Liga Portugal no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado da Liga Portugal em Console apresenta um cenário de extrema volatilidade e pessimismo generalizado nesta segunda-feira, 20 de junho de 2026, com os indicadores apontando claramente para uma tendência de baixa estrutural nos preços dos ativos. A análise dos dados das últimas 24 horas revela um desequilíbrio significativo na liquidez, onde apenas 12 jogadores registaram altas de preço, enquanto 16 sofreram quedas, resultando numa média negativa de -4.19% no segmento, o que sinaliza uma fuga de capitais e uma hesitação dos traders em manter posições de longo prazo. Este ambiente de incerteza é característico de períodos de transição ou de antecipação de eventos maiores, onde a especulação de curto prazo se torna mais arriscada e a demanda por cards de alto rendimento diminui substancialmente. Para o trader experiente, este é um dia para observar com cautela as divergências entre a ação do preço e as probabilidades de alta projetadas pelo modelo, identificando oportunidades de compra em ativos que estão sendo descartados indevidamente pelo mercado em massa. A predominância das quedas sugere que muitos jogadores, mesmo aqueles com fundamentos sólidos, estão sofrendo pressão de venda excessiva, criando assimpotenciais assimetrias de risco-recompensa para quem souber navegar neste mar de incertezas com disciplina e análise técnica rigorosa.
 
@@ -67,7 +70,7 @@ Entre os poucos ativos que conseguiram resistir à onda de vendas, Alexander Bah
 No outro extremo, as quedas são severas e indicam uma liquidação agressiva de posições, com Paulo Futre liderando as perdas com uma queda dramática de 27.7% para 35k coins, apesar de sua raridade e rating de 92, o que sugere uma correção de preço excessiva que pode oferecer oportunidades de compra para traders de valor, já que sua probabilidade de alta é de apenas 5%. Richard Ríos, na versão 87, sofreu uma queda de 25.7% para 342k coins, um movimento significativo para um ativo de alto valor, mas que ainda mantém uma probabilidade de alta de 42%, indicando que o mercado pode estar testando o fundo antes de uma possível estabilização ou recuperação parcial. Nicolás Otamendi registrou uma queda de 24.3% para 52k coins, com uma probabilidade de alta de 33%, o que sugere que a pressão vendedora ainda está presente, mas com sinais de esgotamento, tornando-o um ativo a ser monitorado de perto para reversiones de curto prazo. Ivan Cavaleiro caiu 20.4% para 32k coins, e com uma probabilidade de alta de apenas 5%, parece estar em uma tendência de baixa estrutural, o que o torna um ativo perigoso para comprar a fundo, a menos que haja uma mudança abrupta no sentimento do mercado. Matheus Dias, com queda de 18.3% para 24k coins e probabilidade de alta de 50%, apresenta um cenário mais equilibrado, onde a decisão de compra deve ser baseada na tolerância ao risco do trader, já que há chances iguais de continuação da queda ou de uma recuperação técnica imediata.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -110,19 +113,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Alexander Bah (86, Liga Portugal), com +17.8% em 24h, a 92k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Paulo Futre (92), -27.7% em 24h, a 35k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Alexander Bah (86) — 95% de probabilidade de alta, a 92k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Alexander Bah (86) — 95% de probabilidade de alta, a 92k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 12 cartas em alta contra 16 em queda (média -4.19%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 12 cartas em alta contra 16 em queda (média -4.19%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -131,3 +134,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Liga Portugal no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Liga Portugal no EA FC em 19/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-19-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

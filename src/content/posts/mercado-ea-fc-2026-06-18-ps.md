@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Liga Portugal FUT"
 pubDatetime: 2026-06-19T01:40:40.000Z
-title: "Liga Portugal no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Liga Portugal no EA FC em 18/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Vangelis Pavlidis (90, Liga Portugal), com +23.3% em 24h, a 37k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Oskar Pietuszewski (86), -32.3% em 24h, a 38k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Anatoliy Trubin (88) — 95% de probabilidade de alta, a 189k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 16 cartas em alta contra 16 em queda (média -1.43%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PS: Vangelis Pavlidis liderou as altas e Oskar Pietuszewski as baixas em Liga Portugal. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Vangelis Pavlidis** registrou o maior movimento de 24h (+23,3%), enquanto **Oskar Pietuszewski** marcou o menor (-32,3%). A distância entre os extremos foi de **55,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-1,4%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Liga Portugal no EA FC em 18/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-18-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -84,7 +87,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Jesús Ramírez | 84 | 41k coins | 44k coins | 74% |
 
 
-O modelo projeta alta probabilidade para Anatoliy Trubin (88) com 95% a 189k coins, Oskar Pietuszewski (86) com 95% a 38k coins, Alexander Bah (86) com 95% a 88k coins, João Carvalho (84) com 93% a 46k coins, Rodrigo Mora (88) com 83% a 32k coins, Jan Bednarek (84) com 81% a 49k coins, Santi García (84) com 81% a 42k coins e Jesús Ramírez (84) com 74% a 41k coins.
+Naquele snapshot, o modelo projetava alta probabilidade para Anatoliy Trubin (88) com 95% a 189k coins, Oskar Pietuszewski (86) com 95% a 38k coins, Alexander Bah (86) com 95% a 88k coins, João Carvalho (84) com 93% a 46k coins, Rodrigo Mora (88) com 83% a 32k coins, Jan Bednarek (84) com 81% a 49k coins, Santi García (84) com 81% a 42k coins e Jesús Ramírez (84) com 74% a 41k coins.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -113,19 +116,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Vangelis Pavlidis (90, Liga Portugal), com +23.3% em 24h, a 37k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Oskar Pietuszewski (86), -32.3% em 24h, a 38k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Anatoliy Trubin (88) — 95% de probabilidade de alta, a 189k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Anatoliy Trubin (88) — 95% de probabilidade de alta, a 189k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 16 cartas em alta contra 16 em queda (média -1.43%).
+**O mercado do Ultimate Team subiu ou caiu hoje?**
+Naquele dia, o mercado estava de lado — altas e quedas se equilibram, com 16 cartas em alta contra 16 em queda (média -1.43%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -134,3 +137,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Liga Portugal no EA FC em 18/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-18-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Liga Portugal no EA FC em 20/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-20-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
