@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:40:09.000Z
+pubDatetime: 2026-07-17T17:22:32.000Z
 title: "Investimentos EA FC: Liga Portugal em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Francisco Moura (90, Liga Portugal) lidera, com +77.4% em 7 dias a 47k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Quaresma (85, Liga Portugal) lidera, com +75% em 7 dias a 133k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Francisco Moura (90) acumula **+77.4% em 7 dias** a 47k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Quaresma (85) acumula **+75% em 7 dias** a 133k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.5% em 24h** e **+25.9% em 7 dias**.
-- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.2% em 24h** e **+39.5% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Francisco Moura | 90 | Liga Portugal | 47k coins | +9.3% | +77.4% | Esticada |
 | Quaresma | 85 | Liga Portugal | 133k coins | +15.7% | +75% | Esticada |
-| Vangelis Pavlidis | 90 | Liga Portugal | 53k coins | +2.8% | +61.8% | Esticada |
-| Ivan Cavaleiro | 85 | Liga Portugal | 59k coins | +7% | +58.4% | Momentum moderado |
-| Rodrigo Mora | 87 | Liga Portugal | 34k coins | +13.3% | +25.9% | Momentum moderado |
-| Nicolás Otamendi | 86 | Liga Portugal | 110k coins | +3.2% | +23.8% | Entrada a observar |
-| William Gomes | 84 | Liga Portugal | 40k coins | +1.2% | +16.3% | Entrada a observar |
-| Paulo Futre | 92 | Liga Portugal | 112k coins | +6.5% | +10.7% | Momentum moderado |
-| Vangelis Pavlidis | 86 | Liga Portugal | 36k coins | +2.7% | +6.3% | Entrada a observar |
+| Ivan Cavaleiro | 85 | Liga Portugal | 59k coins | +3.5% | +53.2% | Momentum moderado |
+| Rodrigo Mora | 87 | Liga Portugal | 34k coins | +24.8% | +25.9% | Esticada |
+| Paulo Futre | 92 | Liga Portugal | 106k coins | +4.7% | +8.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Francisco Moura (90)** — 47k coins, **+77.4% em 7 dias** (+9.3% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quaresma (85)** — 133k coins, **+75% em 7 dias** (+15.7% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Quaresma (85)** — 133k coins, **+75% em 7 dias** (+15.7% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Cavaleiro (85)** — 59k coins, **+53.2% em 7 dias** (+3.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vangelis Pavlidis (90)** — 53k coins, **+61.8% em 7 dias** (+2.8% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Mora (87)** — 34k coins, **+25.9% em 7 dias** (+24.8% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Cavaleiro (85)** — 59k coins, **+58.4% em 7 dias** (+7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Rodrigo Mora (87)** — 34k coins, **+25.9% em 7 dias** (+13.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Futre (92)** — 106k coins, **+8.7% em 7 dias** (+4.7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Francisco Moura (90, Liga Portugal) lidera, com +77.4% em 7 dias a 47k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Quaresma (85, Liga Portugal) lidera, com +75% em 7 dias a 133k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -91,7 +84,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
+> **Link patrocinado:** 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 
