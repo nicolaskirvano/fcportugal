@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:40:09.000Z
+pubDatetime: 2026-07-18T22:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Vangelis Pavlidis (90, Liga Portugal) lidera, com +73.2% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Emmanuel Maviram (84, Liga Portugal) lidera, com +15.7% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Vangelis Pavlidis (90) acumula **+73.2% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Emmanuel Maviram (84) acumula **+15.7% em 7 dias** a 54k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.8% em 24h** e **+15.7% em 7 dias**.
-- **2 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 12 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.3% em 24h** e **+13.8% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Vangelis Pavlidis | 90 | Liga Portugal | 55k coins | +3.8% | +73.2% | Esticada |
-| Trincão | 86 | Liga Portugal | 17.250 coins | +12.3% | +54.2% | Momentum moderado |
-| Yanis Begraoui | 86 | Liga Portugal | 42k coins | +20.4% | +27.6% | Esticada |
-| Pizzi | 85 | Liga Portugal | 32k coins | +7.6% | +25.5% | Momentum moderado |
-| Pedro Gonçalves | 86 | Liga Portugal | 38k coins | +9.1% | +21.9% | Momentum moderado |
-| Santi García | 84 | Liga Portugal | 35k coins | +7.8% | +18.8% | Momentum moderado |
-| William Gomes | 84 | Liga Portugal | 36k coins | +1.2% | +12.5% | Entrada a observar |
-| Florian Grillitsch | 84 | Liga Portugal | 40k coins | +15.2% | +11.2% | Momentum moderado |
-| Jesús Ramírez | 84 | Liga Portugal | 40k coins | +6% | +10.4% | Momentum moderado |
-| Vangelis Pavlidis | 84 | Liga Portugal | 38k coins | +1.4% | +10.3% | Entrada a observar |
-| Jan Bednarek | 84 | Liga Portugal | 39k coins | +2.5% | +10.1% | Entrada a observar |
-| Rodrigo Zalazar | 84 | Liga Portugal | 38k coins | +3.4% | +7.9% | Entrada a observar |
+| Emmanuel Maviram | 84 | Liga Portugal | 54k coins | +15.1% | +15.7% | Momentum moderado |
+| Pizzi | 85 | Liga Portugal | 32k coins | +7.6% | +14.3% | Momentum moderado |
+| Alexander Bah | 86 | Liga Portugal | 66k coins | +23.4% | +13.8% | Esticada |
+| Vangelis Pavlidis | 84 | Liga Portugal | 36k coins | +1.4% | +10.3% | Entrada a observar |
+| Vangelis Pavlidis | 86 | Liga Portugal | 40k coins | +11.3% | +9.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Vangelis Pavlidis (90)** — 55k coins, **+73.2% em 7 dias** (+3.8% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Maviram (84)** — 54k coins, **+15.7% em 7 dias** (+15.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trincão (86)** — 17.250 coins, **+54.2% em 7 dias** (+12.3% em 24h). Preço -24% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pizzi (85)** — 32k coins, **+14.3% em 7 dias** (+7.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yanis Begraoui (86)** — 42k coins, **+27.6% em 7 dias** (+20.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexander Bah (86)** — 66k coins, **+13.8% em 7 dias** (+23.4% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pizzi (85)** — 32k coins, **+25.5% em 7 dias** (+7.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vangelis Pavlidis (84)** — 36k coins, **+10.3% em 7 dias** (+1.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Gonçalves (86)** — 38k coins, **+21.9% em 7 dias** (+9.1% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vangelis Pavlidis (86)** — 40k coins, **+9.1% em 7 dias** (+11.3% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Vangelis Pavlidis (90, Liga Portugal) lidera, com +73.2% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Emmanuel Maviram (84, Liga Portugal) lidera, com +15.7% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Richard Ríos</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Geovany Quenda</text>
-<rect x="285" y="153" width="402" height="28" rx="7" fill="#22c55e"/>
-<text x="697" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ivan Cavaleiro</text>
-<rect x="285" y="211" width="371" height="28" rx="7" fill="#22c55e"/>
-<text x="666" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.1%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">José Fonte</text>
-<rect x="285" y="269" width="239" height="28" rx="7" fill="#22c55e"/>
-<text x="534" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
-<rect x="285" y="327" width="174" height="28" rx="7" fill="#22c55e"/>
-<text x="469" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yanis Begraoui</text>
-<rect x="285" y="385" width="172" height="28" rx="7" fill="#22c55e"/>
-<text x="467" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jovane Cabral</text>
+<rect x="285" y="153" width="414" height="28" rx="7" fill="#22c55e"/>
+<text x="709" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+51.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Diomande</text>
+<rect x="285" y="211" width="246" height="28" rx="7" fill="#22c55e"/>
+<text x="541" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">António Silva</text>
+<rect x="285" y="269" width="235" height="28" rx="7" fill="#22c55e"/>
+<text x="530" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Francisco Moura</text>
+<rect x="285" y="327" width="203" height="28" rx="7" fill="#22c55e"/>
+<text x="498" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexander Bah</text>
+<rect x="285" y="385" width="190" height="28" rx="7" fill="#22c55e"/>
+<text x="485" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.4%</text>
 </svg>
