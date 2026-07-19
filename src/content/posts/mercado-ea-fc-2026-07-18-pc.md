@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:40:17.000Z
+pubDatetime: 2026-07-19T01:40:17.000Z
 title: "Mercado EA FC em 18/07: Liga Portugal — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Yanis Begraoui (86, Liga Portugal), com +41.6% em 24h, a 54k coins no PC."
+    a: "Yanis Begraoui (86, Liga Portugal), com +35.4% em 24h, a 54k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Vangelis Pavlidis (90), -40% em 24h, a 39k coins."
+    a: "Larrazabal (84), -25.2% em 24h, a 44k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 17 cartas em alta contra 16 em queda (média 3.25%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 16 cartas em alta contra 16 em queda (média 4.05%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**18/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **17 subiram**, **16 caíram** (80+ e 5k+ coins), média de **3.25%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**18/07/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **16 subiram**, **16 caíram** (80+ e 5k+ coins), média de **4.05%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Yanis Begraoui (86) **+41.6%** · 🔴 **Maior baixa:** Vangelis Pavlidis (90) **-40%**
+> 🟢 **Maior alta:** Yanis Begraoui (86) **+35.4%** · 🔴 **Maior baixa:** Larrazabal (84) **-25.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Liga Portugal — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 81.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.5% entre as cartas que se moveram; o universo observado reúne 42 cartas.
-- **Concentração:** Liga Portugal aparece em 20 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 60.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 42 cartas.
+- **Concentração:** Liga Portugal aparece em 16 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Yanis Begraoui | 86 | Liga Portugal | 54k coins | +41.6% | +11.2% |
-| Rodrigo Mora | 87 | Liga Portugal | 30k coins | +20% | -5% |
-| João Moutinho | 88 | Liga Portugal | 119k coins | +19% | +20.2% |
-| João Carvalho | 84 | Liga Portugal | 42k coins | +12.2% | -5.1% |
-| Gonçalo Inácio | 89 | Liga Portugal | 157k coins | +9% | +5.4% |
-| Vangelis Pavlidis | 84 | Liga Portugal | 38k coins | +7.9% | 0% |
+| Yanis Begraoui | 86 | Liga Portugal | 54k coins | +35.4% | +11.2% |
+| Rodrigo Mora | 87 | Liga Portugal | 30k coins | +25.3% | -1.7% |
+| Quaresma | 85 | Liga Portugal | 139k coins | +23% | 0% |
+| Pizzi | 85 | Liga Portugal | 34k coins | +18.3% | +43.2% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 46k coins | +16.9% | +17.6% |
+| João Carvalho | 84 | Liga Portugal | 41k coins | +10.8% | -12.8% |
+| Quaresma | 89 | Liga Portugal | 320k coins | +10% | +15.5% |
+| Jovane Cabral | 84 | Liga Portugal | 49k coins | +8.3% | +21.9% |
+| João Moutinho | 88 | Liga Portugal | 119k coins | +8.2% | +20.2% |
 | Dailon Livramento | 80 | Liga Portugal | 48k coins | +6.7% | +11.8% |
-| Richard Ríos | 87 | Liga Portugal | 283k coins | +6.1% | -9.7% |
-| Alexander Bah | 86 | Liga Portugal | 164k coins | +5.6% | +23.4% |
-| Eduardo Quaresma | 88 | Liga Portugal | 26k coins | +4.8% | -43.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,39 @@ Hoje (**18/07/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Yanis Begraoui (86)** subiu **+41.6%** em 24h, a **54k coins** (faixa do dia: 38k–55k). Está +30% acima da média de 7 dias (aquecida).
+- **Yanis Begraoui (86)** subiu **+35.4%** em 24h, a **54k coins** (faixa do dia: 38k–55k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Rodrigo Mora (87)** subiu **+20%** em 24h, a **30k coins** (faixa do dia: 23k–30k). Está em linha com a média de 7 dias (-5%).
+- **Rodrigo Mora (87)** subiu **+25.3%** em 24h, a **30k coins** (faixa do dia: 24k–30k). Está em linha com a média de 7 dias (-5%).
 
-- **João Moutinho (88)** subiu **+19%** em 24h, a **119k coins** (faixa do dia: 93k–119k). Está +16% acima da média de 7 dias (aquecida).
+- **Quaresma (85)** subiu **+23%** em 24h, a **139k coins** (faixa do dia: 100k–139k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vangelis Pavlidis | 90 | Liga Portugal | 39k coins | -40% | +20% |
-| Ousmane Diomande | 85 | Liga Portugal | 22k coins | -35.4% | -40.8% |
-| Larrazabal | 84 | Liga Portugal | 44k coins | -25.2% | -1.7% |
-| Pedro Gonçalves | 86 | Liga Portugal | 32k coins | -22.3% | -11.6% |
-| António Silva | 87 | Liga Portugal | 30k coins | -16.7% | -53.4% |
-| Santi García | 84 | Liga Portugal | 38k coins | -13.1% | -24% |
-| Geovany Quenda | 85 | Liga Portugal | 64k coins | -12% | +25.7% |
-| Richard Ríos | 88 | Liga Portugal | 207k coins | -10.6% | 0% |
-| Pizzi | 85 | Liga Portugal | 29k coins | -8% | +21.1% |
-| Borja Sainz | 83 | Liga Portugal | 40k coins | -5.3% | -5.3% |
+| Larrazabal | 84 | Liga Portugal | 44k coins | -25.2% | +12.7% |
+| Richard Ríos | 87 | Liga Portugal | 299k coins | -25.1% | -14.3% |
+| Pedro Gonçalves | 86 | Liga Portugal | 34k coins | -14.6% | -11.6% |
+| Santi García | 84 | Liga Portugal | 37k coins | -12.4% | -25.5% |
+| Borja Sainz | 83 | Liga Portugal | 36k coins | -5.3% | -14.8% |
+| Eduardo Quaresma | 88 | Liga Portugal | 26k coins | -4.3% | -41.8% |
 
 
 ### Análise das baixas
 
-- **Vangelis Pavlidis (90)** caiu **-40%** em 24h, a **39k coins** (faixa do dia: 39k–65k). Está -11% abaixo da média de 7 dias (descontada).
-
-- **Ousmane Diomande (85)** caiu **-35.4%** em 24h, a **22k coins** (faixa do dia: 19.250–34k). Está -57% abaixo da média de 7 dias (descontada).
-
 - **Larrazabal (84)** caiu **-25.2%** em 24h, a **44k coins** (faixa do dia: 34k–60k). Está em linha com a média de 7 dias (-6%).
+
+- **Richard Ríos (87)** caiu **-25.1%** em 24h, a **299k coins** (faixa do dia: 261k–399k). Está -14% abaixo da média de 7 dias (descontada).
+
+- **Pedro Gonçalves (86)** caiu **-14.6%** em 24h, a **34k coins** (faixa do dia: 30k–55k). Está -27% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Yanis Begraoui já avançou 41.6% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Yanis Begraoui já avançou 35.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Vangelis Pavlidis recuou -40%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Larrazabal recuou -25.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +105,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Yanis Begraoui (86, Liga Portugal), com +41.6% em 24h, a 54k coins no PC.
+Yanis Begraoui (86, Liga Portugal), com +35.4% em 24h, a 54k coins no PC.
 
 **E a maior queda do dia?**
-Vangelis Pavlidis (90), -40% em 24h, a 39k coins.
+Larrazabal (84), -25.2% em 24h, a 44k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 17 cartas em alta contra 16 em queda (média 3.25%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 16 cartas em alta contra 16 em queda (média 4.05%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:40:18.000Z
+pubDatetime: 2026-07-19T01:40:18.000Z
 title: "Investimentos EA FC: Liga Portugal em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Alexander Bah (86, Liga Portugal) lidera, com +23.4% em 7 dias a 164k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ricardo Carvalho (88, Liga Portugal) lidera, com +72.7% em 7 dias a 24k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Alexander Bah (86) acumula **+23.4% em 7 dias** a 164k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Ricardo Carvalho (88) acumula **+72.7% em 7 dias** a 24k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.6% em 24h** e **+15.1% em 7 dias**.
-- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.2% em 24h** e **+18.9% em 7 dias**.
+- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alexander Bah | 86 | Liga Portugal | 164k coins | +5.6% | +23.4% | Momentum moderado |
-| João Moutinho | 88 | Liga Portugal | 119k coins | +19% | +20.2% | Momentum moderado |
-| William Gomes | 84 | Liga Portugal | 42k coins | +3.6% | +15.1% | Entrada a observar |
-| Ivan Cavaleiro | 85 | Liga Portugal | 38k coins | +2.7% | +11.9% | Entrada a observar |
-| Gonçalo Inácio | 89 | Liga Portugal | 157k coins | +9% | +5.4% | Momentum moderado |
+| Ricardo Carvalho | 88 | Liga Portugal | 24k coins | +1.1% | +72.7% | Esticada |
+| Pizzi | 85 | Liga Portugal | 34k coins | +18.3% | +43.2% | Momentum moderado |
+| Jovane Cabral | 84 | Liga Portugal | 49k coins | +8.3% | +21.9% | Momentum moderado |
+| João Moutinho | 88 | Liga Portugal | 119k coins | +8.2% | +20.2% | Momentum moderado |
+| Rodrigo Zalazar | 84 | Liga Portugal | 46k coins | +16.9% | +17.6% | Momentum moderado |
+| Alexander Bah | 86 | Liga Portugal | 149k coins | +3.2% | +16.1% | Entrada a observar |
+| Richard Ríos | 88 | Liga Portugal | 208k coins | +6.7% | +15.6% | Momentum moderado |
+| Yanis Begraoui | 86 | Liga Portugal | 54k coins | +35.4% | +11.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Alexander Bah (86)** — 164k coins, **+23.4% em 7 dias** (+5.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Carvalho (88)** — 24k coins, **+72.7% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Moutinho (88)** — 119k coins, **+20.2% em 7 dias** (+19% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pizzi (85)** — 34k coins, **+43.2% em 7 dias** (+18.3% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **William Gomes (84)** — 42k coins, **+15.1% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jovane Cabral (84)** — 49k coins, **+21.9% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ivan Cavaleiro (85)** — 38k coins, **+11.9% em 7 dias** (+2.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Moutinho (88)** — 119k coins, **+20.2% em 7 dias** (+8.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gonçalo Inácio (89)** — 157k coins, **+5.4% em 7 dias** (+9% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Zalazar (84)** — 46k coins, **+17.6% em 7 dias** (+16.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +81,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Alexander Bah (86, Liga Portugal) lidera, com +23.4% em 7 dias a 164k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ricardo Carvalho (88, Liga Portugal) lidera, com +72.7% em 7 dias a 24k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
