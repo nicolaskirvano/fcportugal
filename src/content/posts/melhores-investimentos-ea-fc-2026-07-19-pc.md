@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:40:18.000Z
+pubDatetime: 2026-07-19T13:40:18.000Z
 title: "Investimentos EA FC: Liga Portugal em 19/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 19/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/07/2026) no EA FC?"
-    a: "Nélson Oliveira (86, Liga Portugal) lidera, com +43.6% em 7 dias a 34k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Francisco Moura (90, Liga Portugal) lidera, com +77.4% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nélson Oliveira (86) acumula **+43.6% em 7 dias** a 34k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Francisco Moura (90) acumula **+77.4% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 19/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-19-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.0% em 24h** e **+20.0% em 7 dias**.
-- **3 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+3.6% em 24h** e **+25.0% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nélson Oliveira | 86 | Liga Portugal | 34k coins | +20.5% | +43.6% | Esticada |
-| Florian Grillitsch | 84 | Liga Portugal | 49k coins | +37.8% | +23.9% | Esticada |
-| Yanis Begraoui | 86 | Liga Portugal | 50k coins | +25.5% | +16.1% | Esticada |
-| Richard Ríos | 88 | Liga Portugal | 208k coins | +2.5% | +12.4% | Entrada a observar |
+| Francisco Moura | 90 | Liga Portugal | 55k coins | +1.9% | +77.4% | Esticada |
+| Nélson Oliveira | 86 | Liga Portugal | 34k coins | +26.2% | +50% | Esticada |
+| Jovane Cabral | 84 | Liga Portugal | 50k coins | +3.6% | +25% | Entrada a observar |
+| Yanis Begraoui | 86 | Liga Portugal | 47k coins | +15.3% | +18.2% | Momentum moderado |
+| Richard Ríos | 88 | Liga Portugal | 205k coins | +2.5% | +12.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Nélson Oliveira (86)** — 34k coins, **+43.6% em 7 dias** (+20.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francisco Moura (90)** — 55k coins, **+77.4% em 7 dias** (+1.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Grillitsch (84)** — 49k coins, **+23.9% em 7 dias** (+37.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nélson Oliveira (86)** — 34k coins, **+50% em 7 dias** (+26.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yanis Begraoui (86)** — 50k coins, **+16.1% em 7 dias** (+25.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jovane Cabral (84)** — 50k coins, **+25% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Richard Ríos (88)** — 208k coins, **+12.4% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yanis Begraoui (86)** — 47k coins, **+18.2% em 7 dias** (+15.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Richard Ríos (88)** — 205k coins, **+12.4% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/07/2026) no EA FC?**  
-Nélson Oliveira (86, Liga Portugal) lidera, com +43.6% em 7 dias a 34k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Francisco Moura (90, Liga Portugal) lidera, com +77.4% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
