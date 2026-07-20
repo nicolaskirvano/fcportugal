@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vangelis Pavlidis</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Grillitsch</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
-<rect x="285" y="153" width="230" height="28" rx="7" fill="#22c55e"/>
-<text x="525" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
-<rect x="285" y="211" width="206" height="28" rx="7" fill="#22c55e"/>
-<text x="501" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Grillitsch</text>
-<rect x="285" y="269" width="180" height="28" rx="7" fill="#22c55e"/>
-<text x="475" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Horta</text>
-<rect x="285" y="327" width="160" height="28" rx="7" fill="#22c55e"/>
-<text x="455" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Beni</text>
-<rect x="285" y="385" width="155" height="28" rx="7" fill="#22c55e"/>
-<text x="450" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
+<rect x="285" y="153" width="409" height="28" rx="7" fill="#22c55e"/>
+<text x="704" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Zalazar</text>
+<rect x="285" y="211" width="391" height="28" rx="7" fill="#22c55e"/>
+<text x="686" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Beni</text>
+<rect x="285" y="269" width="389" height="28" rx="7" fill="#22c55e"/>
+<text x="684" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Carvalho</text>
+<rect x="285" y="327" width="339" height="28" rx="7" fill="#22c55e"/>
+<text x="634" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pedro Gonçalves</text>
+<rect x="285" y="385" width="208" height="28" rx="7" fill="#22c55e"/>
+<text x="503" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.0%</text>
 </svg>
