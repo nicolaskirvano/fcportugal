@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Felipe</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jovane Cabral</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oskar Pietuszewski</text>
-<rect x="285" y="153" width="366" height="28" rx="7" fill="#22c55e"/>
-<text x="661" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">António Silva</text>
-<rect x="285" y="211" width="271" height="28" rx="7" fill="#22c55e"/>
-<text x="566" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nélson Oliveira</text>
-<rect x="285" y="269" width="237" height="28" rx="7" fill="#22c55e"/>
-<text x="532" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gonçalo Inácio</text>
-<rect x="285" y="327" width="230" height="28" rx="7" fill="#22c55e"/>
-<text x="525" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trincão</text>
-<rect x="285" y="385" width="191" height="28" rx="7" fill="#22c55e"/>
-<text x="486" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
+<rect x="285" y="153" width="258" height="28" rx="7" fill="#22c55e"/>
+<text x="553" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Horta</text>
+<rect x="285" y="211" width="224" height="28" rx="7" fill="#22c55e"/>
+<text x="519" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Grillitsch</text>
+<rect x="285" y="269" width="197" height="28" rx="7" fill="#22c55e"/>
+<text x="492" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Carvalho</text>
+<rect x="285" y="327" width="156" height="28" rx="7" fill="#22c55e"/>
+<text x="451" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Moutinho</text>
+<rect x="285" y="385" width="138" height="28" rx="7" fill="#22c55e"/>
+<text x="433" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.3%</text>
 </svg>
