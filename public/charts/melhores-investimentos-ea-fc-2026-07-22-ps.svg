@@ -6,17 +6,17 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Horta</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+77.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matheus Dias</text>
-<rect x="285" y="153" width="125" height="28" rx="7" fill="#22c55e"/>
-<text x="420" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emmanuel Maviram</text>
-<rect x="285" y="211" width="124" height="28" rx="7" fill="#22c55e"/>
-<text x="419" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
-<rect x="285" y="269" width="97" height="28" rx="7" fill="#22c55e"/>
-<text x="392" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">William Gomes</text>
-<rect x="285" y="327" width="46" height="28" rx="7" fill="#22c55e"/>
-<text x="341" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Francisco Moura</text>
+<rect x="285" y="153" width="177" height="28" rx="7" fill="#22c55e"/>
+<text x="472" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Diomande</text>
+<rect x="285" y="211" width="125" height="28" rx="7" fill="#22c55e"/>
+<text x="420" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Moutinho</text>
+<rect x="285" y="269" width="111" height="28" rx="7" fill="#22c55e"/>
+<text x="406" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vangelis Pavlidis</text>
+<rect x="285" y="327" width="42" height="28" rx="7" fill="#22c55e"/>
+<text x="337" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.1%</text>
 </svg>
