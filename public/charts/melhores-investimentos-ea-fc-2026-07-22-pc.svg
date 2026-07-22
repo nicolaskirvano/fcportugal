@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vangelis Pavlidis</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Zalazar</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Francisco Moura</text>
-<rect x="285" y="153" width="294" height="28" rx="7" fill="#22c55e"/>
-<text x="589" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jan Bednarek</text>
-<rect x="285" y="211" width="96" height="28" rx="7" fill="#22c55e"/>
-<text x="391" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Grillitsch</text>
-<rect x="285" y="269" width="91" height="28" rx="7" fill="#22c55e"/>
-<text x="386" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emmanuel Maviram</text>
-<rect x="285" y="327" width="80" height="28" rx="7" fill="#22c55e"/>
-<text x="375" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yanis Begraoui</text>
-<rect x="285" y="385" width="74" height="28" rx="7" fill="#22c55e"/>
-<text x="369" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matheus Dias</text>
+<rect x="285" y="153" width="275" height="28" rx="7" fill="#22c55e"/>
+<text x="570" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Carvalho</text>
+<rect x="285" y="211" width="163" height="28" rx="7" fill="#22c55e"/>
+<text x="458" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emmanuel Maviram</text>
+<rect x="285" y="269" width="120" height="28" rx="7" fill="#22c55e"/>
+<text x="415" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vangelis Pavlidis</text>
+<rect x="285" y="327" width="70" height="28" rx="7" fill="#22c55e"/>
+<text x="365" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Moutinho</text>
+<rect x="285" y="385" width="63" height="28" rx="7" fill="#22c55e"/>
+<text x="358" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.8%</text>
 </svg>

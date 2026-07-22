@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:40:18.000Z
+pubDatetime: 2026-07-22T22:40:18.000Z
 title: "Investimentos EA FC: Liga Portugal em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Vangelis Pavlidis (90, Liga Portugal) lidera, com +66.2% em 7 dias a 66k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rodrigo Zalazar (84, Liga Portugal) lidera, com +44.5% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Vangelis Pavlidis (90) acumula **+66.2% em 7 dias** a 66k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rodrigo Zalazar (84) acumula **+44.5% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.9% em 24h** e **+12.6% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.8% em 24h** e **+13.1% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Vangelis Pavlidis | 90 | Liga Portugal | 66k coins | +12.7% | +66.2% | Esticada |
-| Francisco Moura | 90 | Liga Portugal | 64k coins | +1.6% | +40.5% | Momentum moderado |
-| Jan Bednarek | 84 | Liga Portugal | 40k coins | +3.2% | +13.2% | Entrada a observar |
-| Florian Grillitsch | 84 | Liga Portugal | 44k coins | +5.9% | +12.6% | Momentum moderado |
+| Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +1% | +44.5% | Momentum moderado |
+| Matheus Dias | 87 | Liga Portugal | 21k coins | +15% | +25.5% | Momentum moderado |
+| Ricardo Carvalho | 89 | Liga Portugal | 80k coins | +4.6% | +15.1% | Entrada a observar |
 | Emmanuel Maviram | 84 | Liga Portugal | 50k coins | +39.9% | +11.1% | Esticada |
-| Yanis Begraoui | 86 | Liga Portugal | 46k coins | +1.1% | +10.2% | Entrada a observar |
-| Vangelis Pavlidis | 84 | Liga Portugal | 37k coins | +7.2% | +6.4% | Momentum moderado |
+| Vangelis Pavlidis | 84 | Liga Portugal | 37k coins | +6.5% | +6.5% | Momentum moderado |
+| João Moutinho | 88 | Liga Portugal | 109k coins | +9% | +5.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Vangelis Pavlidis (90)** — 66k coins, **+66.2% em 7 dias** (+12.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Zalazar (84)** — 50k coins, **+44.5% em 7 dias** (+1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Francisco Moura (90)** — 64k coins, **+40.5% em 7 dias** (+1.6% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matheus Dias (87)** — 21k coins, **+25.5% em 7 dias** (+15% em 24h). Preço -46% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jan Bednarek (84)** — 40k coins, **+13.2% em 7 dias** (+3.2% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Carvalho (89)** — 80k coins, **+15.1% em 7 dias** (+4.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Grillitsch (84)** — 44k coins, **+12.6% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Maviram (84)** — 50k coins, **+11.1% em 7 dias** (+39.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emmanuel Maviram (84)** — 50k coins, **+11.1% em 7 dias** (+39.9% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vangelis Pavlidis (84)** — 37k coins, **+6.5% em 7 dias** (+6.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Vangelis Pavlidis (90, Liga Portugal) lidera, com +66.2% em 7 dias a 66k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rodrigo Zalazar (84, Liga Portugal) lidera, com +44.5% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
