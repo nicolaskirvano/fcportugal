@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T22:40:18.000Z
+pubDatetime: 2026-07-23T01:40:18.000Z
 title: "Investimentos EA FC: Liga Portugal em 22/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.8% em 24h** e **+13.1% em 7 dias**.
-- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.5% em 24h** e **+18.2% em 7 dias**.
+- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,24 +44,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +1% | +44.5% | Momentum moderado |
-| Matheus Dias | 87 | Liga Portugal | 21k coins | +15% | +25.5% | Momentum moderado |
-| Ricardo Carvalho | 89 | Liga Portugal | 80k coins | +4.6% | +15.1% | Entrada a observar |
-| Emmanuel Maviram | 84 | Liga Portugal | 50k coins | +39.9% | +11.1% | Esticada |
-| Vangelis Pavlidis | 84 | Liga Portugal | 37k coins | +6.5% | +6.5% | Momentum moderado |
-| João Moutinho | 88 | Liga Portugal | 109k coins | +9% | +5.8% | Momentum moderado |
+| Francisco Moura | 90 | Liga Portugal | 64k coins | +10.3% | +27.6% | Momentum moderado |
+| Yanis Begraoui | 86 | Liga Portugal | 46k coins | +36.5% | +21.7% | Esticada |
+| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +1.8% | +18.2% | Entrada a observar |
+| Vangelis Pavlidis | 90 | Liga Portugal | 51k coins | +2.5% | +11.5% | Entrada a observar |
+| Vangelis Pavlidis | 84 | Liga Portugal | 37k coins | +6.5% | +9.6% | Momentum moderado |
+| João Moutinho | 88 | Liga Portugal | 108k coins | +9% | +6.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Rodrigo Zalazar (84)** — 50k coins, **+44.5% em 7 dias** (+1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Zalazar (84)** — 50k coins, **+44.5% em 7 dias** (+1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matheus Dias (87)** — 21k coins, **+25.5% em 7 dias** (+15% em 24h). Preço -46% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Francisco Moura (90)** — 64k coins, **+27.6% em 7 dias** (+10.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ricardo Carvalho (89)** — 80k coins, **+15.1% em 7 dias** (+4.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yanis Begraoui (86)** — 46k coins, **+21.7% em 7 dias** (+36.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emmanuel Maviram (84)** — 50k coins, **+11.1% em 7 dias** (+39.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jesús Ramírez (84)** — 42k coins, **+18.2% em 7 dias** (+1.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vangelis Pavlidis (84)** — 37k coins, **+6.5% em 7 dias** (+6.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vangelis Pavlidis (90)** — 51k coins, **+11.5% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
