@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jesús Ramírez</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Felipe</text>
-<rect x="285" y="153" width="314" height="28" rx="7" fill="#22c55e"/>
-<text x="609" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Borja Sainz</text>
-<rect x="285" y="211" width="293" height="28" rx="7" fill="#22c55e"/>
-<text x="588" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolás Otamendi</text>
-<rect x="285" y="269" width="258" height="28" rx="7" fill="#22c55e"/>
-<text x="553" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Francisco Moura</text>
-<rect x="285" y="327" width="255" height="28" rx="7" fill="#22c55e"/>
-<text x="550" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">William Gomes</text>
-<rect x="285" y="385" width="208" height="28" rx="7" fill="#22c55e"/>
-<text x="503" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Oskar Pietuszewski</text>
+<rect x="285" y="153" width="448" height="28" rx="7" fill="#22c55e"/>
+<text x="743" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">José Fonte</text>
+<rect x="285" y="211" width="433" height="28" rx="7" fill="#22c55e"/>
+<text x="728" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexander Bah</text>
+<rect x="285" y="269" width="415" height="28" rx="7" fill="#22c55e"/>
+<text x="710" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Felipe</text>
+<rect x="285" y="327" width="320" height="28" rx="7" fill="#22c55e"/>
+<text x="615" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trincão</text>
+<rect x="285" y="385" width="286" height="28" rx="7" fill="#22c55e"/>
+<text x="581" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.9%</text>
 </svg>
