@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T13:40:17.000Z
+pubDatetime: 2026-07-23T16:40:16.000Z
 title: "Mercado EA FC em 23/07: Liga Portugal — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
     a: "Jesús Ramírez (84, Liga Portugal), com +54.5% em 24h, a 42k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Ousmane Diomande (85), -24.2% em 24h, a 35k coins."
+    a: "Geovany Quenda (85), -30.7% em 24h, a 49k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 21 cartas em alta contra 18 em queda (média 9.3%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 17 cartas em alta contra 20 em queda (média 5.99%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**23/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **21 subiram**, **18 caíram** (80+ e 5k+ coins), média de **9.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**23/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **17 subiram**, **20 caíram** (80+ e 5k+ coins), média de **5.99%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Jesús Ramírez (84) **+54.5%** · 🔴 **Maior baixa:** Ousmane Diomande (85) **-24.2%**
+> 🟢 **Maior alta:** Jesús Ramírez (84) **+54.5%** · 🔴 **Maior baixa:** Geovany Quenda (85) **-30.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Liga Portugal — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**23/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 78.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.8% entre as cartas que se moveram; o universo observado reúne 47 cartas.
-- **Concentração:** Liga Portugal aparece em 20 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 85.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.9% entre as cartas que se moveram; o universo observado reúne 42 cartas.
+- **Concentração:** Liga Portugal aparece em 18 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +54.5% | +18.9% |
+| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +54.5% | +6.9% |
 | Pablo Felipe | 80 | Liga Portugal | 48k coins | +35.7% | +35.7% |
-| Richard Ríos | 88 | Liga Portugal | 178k coins | +34.8% | +7.2% |
 | Borja Sainz | 83 | Liga Portugal | 40k coins | +33.3% | -5.3% |
-| Rodrigo Mora | 88 | Liga Portugal | 44k coins | +33.3% | +1.1% |
-| Nicolás Otamendi | 86 | Liga Portugal | 80k coins | +19.3% | -15.3% |
-| Alexander Bah | 86 | Liga Portugal | 148k coins | +19.2% | +10.4% |
-| Nélson Oliveira | 86 | Liga Portugal | 24k coins | +14.9% | -15.8% |
+| Nicolás Otamendi | 86 | Liga Portugal | 83k coins | +29.3% | -9.5% |
+| Francisco Moura | 90 | Liga Portugal | 64k coins | +29% | +29% |
+| William Gomes | 84 | Liga Portugal | 48k coins | +23.6% | -1.5% |
+| Ousmane Diomande | 85 | Liga Portugal | 32k coins | +20.9% | -33.2% |
+| Alexander Bah | 86 | Liga Portugal | 147k coins | +18.4% | +9.6% |
 | Ricardo Horta | 90 | Liga Portugal | 58k coins | +12.5% | +30% |
-| Quaresma | 85 | Liga Portugal | 140k coins | +11.1% | -21.4% |
+| Quaresma | 89 | Liga Portugal | 270k coins | +11.1% | +15.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,41 @@ Hoje (**23/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jesús Ramírez (84)** subiu **+54.5%** em 24h, a **42k coins** (faixa do dia: 28k–42k). Está +8% acima da média de 7 dias (aquecida).
+- **Jesús Ramírez (84)** subiu **+54.5%** em 24h, a **42k coins** (faixa do dia: 28k–42k). Está em linha com a média de 7 dias (+6%).
 
-- **Pablo Felipe (80)** subiu **+35.7%** em 24h, a **48k coins** (faixa do dia: 35k–48k). Está +20% acima da média de 7 dias (aquecida).
+- **Pablo Felipe (80)** subiu **+35.7%** em 24h, a **48k coins** (faixa do dia: 35k–48k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Richard Ríos (88)** subiu **+34.8%** em 24h, a **178k coins** (faixa do dia: 98k–196k). Está em linha com a média de 7 dias (-5%).
+- **Borja Sainz (83)** subiu **+33.3%** em 24h, a **40k coins** (faixa do dia: 30k–42k). Está em linha com a média de 7 dias (+5%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ousmane Diomande | 85 | Liga Portugal | 35k coins | -24.2% | -36.5% |
-| Florian Grillitsch | 84 | Liga Portugal | 36k coins | -22.8% | -22.3% |
-| Gonçalo Inácio | 89 | Liga Portugal | 118k coins | -17.5% | -39.2% |
-| Santi García | 84 | Liga Portugal | 46k coins | -16.8% | -14.9% |
-| Jan Bednarek | 84 | Liga Portugal | 36k coins | -16.3% | 0% |
-| Paulo Futre | 92 | Liga Portugal | 90k coins | -15.8% | -6.4% |
-| Oskar Pietuszewski | 86 | Liga Portugal | 90k coins | -11.8% | -9.5% |
-| Ricardo Carvalho | 89 | Liga Portugal | 79k coins | -11.1% | +33.3% |
-| Yanis Begraoui | 86 | Liga Portugal | 44k coins | -5.4% | +6.7% |
+| Geovany Quenda | 85 | Liga Portugal | 49k coins | -30.7% | -30.7% |
+| Santi García | 84 | Liga Portugal | 35k coins | -21.8% | -17.6% |
+| Jan Bednarek | 84 | Liga Portugal | 40k coins | -20.7% | -18.8% |
+| Paulo Futre | 92 | Liga Portugal | 129k coins | -18.2% | -26.8% |
+| Ricardo Carvalho | 89 | Liga Portugal | 80k coins | -11.7% | +33.6% |
+| Vangelis Pavlidis | 84 | Liga Portugal | 34k coins | -7.4% | -8% |
+| Yanis Begraoui | 86 | Liga Portugal | 43k coins | -5.5% | +6.8% |
 | Dailon Livramento | 80 | Liga Portugal | 45k coins | -5.3% | +1.1% |
 
 
 ### Análise das baixas
 
-- **Ousmane Diomande (85)** caiu **-24.2%** em 24h, a **35k coins** (faixa do dia: 24k–68k). Está em linha com a média de 7 dias (-5%).
+- **Geovany Quenda (85)** caiu **-30.7%** em 24h, a **49k coins** (faixa do dia: 49k–75k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Florian Grillitsch (84)** caiu **-22.8%** em 24h, a **36k coins** (faixa do dia: 36k–48k). Está -18% abaixo da média de 7 dias (descontada).
+- **Santi García (84)** caiu **-21.8%** em 24h, a **35k coins** (faixa do dia: 35k–46k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Gonçalo Inácio (89)** caiu **-17.5%** em 24h, a **118k coins** (faixa do dia: 118k–220k). Está -33% abaixo da média de 7 dias (descontada).
+- **Jan Bednarek (84)** caiu **-20.7%** em 24h, a **40k coins** (faixa do dia: 32k–41k). Está em linha com a média de 7 dias (+1%).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Jesús Ramírez já avançou 54.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ousmane Diomande recuou -24.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Geovany Quenda recuou -30.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +110,10 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 Jesús Ramírez (84, Liga Portugal), com +54.5% em 24h, a 42k coins no PC.
 
 **E a maior queda do dia?**
-Ousmane Diomande (85), -24.2% em 24h, a 35k coins.
+Geovany Quenda (85), -30.7% em 24h, a 49k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 21 cartas em alta contra 18 em queda (média 9.3%).
+Hoje o mercado está em alta — predominam as valorizações, com 17 cartas em alta contra 20 em queda (média 5.99%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
