@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:40:09.000Z
+pubDatetime: 2026-07-24T19:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Yanis Begraoui (86, Liga Portugal) lidera, com +45.1% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ricardo Horta (90, Liga Portugal) lidera, com +75% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Yanis Begraoui (86) acumula **+45.1% em 7 dias** a 52k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ricardo Horta (90) acumula **+75% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.8% em 24h** e **+23.6% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.7% em 24h** e **+14.3% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Yanis Begraoui | 86 | Liga Portugal | 52k coins | +25.6% | +45.1% | Esticada |
-| Vangelis Pavlidis | 90 | Liga Portugal | 66k coins | +10% | +24.5% | Momentum moderado |
-| João Carvalho | 84 | Liga Portugal | 42k coins | +4.4% | +22.8% | Entrada a observar |
-| Santi García | 84 | Liga Portugal | 38k coins | +11.5% | +17% | Momentum moderado |
+| Ricardo Horta | 90 | Liga Portugal | 60k coins | +27.3% | +75% | Esticada |
+| Emmanuel Maviram | 84 | Liga Portugal | 48k coins | +13.1% | +34.8% | Momentum moderado |
+| Yanis Begraoui | 86 | Liga Portugal | 52k coins | +9% | +14.9% | Momentum moderado |
+| João Carvalho | 84 | Liga Portugal | 44k coins | +3.8% | +13.7% | Entrada a observar |
+| Pedro Gonçalves | 86 | Liga Portugal | 45k coins | +16.4% | +7.9% | Momentum moderado |
+| Rodrigo Zalazar | 84 | Liga Portugal | 40k coins | +14.3% | +6.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Yanis Begraoui (86)** — 52k coins, **+45.1% em 7 dias** (+25.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Horta (90)** — 60k coins, **+75% em 7 dias** (+27.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vangelis Pavlidis (90)** — 66k coins, **+24.5% em 7 dias** (+10% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Maviram (84)** — 48k coins, **+34.8% em 7 dias** (+13.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Carvalho (84)** — 42k coins, **+22.8% em 7 dias** (+4.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yanis Begraoui (86)** — 52k coins, **+14.9% em 7 dias** (+9% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santi García (84)** — 38k coins, **+17% em 7 dias** (+11.5% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Carvalho (84)** — 44k coins, **+13.7% em 7 dias** (+3.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Pedro Gonçalves (86)** — 45k coins, **+7.9% em 7 dias** (+16.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +79,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Yanis Begraoui (86, Liga Portugal) lidera, com +45.1% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ricardo Horta (90, Liga Portugal) lidera, com +75% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
