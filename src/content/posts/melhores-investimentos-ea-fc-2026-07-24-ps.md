@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:40:09.000Z
+pubDatetime: 2026-07-24T16:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Francisco Moura (90, Liga Portugal) lidera, com +59% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Yanis Begraoui (86, Liga Portugal) lidera, com +45.1% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Francisco Moura (90) acumula **+59% em 7 dias** a 64k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Yanis Begraoui (86) acumula **+45.1% em 7 dias** a 52k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.5% em 24h** e **+13.7% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.8% em 24h** e **+23.6% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Francisco Moura | 90 | Liga Portugal | 64k coins | +22.3% | +59% | Esticada |
-| Ousmane Diomande | 85 | Liga Portugal | 30k coins | +38.8% | +47.8% | Esticada |
-| Jan Bednarek | 84 | Liga Portugal | 38k coins | +8.8% | +13.7% | Momentum moderado |
-| Santi García | 84 | Liga Portugal | 41k coins | +8.1% | +13.5% | Momentum moderado |
-| Rodrigo Zalazar | 84 | Liga Portugal | 34k coins | +12.5% | +8% | Momentum moderado |
+| Yanis Begraoui | 86 | Liga Portugal | 52k coins | +25.6% | +45.1% | Esticada |
+| Vangelis Pavlidis | 90 | Liga Portugal | 66k coins | +10% | +24.5% | Momentum moderado |
+| João Carvalho | 84 | Liga Portugal | 42k coins | +4.4% | +22.8% | Entrada a observar |
+| Santi García | 84 | Liga Portugal | 38k coins | +11.5% | +17% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Francisco Moura (90)** — 64k coins, **+59% em 7 dias** (+22.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yanis Begraoui (86)** — 52k coins, **+45.1% em 7 dias** (+25.6% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ousmane Diomande (85)** — 30k coins, **+47.8% em 7 dias** (+38.8% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vangelis Pavlidis (90)** — 66k coins, **+24.5% em 7 dias** (+10% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jan Bednarek (84)** — 38k coins, **+13.7% em 7 dias** (+8.8% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Carvalho (84)** — 42k coins, **+22.8% em 7 dias** (+4.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santi García (84)** — 41k coins, **+13.5% em 7 dias** (+8.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Rodrigo Zalazar (84)** — 34k coins, **+8% em 7 dias** (+12.5% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santi García (84)** — 38k coins, **+17% em 7 dias** (+11.5% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Francisco Moura (90, Liga Portugal) lidera, com +59% em 7 dias a 64k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Yanis Begraoui (86, Liga Portugal) lidera, com +45.1% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

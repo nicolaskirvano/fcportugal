@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Quaresma</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Zalazar</text>
-<rect x="285" y="153" width="314" height="28" rx="7" fill="#22c55e"/>
-<text x="609" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santi García</text>
-<rect x="285" y="211" width="304" height="28" rx="7" fill="#22c55e"/>
-<text x="599" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jan Bednarek</text>
-<rect x="285" y="269" width="188" height="28" rx="7" fill="#22c55e"/>
-<text x="483" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matheus Dias</text>
-<rect x="285" y="327" width="174" height="28" rx="7" fill="#22c55e"/>
-<text x="469" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Borja Sainz</text>
-<rect x="285" y="385" width="95" height="28" rx="7" fill="#22c55e"/>
-<text x="390" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Richard Ríos</text>
+<rect x="285" y="153" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Carvalho</text>
+<rect x="285" y="211" width="174" height="28" rx="7" fill="#22c55e"/>
+<text x="469" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santi García</text>
+<rect x="285" y="269" width="171" height="28" rx="7" fill="#22c55e"/>
+<text x="466" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
+<rect x="285" y="327" width="131" height="28" rx="7" fill="#22c55e"/>
+<text x="426" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matheus Dias</text>
+<rect x="285" y="385" width="131" height="28" rx="7" fill="#22c55e"/>
+<text x="426" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.2%</text>
 </svg>
