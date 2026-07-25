@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:40:09.000Z
+pubDatetime: 2026-07-25T01:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "João Carvalho (84, Liga Portugal) lidera, com +23.3% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pedro Gonçalves (86, Liga Portugal) lidera, com +20.7% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** João Carvalho (84) acumula **+23.3% em 7 dias** a 45k coins; leitura atual: **entrada a observar**.
+> 🔝 **Destaque:** Pedro Gonçalves (86) acumula **+20.7% em 7 dias** a 40k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.4% em 24h** e **+16.8% em 7 dias**.
-- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.7% em 24h** e **+12.2% em 7 dias**.
+- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| João Carvalho | 84 | Liga Portugal | 45k coins | +2.9% | +23.3% | Entrada a observar |
-| Santi García | 84 | Liga Portugal | 40k coins | +20.4% | +22.9% | Esticada |
-| Pedro Gonçalves | 86 | Liga Portugal | 38k coins | +19.3% | +17.6% | Momentum moderado |
-| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +12% | +15.9% | Momentum moderado |
-| Yanis Begraoui | 86 | Liga Portugal | 40k coins | +5.8% | +10.1% | Momentum moderado |
-| Florian Grillitsch | 84 | Liga Portugal | 45k coins | +14.9% | +6.2% | Momentum moderado |
+| Pedro Gonçalves | 86 | Liga Portugal | 40k coins | +20.7% | +20.7% | Esticada |
+| Florian Grillitsch | 84 | Liga Portugal | 46k coins | +28.4% | +13.1% | Esticada |
+| Yanis Begraoui | 86 | Liga Portugal | 42k coins | +9.2% | +12.2% | Momentum moderado |
+| Santi García | 84 | Liga Portugal | 42k coins | +9.2% | +10.7% | Momentum moderado |
+| Jan Bednarek | 84 | Liga Portugal | 50k coins | +20.8% | +9.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **João Carvalho (84)** — 45k coins, **+23.3% em 7 dias** (+2.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pedro Gonçalves (86)** — 40k coins, **+20.7% em 7 dias** (+20.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santi García (84)** — 40k coins, **+22.9% em 7 dias** (+20.4% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Grillitsch (84)** — 46k coins, **+13.1% em 7 dias** (+28.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pedro Gonçalves (86)** — 38k coins, **+17.6% em 7 dias** (+19.3% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yanis Begraoui (86)** — 42k coins, **+12.2% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jesús Ramírez (84)** — 42k coins, **+15.9% em 7 dias** (+12% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santi García (84)** — 42k coins, **+10.7% em 7 dias** (+9.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yanis Begraoui (86)** — 40k coins, **+10.1% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jan Bednarek (84)** — 50k coins, **+9.4% em 7 dias** (+20.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-João Carvalho (84, Liga Portugal) lidera, com +23.3% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pedro Gonçalves (86, Liga Portugal) lidera, com +20.7% em 7 dias a 40k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
