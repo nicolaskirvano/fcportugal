@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Mora</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+61.5%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">António Silva</text>
-<rect x="285" y="153" width="334" height="28" rx="7" fill="#22c55e"/>
-<text x="629" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.1%</text>
+<rect x="285" y="153" width="439" height="28" rx="7" fill="#22c55e"/>
+<text x="734" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.2%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Diomande</text>
-<rect x="285" y="211" width="207" height="28" rx="7" fill="#22c55e"/>
-<text x="502" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yanis Begraoui</text>
-<rect x="285" y="269" width="183" height="28" rx="7" fill="#22c55e"/>
-<text x="478" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vangelis Pavlidis</text>
-<rect x="285" y="327" width="121" height="28" rx="7" fill="#22c55e"/>
-<text x="416" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolás Otamendi</text>
-<rect x="285" y="385" width="102" height="28" rx="7" fill="#22c55e"/>
-<text x="397" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.2%</text>
+<rect x="285" y="211" width="390" height="28" rx="7" fill="#22c55e"/>
+<text x="685" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nélson Oliveira</text>
+<rect x="285" y="269" width="342" height="28" rx="7" fill="#22c55e"/>
+<text x="637" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Zalazar</text>
+<rect x="285" y="327" width="209" height="28" rx="7" fill="#22c55e"/>
+<text x="504" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vangelis Pavlidis</text>
+<rect x="285" y="385" width="171" height="28" rx="7" fill="#22c55e"/>
+<text x="466" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.9%</text>
 </svg>

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:40:09.000Z
+pubDatetime: 2026-07-26T22:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Rodrigo Mora (88, Liga Portugal) lidera, com +76.2% em 7 dias a 57k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rodrigo Mora (88, Liga Portugal) lidera, com +61.5% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rodrigo Mora (88) acumula **+76.2% em 7 dias** a 57k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rodrigo Mora (88) acumula **+61.5% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.1% em 24h** e **+19.2% em 7 dias**.
-- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 9 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.2% em 24h** e **+35.3% em 7 dias**.
+- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rodrigo Mora | 88 | Liga Portugal | 57k coins | +38.8% | +76.2% | Esticada |
-| António Silva | 87 | Liga Portugal | 24k coins | +2.1% | +53.1% | Momentum moderado |
-| Ousmane Diomande | 85 | Liga Portugal | 42k coins | +37.5% | +32.8% | Esticada |
-| Yanis Begraoui | 86 | Liga Portugal | 47k coins | +11.7% | +29% | Momentum moderado |
-| Vangelis Pavlidis | 86 | Liga Portugal | 45k coins | +9.1% | +19.2% | Momentum moderado |
-| Nicolás Otamendi | 86 | Liga Portugal | 39k coins | +24.4% | +16.2% | Esticada |
-| Jan Bednarek | 84 | Liga Portugal | 46k coins | +2.2% | +15% | Entrada a observar |
-| João Carvalho | 84 | Liga Portugal | 45k coins | +4.7% | +7.1% | Entrada a observar |
-| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +1.8% | +6.2% | Entrada a observar |
+| Rodrigo Mora | 88 | Liga Portugal | 60k coins | +5% | +61.5% | Esticada |
+| António Silva | 87 | Liga Portugal | 20k coins | +26.6% | +56.2% | Esticada |
+| Ousmane Diomande | 85 | Liga Portugal | 38k coins | +38.5% | +50% | Esticada |
+| Nélson Oliveira | 86 | Liga Portugal | 23k coins | +12.9% | +43.8% | Momentum moderado |
+| Rodrigo Zalazar | 84 | Liga Portugal | 44k coins | +5.6% | +26.8% | Momentum moderado |
+| Vangelis Pavlidis | 86 | Liga Portugal | 46k coins | +5.1% | +21.9% | Momentum moderado |
+| Emmanuel Maviram | 84 | Liga Portugal | 51k coins | +18% | +13.5% | Momentum moderado |
+| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +1.8% | +9.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Rodrigo Mora (88)** — 57k coins, **+76.2% em 7 dias** (+38.8% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Mora (88)** — 60k coins, **+61.5% em 7 dias** (+5% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **António Silva (87)** — 24k coins, **+53.1% em 7 dias** (+2.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **António Silva (87)** — 20k coins, **+56.2% em 7 dias** (+26.6% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ousmane Diomande (85)** — 42k coins, **+32.8% em 7 dias** (+37.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Diomande (85)** — 38k coins, **+50% em 7 dias** (+38.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yanis Begraoui (86)** — 47k coins, **+29% em 7 dias** (+11.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nélson Oliveira (86)** — 23k coins, **+43.8% em 7 dias** (+12.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vangelis Pavlidis (86)** — 45k coins, **+19.2% em 7 dias** (+9.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Zalazar (84)** — 44k coins, **+26.8% em 7 dias** (+5.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -91,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Rodrigo Mora (88, Liga Portugal) lidera, com +76.2% em 7 dias a 57k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rodrigo Mora (88, Liga Portugal) lidera, com +61.5% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
