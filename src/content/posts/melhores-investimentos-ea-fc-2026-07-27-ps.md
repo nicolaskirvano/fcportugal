@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:40:09.000Z
+pubDatetime: 2026-07-27T22:40:10.000Z
 title: "Investimentos EA FC: Liga Portugal em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Ousmane Diomande (85, Liga Portugal) lidera, com +64.1% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rodrigo Mora (87, Liga Portugal) lidera, com +50.5% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ousmane Diomande (85) acumula **+64.1% em 7 dias** a 42k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Rodrigo Mora (87) acumula **+50.5% em 7 dias** a 34k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.5% em 24h** e **+15.4% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.9% em 24h** e **+26.8% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ousmane Diomande | 85 | Liga Portugal | 42k coins | +4.3% | +64.1% | Esticada |
-| Santi García | 84 | Liga Portugal | 43k coins | +10% | +15.8% | Momentum moderado |
-| Florian Grillitsch | 84 | Liga Portugal | 44k coins | +7% | +15% | Momentum moderado |
-| Jovane Cabral | 84 | Liga Portugal | 67k coins | +34.7% | +14.5% | Esticada |
+| Rodrigo Mora | 87 | Liga Portugal | 34k coins | +34.6% | +50.5% | Esticada |
+| Ousmane Diomande | 85 | Liga Portugal | 46k coins | +7.9% | +44.2% | Momentum moderado |
+| José Fonte | 85 | Liga Portugal | 34k coins | +3.3% | +33.3% | Momentum moderado |
+| Pedro Gonçalves | 86 | Liga Portugal | 41k coins | +25.2% | +26.8% | Esticada |
+| Santi García | 84 | Liga Portugal | 50k coins | +4.4% | +25.7% | Momentum moderado |
+| António Silva | 87 | Liga Portugal | 17.500 coins | +4.2% | +23.8% | Entrada a observar |
+| Jovane Cabral | 84 | Liga Portugal | 70k coins | +27% | +8.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Ousmane Diomande (85)** — 42k coins, **+64.1% em 7 dias** (+4.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Mora (87)** — 34k coins, **+50.5% em 7 dias** (+34.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santi García (84)** — 43k coins, **+15.8% em 7 dias** (+10% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Diomande (85)** — 46k coins, **+44.2% em 7 dias** (+7.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Grillitsch (84)** — 44k coins, **+15% em 7 dias** (+7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **José Fonte (85)** — 34k coins, **+33.3% em 7 dias** (+3.3% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jovane Cabral (84)** — 67k coins, **+14.5% em 7 dias** (+34.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pedro Gonçalves (86)** — 41k coins, **+26.8% em 7 dias** (+25.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Santi García (84)** — 50k coins, **+25.7% em 7 dias** (+4.4% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +80,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Ousmane Diomande (85, Liga Portugal) lidera, com +64.1% em 7 dias a 42k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rodrigo Mora (87, Liga Portugal) lidera, com +50.5% em 7 dias a 34k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
