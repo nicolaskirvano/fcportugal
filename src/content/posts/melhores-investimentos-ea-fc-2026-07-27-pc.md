@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:40:20.000Z
+pubDatetime: 2026-07-28T01:40:19.000Z
 title: "Investimentos EA FC: Liga Portugal em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Emmanuel Maviram (84, Liga Portugal) lidera, com +37% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Nicolás Otamendi (86, Liga Portugal) lidera, com +22.1% em 7 dias a 98k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Emmanuel Maviram (84) acumula **+37% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Nicolás Otamendi (86) acumula **+22.1% em 7 dias** a 98k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+33.3% em 7 dias**.
-- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.2% em 24h** e **+19.8% em 7 dias**.
+- **0 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Emmanuel Maviram | 84 | Liga Portugal | 50k coins | +1% | +37% | Momentum moderado |
-| Jan Bednarek | 84 | Liga Portugal | 43k coins | +8.6% | +34.8% | Momentum moderado |
-| João Moutinho | 88 | Liga Portugal | 122k coins | +14.3% | +33.3% | Momentum moderado |
-| Nicolás Otamendi | 86 | Liga Portugal | 96k coins | +11.1% | +29.9% | Momentum moderado |
-| Pedro Gonçalves | 86 | Liga Portugal | 43k coins | +11.7% | +20.7% | Momentum moderado |
+| Nicolás Otamendi | 86 | Liga Portugal | 98k coins | +15.3% | +22.1% | Momentum moderado |
+| Ivan Cavaleiro | 85 | Liga Portugal | 25k coins | +5.3% | +20.5% | Momentum moderado |
+| Jovane Cabral | 84 | Liga Portugal | 41k coins | +2.5% | +19% | Entrada a observar |
+| Quaresma | 85 | Liga Portugal | 130k coins | +15% | +12.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Emmanuel Maviram (84)** — 50k coins, **+37% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolás Otamendi (86)** — 98k coins, **+22.1% em 7 dias** (+15.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jan Bednarek (84)** — 43k coins, **+34.8% em 7 dias** (+8.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Cavaleiro (85)** — 25k coins, **+20.5% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Moutinho (88)** — 122k coins, **+33.3% em 7 dias** (+14.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jovane Cabral (84)** — 41k coins, **+19% em 7 dias** (+2.5% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nicolás Otamendi (86)** — 96k coins, **+29.9% em 7 dias** (+11.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Pedro Gonçalves (86)** — 43k coins, **+20.7% em 7 dias** (+11.7% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Quaresma (85)** — 130k coins, **+12.1% em 7 dias** (+15% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Emmanuel Maviram (84, Liga Portugal) lidera, com +37% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Nicolás Otamendi (86, Liga Portugal) lidera, com +22.1% em 7 dias a 98k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

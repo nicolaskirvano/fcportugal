@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:40:18.000Z
+pubDatetime: 2026-07-28T01:40:17.000Z
 title: "Mercado EA FC em 27/07: Liga Portugal — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Oskar Pietuszewski (86, Liga Portugal), com +40.9% em 24h, a 91k coins no PC."
+    a: "Pedro Gonçalves (86, Liga Portugal), com +15.9% em 24h, a 46k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Alexander Bah (86), -35.3% em 24h, a 110k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 13 cartas em alta contra 17 em queda (média 14.12%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 10 cartas em alta contra 19 em queda (média 0.68%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **27/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **13 valorizações** contra **17 quedas** entre as cartas relevantes, com média de **14.12%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **27/07/2026** no PC: clima **vendedor** — a maioria das cartas recuou. **10 valorizações** contra **19 quedas** entre as cartas relevantes, com média de **0.68%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Oskar Pietuszewski (86) **+40.9%** · 🔴 **Maior baixa:** Alexander Bah (86) **-35.3%**
+> 🟢 **Maior alta:** Pedro Gonçalves (86) **+15.9%** · 🔴 **Maior baixa:** Alexander Bah (86) **-35.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Liga Portugal — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,20 +35,19 @@ Resumo de **27/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 76.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.3% entre as cartas que se moveram; o universo observado reúne 41 cartas.
-- **Concentração:** Liga Portugal aparece em 16 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 51.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 34.5% entre as cartas que se moveram; o universo observado reúne 41 cartas.
+- **Concentração:** Liga Portugal aparece em 15 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Oskar Pietuszewski | 86 | Liga Portugal | 91k coins | +40.9% | +69.3% |
-| Florian Grillitsch | 84 | Liga Portugal | 49k coins | +15.9% | 0% |
-| João Moutinho | 88 | Liga Portugal | 122k coins | +14.3% | +33.3% |
-| Pedro Gonçalves | 86 | Liga Portugal | 43k coins | +11.7% | +20.7% |
-| Nicolás Otamendi | 86 | Liga Portugal | 96k coins | +11.1% | +29.9% |
-| Jan Bednarek | 84 | Liga Portugal | 43k coins | +8.6% | +34.8% |
+| Pedro Gonçalves | 86 | Liga Portugal | 46k coins | +15.9% | +0.6% |
+| Nicolás Otamendi | 86 | Liga Portugal | 98k coins | +15.3% | +22.1% |
+| Quaresma | 85 | Liga Portugal | 130k coins | +15% | +12.1% |
+| Florian Grillitsch | 84 | Liga Portugal | 48k coins | +14.1% | -1.5% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 25k coins | +5.3% | +20.5% |
 
 
 ### Análise das altas
@@ -57,11 +56,11 @@ Resumo de **27/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Oskar Pietuszewski (86)** subiu **+40.9%** em 24h, a **91k coins** (faixa do dia: 48k–111k). Está +17% acima da média de 7 dias (aquecida).
+- **Pedro Gonçalves (86)** subiu **+15.9%** em 24h, a **46k coins** (faixa do dia: 39k–55k). Está em linha com a média de 7 dias (-1%).
 
-- **Florian Grillitsch (84)** subiu **+15.9%** em 24h, a **49k coins** (faixa do dia: 41k–50k). Está em linha com a média de 7 dias (+8%).
+- **Nicolás Otamendi (86)** subiu **+15.3%** em 24h, a **98k coins** (faixa do dia: 78k–100k). Está +21% acima da média de 7 dias (aquecida).
 
-- **João Moutinho (88)** subiu **+14.3%** em 24h, a **122k coins** (faixa do dia: 100k–140k). Está +13% acima da média de 7 dias (aquecida).
+- **Quaresma (85)** subiu **+15%** em 24h, a **130k coins** (faixa do dia: 84k–140k). Está +16% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -69,29 +68,29 @@ Resumo de **27/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Alexander Bah | 86 | Liga Portugal | 110k coins | -35.3% | -19.1% |
-| Geovany Quenda | 85 | Liga Portugal | 54k coins | -22.1% | +16% |
-| Jovane Cabral | 84 | Liga Portugal | 41k coins | -18.5% | +19% |
-| Larrazabal | 84 | Liga Portugal | 48k coins | -18.5% | +32% |
-| Vangelis Pavlidis | 86 | Liga Portugal | 41k coins | -15.5% | +10.8% |
-| Ivan Cavaleiro | 85 | Liga Portugal | 24k coins | -13% | +19% |
-| Santi García | 84 | Liga Portugal | 45k coins | -10% | +1.7% |
-| Yanis Begraoui | 86 | Liga Portugal | 49k coins | -9.5% | +8.2% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 41k coins | -9.4% | -4.7% |
-| Nélson Oliveira | 86 | Liga Portugal | 34k coins | -7.3% | +86.8% |
+| Ricardo Horta | 90 | Liga Portugal | 21k coins | -34.3% | -63.3% |
+| Geovany Quenda | 85 | Liga Portugal | 55k coins | -30.7% | +13.7% |
+| Larrazabal | 84 | Liga Portugal | 48k coins | -19.3% | +32.4% |
+| Borja Sainz | 83 | Liga Portugal | 36k coins | -14.8% | -11.1% |
+| Vangelis Pavlidis | 86 | Liga Portugal | 41k coins | -13.2% | +13.9% |
+| Yanis Begraoui | 86 | Liga Portugal | 52k coins | -13.2% | +8.5% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 45k coins | -10.5% | +4.7% |
+| Santi García | 84 | Liga Portugal | 45k coins | -10% | +8.4% |
+| Gonçalo Inácio | 89 | Liga Portugal | 187k coins | -7.7% | +4.4% |
 
 
 ### Análise das baixas
 
 - **Alexander Bah (86)** caiu **-35.3%** em 24h, a **110k coins** (faixa do dia: 65k–170k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Geovany Quenda (85)** caiu **-22.1%** em 24h, a **54k coins** (faixa do dia: 38k–75k). Está -11% abaixo da média de 7 dias (descontada).
+- **Ricardo Horta (90)** caiu **-34.3%** em 24h, a **21k coins** (faixa do dia: 18.750–37k). Está -52% abaixo da média de 7 dias (descontada).
 
-- **Jovane Cabral (84)** caiu **-18.5%** em 24h, a **41k coins** (faixa do dia: 35k–50k). Está em linha com a média de 7 dias (-7%).
+- **Geovany Quenda (85)** caiu **-30.7%** em 24h, a **55k coins** (faixa do dia: 38k–75k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Oskar Pietuszewski já avançou 40.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Pedro Gonçalves já avançou 15.9% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Alexander Bah recuou -35.3%; confirme estabilização e liquidez.
 
@@ -105,13 +104,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Oskar Pietuszewski (86, Liga Portugal), com +40.9% em 24h, a 91k coins no PC.
+Pedro Gonçalves (86, Liga Portugal), com +15.9% em 24h, a 46k coins no PC.
 
 **E a maior queda do dia?**
 Alexander Bah (86), -35.3% em 24h, a 110k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 13 cartas em alta contra 17 em queda (média 14.12%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 10 cartas em alta contra 19 em queda (média 0.68%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
