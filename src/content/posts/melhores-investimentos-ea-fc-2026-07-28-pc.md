@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T13:40:20.000Z
+pubDatetime: 2026-07-28T16:40:19.000Z
 title: "Investimentos EA FC: Liga Portugal em 28/07 — PC"
 draft: false
 featured: true
