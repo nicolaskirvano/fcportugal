@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T10:40:09.000Z
+pubDatetime: 2026-07-29T13:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 29/07 — Console (PS)"
 draft: false
 featured: true
