@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:40:07.000Z
+pubDatetime: 2026-07-29T16:40:08.000Z
 title: "Mercado EA FC em 29/07: Liga Portugal — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Rodrigo Mora (87, Liga Portugal), com +50% em 24h, a 39k coins no Console (PS)."
+    a: "Florian Grillitsch (84, Liga Portugal), com +11.2% em 24h, a 47k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Quaresma (85), -41.1% em 24h, a 80k coins."
+    a: "Gonçalo Inácio (89), -10.7% em 24h, a 88k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 10 em queda (média 3.68%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 6 em queda (média 8.0%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **18 subiram** e **10 caíram**, com variação média de **3.68%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **9 subiram** e **6 caíram**, com variação média de **8.0%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Rodrigo Mora (87) **+50%** · 🔴 **Maior baixa:** Quaresma (85) **-41.1%**
+> 🟢 **Maior alta:** Florian Grillitsch (84) **+11.2%** · 🔴 **Maior baixa:** Gonçalo Inácio (89) **-10.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Liga Portugal — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +35,19 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 91.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 64.3% entre as cartas que se moveram; o universo observado reúne 38 cartas.
-- **Concentração:** Liga Portugal aparece em 15 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 21.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 60.0% entre as cartas que se moveram; o universo observado reúne 25 cartas.
+- **Concentração:** Liga Portugal aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rodrigo Mora | 87 | Liga Portugal | 39k coins | +50% | +85.7% |
-| Larrazabal | 84 | Liga Portugal | 59k coins | +48.4% | +31.1% |
-| Ousmane Diomande | 85 | Liga Portugal | 50k coins | +45.3% | +73% |
-| Quaresma | 89 | Liga Portugal | 226k coins | +33.3% | -15% |
-| Geovany Quenda | 85 | Liga Portugal | 62k coins | +30.1% | -21.7% |
-| Jovane Cabral | 84 | Liga Portugal | 65k coins | +25.2% | +18.8% |
-| João Moutinho | 88 | Liga Portugal | 52k coins | +24.7% | -63.2% |
-| José Fonte | 85 | Liga Portugal | 28k coins | +17.4% | +45.2% |
-| Anatoliy Trubin | 88 | Liga Portugal | 260k coins | +9.5% | +27% |
-| Richard Ríos | 88 | Liga Portugal | 186k coins | +9.4% | +3.3% |
+| Florian Grillitsch | 84 | Liga Portugal | 47k coins | +11.2% | +23.7% |
+| Jovane Cabral | 84 | Liga Portugal | 65k coins | +7.7% | +48.9% |
+| Quaresma | 89 | Liga Portugal | 239k coins | +6.2% | +7.6% |
+| Anatoliy Trubin | 88 | Liga Portugal | 270k coins | +3.8% | +17.4% |
+| Yanis Begraoui | 86 | Liga Portugal | 47k coins | +3.3% | +21.4% |
 
 
 ### Análise das altas
@@ -61,38 +56,36 @@ Em **29/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Rodrigo Mora (87)** subiu **+50%** em 24h, a **39k coins** (faixa do dia: 20k–40k). Está +33% acima da média de 7 dias (aquecida).
+- **Florian Grillitsch (84)** subiu **+11.2%** em 24h, a **47k coins** (faixa do dia: 42k–47k). Está +13% acima da média de 7 dias (aquecida).
 
-- **Larrazabal (84)** subiu **+48.4%** em 24h, a **59k coins** (faixa do dia: 40k–60k). Está +15% acima da média de 7 dias (aquecida).
+- **Jovane Cabral (84)** subiu **+7.7%** em 24h, a **65k coins** (faixa do dia: 65k–70k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Ousmane Diomande (85)** subiu **+45.3%** em 24h, a **50k coins** (faixa do dia: 21k–50k). Está +38% acima da média de 7 dias (aquecida).
+- **Quaresma (89)** subiu **+6.2%** em 24h, a **239k coins** (faixa do dia: 226k–240k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Quaresma | 85 | Liga Portugal | 80k coins | -41.1% | -17% |
-| Rodrigo Mora | 88 | Liga Portugal | 33k coins | -33.5% | -16.4% |
-| Vangelis Pavlidis | 90 | Liga Portugal | 20k coins | -21.5% | -61.1% |
-| Pizzi | 85 | Liga Portugal | 28k coins | -12.4% | -14.4% |
-| Jan Bednarek | 84 | Liga Portugal | 48k coins | -4% | +26.3% |
+| Gonçalo Inácio | 89 | Liga Portugal | 88k coins | -10.7% | +71.6% |
+| Santi García | 84 | Liga Portugal | 46k coins | -7% | +21.6% |
+| Nicolás Otamendi | 86 | Liga Portugal | 66k coins | -4.3% | +49.2% |
 
 
 ### Análise das baixas
 
-- **Quaresma (85)** caiu **-41.1%** em 24h, a **80k coins** (faixa do dia: 68k–148k). Está -10% abaixo da média de 7 dias (descontada).
+- **Gonçalo Inácio (89)** caiu **-10.7%** em 24h, a **88k coins** (faixa do dia: 88k–98k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Rodrigo Mora (88)** caiu **-33.5%** em 24h, a **33k coins** (faixa do dia: 23k–60k). Está -18% abaixo da média de 7 dias (descontada).
+- **Santi García (84)** caiu **-7%** em 24h, a **46k coins** (faixa do dia: 46k–50k). Está em linha com a média de 7 dias (+6%).
 
-- **Vangelis Pavlidis (90)** caiu **-21.5%** em 24h, a **20k coins** (faixa do dia: 19.250–80k). Está -62% abaixo da média de 7 dias (descontada).
+- **Nicolás Otamendi (86)** caiu **-4.3%** em 24h, a **66k coins** (faixa do dia: 66k–70k). Está +12% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Rodrigo Mora já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Florian Grillitsch já avançou 11.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Quaresma recuou -41.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gonçalo Inácio recuou -10.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,13 +97,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Rodrigo Mora (87, Liga Portugal), com +50% em 24h, a 39k coins no Console (PS).
+Florian Grillitsch (84, Liga Portugal), com +11.2% em 24h, a 47k coins no Console (PS).
 
 **E a maior queda do dia?**
-Quaresma (85), -41.1% em 24h, a 80k coins.
+Gonçalo Inácio (89), -10.7% em 24h, a 88k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 18 cartas em alta contra 10 em queda (média 3.68%).
+Hoje o mercado está em alta — predominam as valorizações, com 9 cartas em alta contra 6 em queda (média 8.0%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
