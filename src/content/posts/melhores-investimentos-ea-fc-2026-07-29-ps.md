@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:40:10.000Z
+pubDatetime: 2026-07-30T01:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 29/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Trincão (86, Liga Portugal) lidera, com +31.7% em 7 dias a 19.250 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jovane Cabral (84, Liga Portugal) lidera, com +64.7% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Trincão (86) acumula **+31.7% em 7 dias** a 19.250 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jovane Cabral (84) acumula **+64.7% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 29/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-29-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.6% em 24h** e **+19.6% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.4% em 24h** e **+29.1% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Trincão | 86 | Liga Portugal | 19.250 coins | +25.4% | +31.7% | Esticada |
-| Yanis Begraoui | 86 | Liga Portugal | 41k coins | +3.9% | +20.5% | Entrada a observar |
-| Florian Grillitsch | 84 | Liga Portugal | 44k coins | +5.3% | +18.7% | Momentum moderado |
-| Vangelis Pavlidis | 86 | Liga Portugal | 44k coins | +5.9% | +12.5% | Momentum moderado |
+| Jovane Cabral | 84 | Liga Portugal | 70k coins | +7.7% | +64.7% | Esticada |
+| Yanis Begraoui | 86 | Liga Portugal | 55k coins | +21.5% | +41% | Esticada |
+| José Fonte | 85 | Liga Portugal | 34k coins | +9.1% | +33.3% | Momentum moderado |
+| Florian Grillitsch | 84 | Liga Portugal | 46k coins | +12.4% | +25% | Momentum moderado |
+| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +1.2% | +18.1% | Entrada a observar |
+| Vangelis Pavlidis | 86 | Liga Portugal | 50k coins | +2.4% | +8.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Trincão (86)** — 19.250 coins, **+31.7% em 7 dias** (+25.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jovane Cabral (84)** — 70k coins, **+64.7% em 7 dias** (+7.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yanis Begraoui (86)** — 41k coins, **+20.5% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yanis Begraoui (86)** — 55k coins, **+41% em 7 dias** (+21.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Grillitsch (84)** — 44k coins, **+18.7% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **José Fonte (85)** — 34k coins, **+33.3% em 7 dias** (+9.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vangelis Pavlidis (86)** — 44k coins, **+12.5% em 7 dias** (+5.9% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Grillitsch (84)** — 46k coins, **+25% em 7 dias** (+12.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Jesús Ramírez (84)** — 42k coins, **+18.1% em 7 dias** (+1.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +79,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Trincão (86, Liga Portugal) lidera, com +31.7% em 7 dias a 19.250 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jovane Cabral (84, Liga Portugal) lidera, com +64.7% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
