@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:40:08.000Z
+pubDatetime: 2026-07-31T13:40:07.000Z
 title: "Mercado EA FC em 31/07: Liga Portugal — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Pizzi (85, Liga Portugal), com +53.8% em 24h, a 25k coins no Console (PS)."
+    a: "Rodrigo Mora (88, Liga Portugal), com +51.6% em 24h, a 50k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Gonçalo Inácio (89), -48.4% em 24h, a 70k coins."
+    a: "Alexander Bah (86), -35.2% em 24h, a 79k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 13 cartas em alta contra 15 em queda (média 9.84%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 12 cartas em alta contra 18 em queda (média 0.49%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **aquecido** — as altas dominam o dia: **13 cartas subiram** e **15 caíram** (80+ acima de 5k coins), variação média de **9.84%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **pressionado** — as quedas dominam o dia: **12 cartas subiram** e **18 caíram** (80+ acima de 5k coins), variação média de **0.49%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Pizzi (85) **+53.8%** · 🔴 **Maior baixa:** Gonçalo Inácio (89) **-48.4%**
+> 🟢 **Maior alta:** Rodrigo Mora (88) **+51.6%** · 🔴 **Maior baixa:** Alexander Bah (86) **-35.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Liga Portugal — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,20 +35,22 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **aquecid
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.4% entre as cartas que se moveram; o universo observado reúne 40 cartas.
-- **Concentração:** Liga Portugal aparece em 16 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 86.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.0% entre as cartas que se moveram; o universo observado reúne 39 cartas.
+- **Concentração:** Liga Portugal aparece em 18 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pizzi | 85 | Liga Portugal | 25k coins | +53.8% | +12.4% |
-| Nicolás Otamendi | 86 | Liga Portugal | 60k coins | +22% | +59.5% |
-| Anatoliy Trubin | 88 | Liga Portugal | 337k coins | +17.7% | +155.8% |
-| Vangelis Pavlidis | 86 | Liga Portugal | 52k coins | +17.5% | +15.6% |
-| Nélson Oliveira | 86 | Liga Portugal | 23k coins | +11% | +8.3% |
-| Yanis Begraoui | 86 | Liga Portugal | 52k coins | +4.8% | +35% |
+| Rodrigo Mora | 88 | Liga Portugal | 50k coins | +51.6% | +44.1% |
+| Rodrigo Mora | 87 | Liga Portugal | 40k coins | +42.9% | +34.5% |
+| Dailon Livramento | 80 | Liga Portugal | 48k coins | +36.7% | +22.6% |
+| Paulo Futre | 92 | Liga Portugal | 45k coins | +32.4% | -33.3% |
+| Jovane Cabral | 84 | Liga Portugal | 70k coins | +27.3% | +18.6% |
+| Vangelis Pavlidis | 86 | Liga Portugal | 50k coins | +15.6% | +15.6% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 44k coins | +6.7% | +17.3% |
+| William Gomes | 84 | Liga Portugal | 52k coins | +3.9% | +40.4% |
 
 
 ### Análise das altas
@@ -57,43 +59,43 @@ O mercado do **EA FC** abre **31/07/2026** no Console (PS) com mercado **aquecid
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Pizzi (85)** subiu **+53.8%** em 24h, a **25k coins** (faixa do dia: 11.125–33k). Está em linha com a média de 7 dias (+2%).
+- **Rodrigo Mora (88)** subiu **+51.6%** em 24h, a **50k coins** (faixa do dia: 28k–60k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Nicolás Otamendi (86)** subiu **+22%** em 24h, a **60k coins** (faixa do dia: 47k–99k). Está em linha com a média de 7 dias (-3%).
+- **Rodrigo Mora (87)** subiu **+42.9%** em 24h, a **40k coins** (faixa do dia: 24k–40k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Anatoliy Trubin (88)** subiu **+17.7%** em 24h, a **337k coins** (faixa do dia: 267k–399k). Está +24% acima da média de 7 dias (aquecida).
+- **Dailon Livramento (80)** subiu **+36.7%** em 24h, a **48k coins** (faixa do dia: 35k–48k). Está em linha com a média de 7 dias (+3%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gonçalo Inácio | 89 | Liga Portugal | 70k coins | -48.4% | +107.8% |
-| Rodrigo Mora | 87 | Liga Portugal | 24k coins | -34.6% | -29.1% |
-| Alexander Bah | 86 | Liga Portugal | 83k coins | -32.6% | +126% |
-| Vangelis Pavlidis | 90 | Liga Portugal | 55k coins | -22.8% | -25.4% |
-| Quaresma | 89 | Liga Portugal | 215k coins | -17.6% | 0% |
-| Ivan Cavaleiro | 85 | Liga Portugal | 34k coins | -14.9% | -14.4% |
-| Eduardo Quaresma | 88 | Liga Portugal | 24k coins | -13.7% | +23% |
-| William Gomes | 84 | Liga Portugal | 51k coins | -9.1% | +37.9% |
-| Pedro Gonçalves | 86 | Liga Portugal | 43k coins | -7.1% | +14.5% |
-| Santi García | 84 | Liga Portugal | 47k coins | -3.1% | +22.6% |
+| Alexander Bah | 86 | Liga Portugal | 79k coins | -35.2% | +132.4% |
+| Gonçalo Inácio | 89 | Liga Portugal | 60k coins | -31% | +106% |
+| Nicolás Otamendi | 86 | Liga Portugal | 41k coins | -27.6% | +9.3% |
+| Vangelis Pavlidis | 90 | Liga Portugal | 48k coins | -16.8% | -19.6% |
+| Geovany Quenda | 85 | Liga Portugal | 48k coins | -15.4% | -2% |
+| Oskar Pietuszewski | 86 | Liga Portugal | 56k coins | -12.5% | -31.7% |
+| Jan Bednarek | 84 | Liga Portugal | 50k coins | -5.7% | +17.2% |
+| Pablo Felipe | 80 | Liga Portugal | 48k coins | -5.3% | -5.3% |
+| Santi García | 84 | Liga Portugal | 45k coins | -4.2% | +16.7% |
+| Pedro Gonçalves | 86 | Liga Portugal | 45k coins | -3.1% | +16.9% |
 
 
 ### Análise das baixas
 
-- **Gonçalo Inácio (89)** caiu **-48.4%** em 24h, a **70k coins** (faixa do dia: 44k–130k). Está -19% abaixo da média de 7 dias (descontada).
+- **Alexander Bah (86)** caiu **-35.2%** em 24h, a **79k coins** (faixa do dia: 76k–129k). Está +36% acima da média de 7 dias (aquecida).
 
-- **Rodrigo Mora (87)** caiu **-34.6%** em 24h, a **24k coins** (faixa do dia: 24k–40k). Está -30% abaixo da média de 7 dias (descontada).
+- **Gonçalo Inácio (89)** caiu **-31%** em 24h, a **60k coins** (faixa do dia: 44k–100k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Alexander Bah (86)** caiu **-32.6%** em 24h, a **83k coins** (faixa do dia: 83k–129k). Está +45% acima da média de 7 dias (aquecida).
+- **Nicolás Otamendi (86)** caiu **-27.6%** em 24h, a **41k coins** (faixa do dia: 41k–99k). Está -33% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Pizzi já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Rodrigo Mora já avançou 51.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Gonçalo Inácio recuou -48.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alexander Bah recuou -35.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -114,13 +116,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Pizzi (85, Liga Portugal), com +53.8% em 24h, a 25k coins no Console (PS).
+Rodrigo Mora (88, Liga Portugal), com +51.6% em 24h, a 50k coins no Console (PS).
 
 **E a maior queda do dia?**
-Gonçalo Inácio (89), -48.4% em 24h, a 70k coins.
+Alexander Bah (86), -35.2% em 24h, a 79k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 13 cartas em alta contra 15 em queda (média 9.84%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 12 cartas em alta contra 18 em queda (média 0.49%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
