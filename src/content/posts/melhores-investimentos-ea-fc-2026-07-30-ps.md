@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:40:09.000Z
+pubDatetime: 2026-07-31T01:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Ivan Cavaleiro (85, Liga Portugal) lidera, com +64.3% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ricardo Carvalho (88, Liga Portugal) lidera, com +48% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ivan Cavaleiro (85) acumula **+64.3% em 7 dias** a 46k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ricardo Carvalho (88) acumula **+48% em 7 dias** a 30k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+33.1% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.5% em 24h** e **+26.5% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ivan Cavaleiro | 85 | Liga Portugal | 46k coins | +8.9% | +64.3% | Esticada |
-| Trincão | 86 | Liga Portugal | 20k coins | +39.1% | +48.3% | Esticada |
-| Santi García | 84 | Liga Portugal | 50k coins | +2% | +35.1% | Momentum moderado |
-| Rodrigo Mora | 87 | Liga Portugal | 37k coins | +29.9% | +33.3% | Esticada |
-| Rodrigo Zalazar | 84 | Liga Portugal | 48k coins | +11.1% | +32.9% | Momentum moderado |
-| Florian Grillitsch | 84 | Liga Portugal | 48k coins | +6.7% | +28.4% | Momentum moderado |
-| João Carvalho | 84 | Liga Portugal | 45k coins | +5.6% | +26.7% | Momentum moderado |
+| Ricardo Carvalho | 88 | Liga Portugal | 30k coins | +29.8% | +48% | Esticada |
+| Santi García | 84 | Liga Portugal | 50k coins | +4.7% | +35.1% | Momentum moderado |
+| Trincão | 86 | Liga Portugal | 17.500 coins | +15.9% | +30.4% | Momentum moderado |
+| Rodrigo Mora | 87 | Liga Portugal | 36k coins | +24.8% | +22.7% | Esticada |
+| João Carvalho | 84 | Liga Portugal | 48k coins | +5.6% | +18.8% | Momentum moderado |
 | Vangelis Pavlidis | 86 | Liga Portugal | 55k coins | +11.1% | +10.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ivan Cavaleiro (85)** — 46k coins, **+64.3% em 7 dias** (+8.9% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ricardo Carvalho (88)** — 30k coins, **+48% em 7 dias** (+29.8% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trincão (86)** — 20k coins, **+48.3% em 7 dias** (+39.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santi García (84)** — 50k coins, **+35.1% em 7 dias** (+4.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santi García (84)** — 50k coins, **+35.1% em 7 dias** (+2% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trincão (86)** — 17.500 coins, **+30.4% em 7 dias** (+15.9% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rodrigo Mora (87)** — 37k coins, **+33.3% em 7 dias** (+29.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rodrigo Mora (87)** — 36k coins, **+22.7% em 7 dias** (+24.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rodrigo Zalazar (84)** — 48k coins, **+32.9% em 7 dias** (+11.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **João Carvalho (84)** — 48k coins, **+18.8% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +79,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Ivan Cavaleiro (85, Liga Portugal) lidera, com +64.3% em 7 dias a 46k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ricardo Carvalho (88, Liga Portugal) lidera, com +48% em 7 dias a 30k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
