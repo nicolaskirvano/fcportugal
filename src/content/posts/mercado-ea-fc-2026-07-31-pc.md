@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:40:17.000Z
+pubDatetime: 2026-08-01T01:40:17.000Z
 title: "Mercado EA FC em 31/07: Liga Portugal — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Quaresma (85, Liga Portugal), com +58.3% em 24h, a 92k coins no PC."
+    a: "Trincão (86, Liga Portugal), com +39.5% em 24h, a 45k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "António Silva (87), -30% em 24h, a 40k coins."
+    a: "Francisco Moura (90), -33% em 24h, a 30k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 16 em queda (média 4.8%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 9 cartas em alta contra 15 em queda (média -2.2%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **31/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **12 cartas subiram** e **16 caíram** (80+ acima de 5k coins), variação média de **4.8%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **31/07/2026** no PC com mercado **pressionado** — as quedas dominam o dia: **9 cartas subiram** e **15 caíram** (80+ acima de 5k coins), variação média de **-2.2%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Quaresma (85) **+58.3%** · 🔴 **Maior baixa:** António Silva (87) **-30%**
+> 🟢 **Maior alta:** Trincão (86) **+39.5%** · 🔴 **Maior baixa:** Francisco Moura (90) **-33%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Liga Portugal — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,22 +35,20 @@ O mercado do **EA FC** abre **31/07/2026** no PC com mercado **aquecido** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 88.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 45 cartas.
-- **Concentração:** Liga Portugal aparece em 18 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 72.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 37.5% entre as cartas que se moveram; o universo observado reúne 42 cartas.
+- **Concentração:** Liga Portugal aparece em 14 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Quaresma | 85 | Liga Portugal | 92k coins | +58.3% | -30.7% |
-| Trincão | 86 | Liga Portugal | 45k coins | +39.5% | +102.2% |
+| Trincão | 86 | Liga Portugal | 45k coins | +39.5% | +104.5% |
 | Alexander Bah | 86 | Liga Portugal | 84k coins | +29.2% | -33.3% |
-| Geovany Quenda | 85 | Liga Portugal | 24k coins | +20% | -68% |
-| Ricardo Horta | 90 | Liga Portugal | 26k coins | +10.4% | -39.4% |
-| Santi García | 84 | Liga Portugal | 49k coins | +9.4% | +10.1% |
-| Nélson Oliveira | 86 | Liga Portugal | 27k coins | +8% | +0.9% |
-| Ivan Cavaleiro | 85 | Liga Portugal | 25k coins | +3.1% | +12.5% |
+| Nélson Oliveira | 86 | Liga Portugal | 27k coins | +12.5% | -10% |
+| Geovany Quenda | 85 | Liga Portugal | 24k coins | +9.1% | -68% |
+| Larrazabal | 84 | Liga Portugal | 60k coins | +6.2% | +0.8% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 49k coins | +5.9% | +11.4% |
 
 
 ### Análise das altas
@@ -59,43 +57,41 @@ O mercado do **EA FC** abre **31/07/2026** no PC com mercado **aquecido** — as
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Quaresma (85)** subiu **+58.3%** em 24h, a **92k coins** (faixa do dia: 60k–140k). Está -21% abaixo da média de 7 dias (descontada).
+- **Trincão (86)** subiu **+39.5%** em 24h, a **45k coins** (faixa do dia: 31k–45k). Está +80% acima da média de 7 dias (aquecida).
 
-- **Trincão (86)** subiu **+39.5%** em 24h, a **45k coins** (faixa do dia: 31k–45k). Está +83% acima da média de 7 dias (aquecida).
+- **Alexander Bah (86)** subiu **+29.2%** em 24h, a **84k coins** (faixa do dia: 58k–84k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Alexander Bah (86)** subiu **+29.2%** em 24h, a **84k coins** (faixa do dia: 58k–84k). Está -23% abaixo da média de 7 dias (descontada).
+- **Nélson Oliveira (86)** subiu **+12.5%** em 24h, a **27k coins** (faixa do dia: 23k–34k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| António Silva | 87 | Liga Portugal | 40k coins | -30% | -9% |
-| Vangelis Pavlidis | 86 | Liga Portugal | 40k coins | -24.5% | -4.1% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 35k coins | -22.2% | -21.3% |
-| Eduardo Quaresma | 88 | Liga Portugal | 37k coins | -20% | +69.4% |
-| Rodrigo Mora | 87 | Liga Portugal | 28k coins | -19.3% | -19.9% |
-| Jesús Ramírez | 84 | Liga Portugal | 40k coins | -17.6% | -17.2% |
-| João Carvalho | 84 | Liga Portugal | 41k coins | -14.2% | -5.2% |
-| Francisco Moura | 90 | Liga Portugal | 30k coins | -12.8% | -40% |
-| Nicolás Otamendi | 86 | Liga Portugal | 38k coins | -9.4% | -43% |
-| Pizzi | 85 | Liga Portugal | 20k coins | -9.1% | -23.1% |
+| Francisco Moura | 90 | Liga Portugal | 30k coins | -33% | -53.8% |
+| João Carvalho | 84 | Liga Portugal | 41k coins | -14.2% | -6.9% |
+| Vangelis Pavlidis | 86 | Liga Portugal | 49k coins | -7.9% | +15.9% |
+| Ousmane Diomande | 85 | Liga Portugal | 43k coins | -6.8% | +227.8% |
+| Jesús Ramírez | 84 | Liga Portugal | 40k coins | -5.9% | -5.9% |
+| Jan Bednarek | 84 | Liga Portugal | 45k coins | -5.3% | 0% |
+| William Gomes | 84 | Liga Portugal | 48k coins | -5% | +13.8% |
+| Rodrigo Mora | 87 | Liga Portugal | 28k coins | -3.4% | -20.6% |
 
 
 ### Análise das baixas
 
-- **António Silva (87)** caiu **-30%** em 24h, a **40k coins** (faixa do dia: 33k–60k). Está em linha com a média de 7 dias (+5%).
+- **Francisco Moura (90)** caiu **-33%** em 24h, a **30k coins** (faixa do dia: 28k–45k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Vangelis Pavlidis (86)** caiu **-24.5%** em 24h, a **40k coins** (faixa do dia: 36k–54k). Está -14% abaixo da média de 7 dias (descontada).
+- **João Carvalho (84)** caiu **-14.2%** em 24h, a **41k coins** (faixa do dia: 41k–48k). Está em linha com a média de 7 dias (-2%).
 
-- **Rodrigo Zalazar (84)** caiu **-22.2%** em 24h, a **35k coins** (faixa do dia: 35k–48k). Está -21% abaixo da média de 7 dias (descontada).
+- **Vangelis Pavlidis (86)** caiu **-7.9%** em 24h, a **49k coins** (faixa do dia: 36k–54k). Está em linha com a média de 7 dias (+6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Quaresma já avançou 58.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Trincão já avançou 39.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** António Silva recuou -30%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Francisco Moura recuou -33%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -115,13 +111,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Quaresma (85, Liga Portugal), com +58.3% em 24h, a 92k coins no PC.
+Trincão (86, Liga Portugal), com +39.5% em 24h, a 45k coins no PC.
 
 **E a maior queda do dia?**
-António Silva (87), -30% em 24h, a 40k coins.
+Francisco Moura (90), -33% em 24h, a 30k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 16 em queda (média 4.8%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 9 cartas em alta contra 15 em queda (média -2.2%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
