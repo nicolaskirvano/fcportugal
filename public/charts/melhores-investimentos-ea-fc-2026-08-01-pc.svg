@@ -6,14 +6,14 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">José Fonte</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+76.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Carvalho</text>
-<rect x="285" y="153" width="96" height="28" rx="7" fill="#22c55e"/>
-<text x="391" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jesús Ramírez</text>
-<rect x="285" y="211" width="61" height="28" rx="7" fill="#22c55e"/>
-<text x="356" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.7%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+74.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jesús Ramírez</text>
+<rect x="285" y="153" width="105" height="28" rx="7" fill="#22c55e"/>
+<text x="400" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Carvalho</text>
+<rect x="285" y="211" width="102" height="28" rx="7" fill="#22c55e"/>
+<text x="397" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.9%</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jan Bednarek</text>
-<rect x="285" y="269" width="32" height="28" rx="7" fill="#22c55e"/>
-<text x="327" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.0%</text>
+<rect x="285" y="269" width="36" height="28" rx="7" fill="#22c55e"/>
+<text x="331" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+5.6%</text>
 </svg>
