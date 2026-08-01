@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:40:10.000Z
+pubDatetime: 2026-08-01T19:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Matheus Dias (87, Liga Portugal) lidera, com +34.6% em 7 dias a 18.000 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Richard Ríos (88, Liga Portugal) lidera, com +39.8% em 7 dias a 178k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Matheus Dias (87) acumula **+34.6% em 7 dias** a 18.000 coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Richard Ríos (88) acumula **+39.8% em 7 dias** a 178k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.2% em 24h** e **+27.9% em 7 dias**.
-- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+23.5% em 24h** e **+22.2% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Matheus Dias | 87 | Liga Portugal | 18.000 coins | +12.9% | +34.6% | Momentum moderado |
-| Yanis Begraoui | 86 | Liga Portugal | 54k coins | +5% | +28.8% | Momentum moderado |
-| João Carvalho | 84 | Liga Portugal | 56k coins | +2.8% | +27.9% | Momentum moderado |
-| João Moutinho | 88 | Liga Portugal | 55k coins | +5.2% | +22.6% | Momentum moderado |
-| Jovane Cabral | 84 | Liga Portugal | 60k coins | +15% | +19.3% | Momentum moderado |
+| Richard Ríos | 88 | Liga Portugal | 178k coins | +18.6% | +39.8% | Momentum moderado |
+| Geovany Quenda | 85 | Liga Portugal | 60k coins | +34.8% | +32.6% | Esticada |
+| Jovane Cabral | 84 | Liga Portugal | 61k coins | +28.4% | +11.9% | Esticada |
+| Ivan Cavaleiro | 85 | Liga Portugal | 40k coins | +17.1% | +6.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Matheus Dias (87)** — 18.000 coins, **+34.6% em 7 dias** (+12.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Richard Ríos (88)** — 178k coins, **+39.8% em 7 dias** (+18.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yanis Begraoui (86)** — 54k coins, **+28.8% em 7 dias** (+5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geovany Quenda (85)** — 60k coins, **+32.6% em 7 dias** (+34.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Carvalho (84)** — 56k coins, **+27.9% em 7 dias** (+2.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jovane Cabral (84)** — 61k coins, **+11.9% em 7 dias** (+28.4% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **João Moutinho (88)** — 55k coins, **+22.6% em 7 dias** (+5.2% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Jovane Cabral (84)** — 60k coins, **+19.3% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ivan Cavaleiro (85)** — 40k coins, **+6.5% em 7 dias** (+17.1% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Matheus Dias (87, Liga Portugal) lidera, com +34.6% em 7 dias a 18.000 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Richard Ríos (88, Liga Portugal) lidera, com +39.8% em 7 dias a 178k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

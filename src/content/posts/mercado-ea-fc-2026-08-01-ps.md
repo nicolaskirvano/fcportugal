@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:40:09.000Z
+pubDatetime: 2026-08-01T19:40:08.000Z
 title: "Mercado EA FC em 01/08: Liga Portugal — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Geovany Quenda (85, Liga Portugal), com +48.9% em 24h, a 68k coins no Console (PS)."
+    a: "Geovany Quenda (85, Liga Portugal), com +34.8% em 24h, a 60k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Paulo Futre (92), -31.6% em 24h, a 33k coins."
+    a: "Ousmane Diomande (85), -35.8% em 24h, a 39k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 11 cartas em alta contra 17 em queda (média 6.28%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 12 cartas em alta contra 13 em queda (média 5.39%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **01/08/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **11 valorizações** contra **17 quedas** entre as cartas relevantes, com média de **6.28%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **01/08/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **12 valorizações** contra **13 quedas** entre as cartas relevantes, com média de **5.39%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Geovany Quenda (85) **+48.9%** · 🔴 **Maior baixa:** Paulo Futre (92) **-31.6%**
+> 🟢 **Maior alta:** Geovany Quenda (85) **+34.8%** · 🔴 **Maior baixa:** Ousmane Diomande (85) **-35.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Liga Portugal — Console (PS)](/charts/mercado-ea-fc-2026-08-01-ps.svg)
 
@@ -35,20 +35,21 @@ Resumo de **01/08/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 80.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.3% entre as cartas que se moveram; o universo observado reúne 38 cartas.
-- **Concentração:** Liga Portugal aparece em 13 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 70.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.0% entre as cartas que se moveram; o universo observado reúne 37 cartas.
+- **Concentração:** Liga Portugal aparece em 14 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Geovany Quenda | 85 | Liga Portugal | 68k coins | +48.9% | +48.9% |
-| Anatoliy Trubin | 88 | Liga Portugal | 330k coins | +39.8% | +30.4% |
-| Nélson Oliveira | 86 | Liga Portugal | 31k coins | +29% | -14% |
-| Jovane Cabral | 84 | Liga Portugal | 60k coins | +15% | +19.3% |
-| João Moutinho | 88 | Liga Portugal | 55k coins | +5.2% | +22.6% |
-| Yanis Begraoui | 86 | Liga Portugal | 54k coins | +5% | +28.8% |
+| Geovany Quenda | 85 | Liga Portugal | 60k coins | +34.8% | +32.6% |
+| Rodrigo Mora | 87 | Liga Portugal | 26k coins | +33.8% | -33.1% |
+| Jovane Cabral | 84 | Liga Portugal | 61k coins | +28.4% | +11.9% |
+| Anatoliy Trubin | 88 | Liga Portugal | 307k coins | +24.3% | +16.8% |
+| Oskar Pietuszewski | 86 | Liga Portugal | 70k coins | +22.7% | -3.6% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 40k coins | +17.1% | +6.5% |
+| João Moutinho | 88 | Liga Portugal | 48k coins | +5.3% | +1% |
 
 
 ### Análise das altas
@@ -57,40 +58,40 @@ Resumo de **01/08/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Geovany Quenda (85)** subiu **+48.9%** em 24h, a **68k coins** (faixa do dia: 17.000–80k). Está +26% acima da média de 7 dias (aquecida).
+- **Geovany Quenda (85)** subiu **+34.8%** em 24h, a **60k coins** (faixa do dia: 49k–80k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Anatoliy Trubin (88)** subiu **+39.8%** em 24h, a **330k coins** (faixa do dia: 190k–330k). Está +21% acima da média de 7 dias (aquecida).
+- **Rodrigo Mora (87)** subiu **+33.8%** em 24h, a **26k coins** (faixa do dia: 15.000–39k). Está -24% abaixo da média de 7 dias (descontada).
 
-- **Nélson Oliveira (86)** subiu **+29%** em 24h, a **31k coins** (faixa do dia: 11.000–33k). Está +59% acima da média de 7 dias (aquecida).
+- **Jovane Cabral (84)** subiu **+28.4%** em 24h, a **61k coins** (faixa do dia: 42k–70k). Está em linha com a média de 7 dias (+0%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paulo Futre | 92 | Liga Portugal | 33k coins | -31.6% | -28.9% |
-| Richard Ríos | 87 | Liga Portugal | 200k coins | -31.2% | -5.6% |
-| Vangelis Pavlidis | 86 | Liga Portugal | 40k coins | -10% | +2.3% |
-| Gonçalo Inácio | 89 | Liga Portugal | 78k coins | -5.9% | +26% |
-| Florian Grillitsch | 84 | Liga Portugal | 44k coins | -5.3% | -3.7% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 45k coins | -5.3% | +0.6% |
-| Santi García | 84 | Liga Portugal | 50k coins | -3% | +7.8% |
+| Ousmane Diomande | 85 | Liga Portugal | 39k coins | -35.8% | -31.2% |
+| Richard Ríos | 87 | Liga Portugal | 212k coins | -25.3% | +2.7% |
+| Paulo Futre | 92 | Liga Portugal | 29k coins | -15.7% | -23.4% |
+| João Carvalho | 84 | Liga Portugal | 48k coins | -10.1% | +14% |
+| Alexander Bah | 86 | Liga Portugal | 70k coins | -9% | +24.8% |
+| Rodrigo Zalazar | 84 | Liga Portugal | 45k coins | -7.4% | -1.7% |
+| Pedro Gonçalves | 86 | Liga Portugal | 51k coins | -5.3% | +6.5% |
 
 
 ### Análise das baixas
 
-- **Paulo Futre (92)** caiu **-31.6%** em 24h, a **33k coins** (faixa do dia: 24k–44k). Está -29% abaixo da média de 7 dias (descontada).
+- **Ousmane Diomande (85)** caiu **-35.8%** em 24h, a **39k coins** (faixa do dia: 20k–40k). Está em linha com a média de 7 dias (+0%).
 
-- **Richard Ríos (87)** caiu **-31.2%** em 24h, a **200k coins** (faixa do dia: 187k–379k). Está -14% abaixo da média de 7 dias (descontada).
+- **Richard Ríos (87)** caiu **-25.3%** em 24h, a **212k coins** (faixa do dia: 187k–379k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Vangelis Pavlidis (86)** caiu **-10%** em 24h, a **40k coins** (faixa do dia: 38k–55k). Está -12% abaixo da média de 7 dias (descontada).
+- **Paulo Futre (92)** caiu **-15.7%** em 24h, a **29k coins** (faixa do dia: 24k–44k). Está -36% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Geovany Quenda já avançou 48.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Geovany Quenda já avançou 34.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Paulo Futre recuou -31.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ousmane Diomande recuou -35.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -102,13 +103,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Geovany Quenda (85, Liga Portugal), com +48.9% em 24h, a 68k coins no Console (PS).
+Geovany Quenda (85, Liga Portugal), com +34.8% em 24h, a 60k coins no Console (PS).
 
 **E a maior queda do dia?**
-Paulo Futre (92), -31.6% em 24h, a 33k coins.
+Ousmane Diomande (85), -35.8% em 24h, a 39k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 11 cartas em alta contra 17 em queda (média 6.28%).
+Hoje o mercado está em alta — predominam as valorizações, com 12 cartas em alta contra 13 em queda (média 5.39%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
