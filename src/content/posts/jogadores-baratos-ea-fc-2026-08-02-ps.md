@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:30:08.000Z
+pubDatetime: 2026-08-02T10:40:10.000Z
 title: "Jogadores baratos EA FC: Liga Portugal em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 9.738 coins.
+- **Preço médio das 4 opções:** 9.250 coins.
 - **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,8 +42,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Ricardo Carvalho | 89 | CB | Liga Portugal | 11.250 coins | 0% |
 | Ricardo Carvalho | 88 | CB | Liga Portugal | 11.250 coins | -2.2% |
-| Eduardo Quaresma | 88 | CB | Liga Portugal | 14.750 coins | 0% |
-| Viktor Gyökeres | 87 | ST | Liga Portugal | 1.700 coins | +6.7% |
+| Eduardo Quaresma | 88 | CB | Liga Portugal | 13.000 coins | 0% |
+| Viktor Gyökeres | 87 | ST | Liga Portugal | 1.500 coins | +6.7% |
 
 
 ## 📈 Destaques
@@ -52,16 +52,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ricardo Carvalho (88, CB)** da Liga Portugal, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Eduardo Quaresma (88, CB)** da Liga Portugal, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Eduardo Quaresma (88, CB)** da Liga Portugal, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Viktor Gyökeres (87, ST)** da Liga Portugal, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Viktor Gyökeres (87, ST)** da Liga Portugal, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Ricardo Carvalho (89, CB) por 11.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Viktor Gyökeres (87, ST) por 1.700 coins é a referência de rating deste recorte.
+- **Ataque:** Viktor Gyökeres (87, ST) por 1.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

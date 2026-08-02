@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:30:06.000Z
+pubDatetime: 2026-08-02T10:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+3.3% em 24h** e **+18.2% em 7 dias**.
-- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+3.3% em 24h** e **+21.1% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,6 +44,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Gonçalo Inácio | 89 | Liga Portugal | 88k coins | +1.1% | +40.9% | Momentum moderado |
+| William Gomes | 84 | Liga Portugal | 44k coins | +14% | +27.5% | Momentum moderado |
 | Oskar Pietuszewski | 86 | Liga Portugal | 56k coins | +36.3% | +24% | Esticada |
 | Vangelis Pavlidis | 86 | Liga Portugal | 42k coins | +2% | +18.2% | Entrada a observar |
 | Florian Grillitsch | 84 | Liga Portugal | 47k coins | +3.3% | +11.1% | Entrada a observar |
@@ -54,13 +55,13 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Gonçalo Inácio (89)** — 88k coins, **+40.9% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **William Gomes (84)** — 44k coins, **+27.5% em 7 dias** (+14% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Oskar Pietuszewski (86)** — 56k coins, **+24% em 7 dias** (+36.3% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Vangelis Pavlidis (86)** — 42k coins, **+18.2% em 7 dias** (+2% em 24h). Preço -10% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Florian Grillitsch (84)** — 47k coins, **+11.1% em 7 dias** (+3.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Rodrigo Zalazar (84)** — 48k coins, **+9.4% em 7 dias** (+3.3% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
