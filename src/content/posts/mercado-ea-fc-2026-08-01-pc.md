@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:40:18.000Z
+pubDatetime: 2026-08-02T01:40:18.000Z
 title: "Mercado EA FC em 01/08: Liga Portugal — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "José Fonte (85, Liga Portugal), com +39% em 24h, a 68k coins no PC."
+    a: "Ousmane Diomande (85, Liga Portugal), com +52.5% em 24h, a 66k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Gonçalo Inácio (89), -41% em 24h, a 118k coins."
+    a: "Paulo Futre (92), -27.3% em 24h, a 35k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 13 cartas em alta contra 13 em queda (média 15.85%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 12 cartas em alta contra 13 em queda (média 17.94%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **01/08/2026** no PC: mercado **em alta** — predominam as valorizações. **13 valorizações** contra **13 quedas** entre as cartas relevantes, com média de **15.85%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **01/08/2026** no PC: mercado **em alta** — predominam as valorizações. **12 valorizações** contra **13 quedas** entre as cartas relevantes, com média de **17.94%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** José Fonte (85) **+39%** · 🔴 **Maior baixa:** Gonçalo Inácio (89) **-41%**
+> 🟢 **Maior alta:** Ousmane Diomande (85) **+52.5%** · 🔴 **Maior baixa:** Paulo Futre (92) **-27.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Liga Portugal — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,17 +35,18 @@ Resumo de **01/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 80.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 41 cartas.
-- **Concentração:** Liga Portugal aparece em 12 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 79.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.0% entre as cartas que se moveram; o universo observado reúne 39 cartas.
+- **Concentração:** Liga Portugal aparece em 14 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| José Fonte | 85 | Liga Portugal | 68k coins | +39% | +74.8% |
-| João Carvalho | 84 | Liga Portugal | 44k coins | +16.6% | +15.9% |
-| Jesús Ramírez | 84 | Liga Portugal | 42k coins | +6.2% | +16.4% |
+| Ousmane Diomande | 85 | Liga Portugal | 66k coins | +52.5% | +3.8% |
+| Nicolás Otamendi | 86 | Liga Portugal | 74k coins | +26.8% | +15.4% |
+| João Carvalho | 84 | Liga Portugal | 48k coins | +16.6% | +15.9% |
+| Ricardo Horta | 90 | Liga Portugal | 24k coins | +6.4% | +6.4% |
 | Jan Bednarek | 84 | Liga Portugal | 48k coins | +5.6% | +5.6% |
 
 
@@ -55,41 +56,42 @@ Resumo de **01/08/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **José Fonte (85)** subiu **+39%** em 24h, a **68k coins** (faixa do dia: 22k–70k). Está +51% acima da média de 7 dias (aquecida).
+- **Ousmane Diomande (85)** subiu **+52.5%** em 24h, a **66k coins** (faixa do dia: 42k–75k). Está +34% acima da média de 7 dias (aquecida).
 
-- **João Carvalho (84)** subiu **+16.6%** em 24h, a **44k coins** (faixa do dia: 40k–48k). Está em linha com a média de 7 dias (+5%).
+- **Nicolás Otamendi (86)** subiu **+26.8%** em 24h, a **74k coins** (faixa do dia: 28k–90k). Está em linha com a média de 7 dias (-3%).
 
-- **Jesús Ramírez (84)** subiu **+6.2%** em 24h, a **42k coins** (faixa do dia: 40k–42k). Está em linha com a média de 7 dias (+5%).
+- **João Carvalho (84)** subiu **+16.6%** em 24h, a **48k coins** (faixa do dia: 40k–48k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gonçalo Inácio | 89 | Liga Portugal | 118k coins | -41% | -22.9% |
-| Anatoliy Trubin | 88 | Liga Portugal | 450k coins | -19.1% | +49.8% |
-| Pedro Gonçalves | 86 | Liga Portugal | 49k coins | -11.4% | -9.7% |
-| Jovane Cabral | 84 | Liga Portugal | 50k coins | -10% | +5.3% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 45k coins | -8.2% | +15.4% |
-| Paulo Futre | 92 | Liga Portugal | 55k coins | -5.8% | +7.5% |
-| Trincão | 86 | Liga Portugal | 43k coins | -5% | +137.5% |
-| Ivan Cavaleiro | 85 | Liga Portugal | 24k coins | -4% | +8% |
+| Paulo Futre | 92 | Liga Portugal | 35k coins | -27.3% | -30.2% |
+| Pedro Gonçalves | 86 | Liga Portugal | 45k coins | -15% | -12.6% |
+| Vangelis Pavlidis | 90 | Liga Portugal | 39k coins | -13.3% | -38.1% |
+| Trincão | 86 | Liga Portugal | 39k coins | -11.1% | +119.2% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 26k coins | -9.5% | +8% |
+| Florian Grillitsch | 84 | Liga Portugal | 40k coins | -7.1% | -16.8% |
+| Yanis Begraoui | 86 | Liga Portugal | 50k coins | -6.4% | +8.4% |
+| Dailon Livramento | 80 | Liga Portugal | 45k coins | -5.3% | 0% |
+| William Gomes | 84 | Liga Portugal | 48k coins | -5.3% | -6.2% |
 
 
 ### Análise das baixas
 
-- **Gonçalo Inácio (89)** caiu **-41%** em 24h, a **118k coins** (faixa do dia: 118k–200k). Está -27% abaixo da média de 7 dias (descontada).
+- **Paulo Futre (92)** caiu **-27.3%** em 24h, a **35k coins** (faixa do dia: 35k–85k). Está -33% abaixo da média de 7 dias (descontada).
 
-- **Anatoliy Trubin (88)** caiu **-19.1%** em 24h, a **450k coins** (faixa do dia: 364k–450k). Está +51% acima da média de 7 dias (aquecida).
+- **Pedro Gonçalves (86)** caiu **-15%** em 24h, a **45k coins** (faixa do dia: 44k–55k). Está em linha com a média de 7 dias (-7%).
 
-- **Pedro Gonçalves (86)** caiu **-11.4%** em 24h, a **49k coins** (faixa do dia: 44k–55k). Está em linha com a média de 7 dias (+1%).
+- **Vangelis Pavlidis (90)** caiu **-13.3%** em 24h, a **39k coins** (faixa do dia: 39k–74k). Está em linha com a média de 7 dias (-6%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** José Fonte já avançou 39% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ousmane Diomande já avançou 52.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Gonçalo Inácio recuou -41%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paulo Futre recuou -27.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -101,13 +103,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-José Fonte (85, Liga Portugal), com +39% em 24h, a 68k coins no PC.
+Ousmane Diomande (85, Liga Portugal), com +52.5% em 24h, a 66k coins no PC.
 
 **E a maior queda do dia?**
-Gonçalo Inácio (89), -41% em 24h, a 118k coins.
+Paulo Futre (92), -27.3% em 24h, a 35k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 13 cartas em alta contra 13 em queda (média 15.85%).
+Hoje o mercado está em alta — predominam as valorizações, com 12 cartas em alta contra 13 em queda (média 17.94%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

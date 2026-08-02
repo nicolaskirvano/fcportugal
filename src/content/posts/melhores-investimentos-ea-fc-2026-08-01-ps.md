@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:40:09.000Z
+pubDatetime: 2026-08-02T01:40:09.000Z
 title: "Investimentos EA FC: Liga Portugal em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Geovany Quenda (85, Liga Portugal) lidera, com +56.7% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Alexander Bah (86, Liga Portugal) lidera, com +50.8% em 7 dias a 74k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Geovany Quenda (85) acumula **+56.7% em 7 dias** a 60k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Alexander Bah (86) acumula **+50.8% em 7 dias** a 74k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.1% em 24h** e **+35.4% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.0% em 24h** e **+24.3% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Geovany Quenda | 85 | Liga Portugal | 60k coins | +11.7% | +56.7% | Momentum moderado |
-| Alexander Bah | 86 | Liga Portugal | 76k coins | +12.4% | +54% | Momentum moderado |
-| Gonçalo Inácio | 89 | Liga Portugal | 98k coins | +3.2% | +52.3% | Momentum moderado |
-| Richard Ríos | 88 | Liga Portugal | 175k coins | +18.1% | +37.5% | Momentum moderado |
-| Ousmane Diomande | 85 | Liga Portugal | 50k coins | +9.6% | +33.3% | Momentum moderado |
-| Jovane Cabral | 84 | Liga Portugal | 65k coins | +33.3% | +28.7% | Esticada |
-| Vangelis Pavlidis | 86 | Liga Portugal | 52k coins | +10% | +25% | Momentum moderado |
-| Jan Bednarek | 84 | Liga Portugal | 54k coins | +21.1% | +21.1% | Esticada |
+| Alexander Bah | 86 | Liga Portugal | 74k coins | +15.4% | +50.8% | Momentum moderado |
+| Richard Ríos | 88 | Liga Portugal | 170k coins | +26.7% | +44.5% | Esticada |
+| William Gomes | 84 | Liga Portugal | 55k coins | +22.2% | +37.5% | Esticada |
+| Pedro Gonçalves | 86 | Liga Portugal | 52k coins | +5% | +24.3% | Entrada a observar |
+| Florian Grillitsch | 84 | Liga Portugal | 47k coins | +1.6% | +10.5% | Entrada a observar |
+| Jan Bednarek | 84 | Liga Portugal | 48k coins | +8.3% | +8.3% | Momentum moderado |
+| Yanis Begraoui | 86 | Liga Portugal | 50k coins | +10% | +5.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Geovany Quenda (85)** — 60k coins, **+56.7% em 7 dias** (+11.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alexander Bah (86)** — 74k coins, **+50.8% em 7 dias** (+15.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alexander Bah (86)** — 76k coins, **+54% em 7 dias** (+12.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Richard Ríos (88)** — 170k coins, **+44.5% em 7 dias** (+26.7% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gonçalo Inácio (89)** — 98k coins, **+52.3% em 7 dias** (+3.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **William Gomes (84)** — 55k coins, **+37.5% em 7 dias** (+22.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Richard Ríos (88)** — 175k coins, **+37.5% em 7 dias** (+18.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pedro Gonçalves (86)** — 52k coins, **+24.3% em 7 dias** (+5% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ousmane Diomande (85)** — 50k coins, **+33.3% em 7 dias** (+9.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Grillitsch (84)** — 47k coins, **+10.5% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +80,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Geovany Quenda (85, Liga Portugal) lidera, com +56.7% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Alexander Bah (86, Liga Portugal) lidera, com +50.8% em 7 dias a 74k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
