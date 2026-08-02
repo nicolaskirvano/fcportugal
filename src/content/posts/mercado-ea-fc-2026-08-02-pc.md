@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:40:18.000Z
+pubDatetime: 2026-08-02T19:40:18.000Z
 title: "Mercado EA FC em 02/08: Liga Portugal — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Ivan Cavaleiro (85, Liga Portugal), com +19.8% em 24h, a 26k coins no PC."
+    a: "Nicolás Otamendi (86, Liga Portugal), com +11.1% em 24h, a 100k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Oskar Pietuszewski (86), -41.7% em 24h, a 103k coins."
+    a: "Ousmane Diomande (85), -44.1% em 24h, a 30k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 16 em queda (média 10.47%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 8 cartas em alta contra 14 em queda (média -4.75%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a maioria das cartas subiu — **11 subiram**, **16 caíram** (80+ e 5k+ coins), média de **10.47%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **8 subiram**, **14 caíram** (80+ e 5k+ coins), média de **-4.75%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ivan Cavaleiro (85) **+19.8%** · 🔴 **Maior baixa:** Oskar Pietuszewski (86) **-41.7%**
+> 🟢 **Maior alta:** Nicolás Otamendi (86) **+11.1%** · 🔴 **Maior baixa:** Ousmane Diomande (85) **-44.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Liga Portugal — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,16 +35,18 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 61.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.7% entre as cartas que se moveram; o universo observado reúne 43 cartas.
-- **Concentração:** Liga Portugal aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 55.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 36.4% entre as cartas que se moveram; o universo observado reúne 43 cartas.
+- **Concentração:** Liga Portugal aparece em 12 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ivan Cavaleiro | 85 | Liga Portugal | 26k coins | +19.8% | -21.6% |
-| Pedro Gonçalves | 86 | Liga Portugal | 49k coins | +15.8% | +18.3% |
+| Nicolás Otamendi | 86 | Liga Portugal | 100k coins | +11.1% | +19% |
+| Jovane Cabral | 84 | Liga Portugal | 50k coins | +10.5% | +17% |
+| Dailon Livramento | 80 | Liga Portugal | 48k coins | +5.6% | 0% |
+| Ivan Cavaleiro | 85 | Liga Portugal | 24k coins | +4.1% | -12.2% |
 
 
 ### Análise das altas
@@ -53,39 +55,41 @@ Hoje (**02/08/2026**, PC) o Ultimate Team está em clima **comprador** — a mai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ivan Cavaleiro (85)** subiu **+19.8%** em 24h, a **26k coins** (faixa do dia: 20k–28k). Está em linha com a média de 7 dias (+5%).
+- **Nicolás Otamendi (86)** subiu **+11.1%** em 24h, a **100k coins** (faixa do dia: 74k–100k). Está +32% acima da média de 7 dias (aquecida).
 
-- **Pedro Gonçalves (86)** subiu **+15.8%** em 24h, a **49k coins** (faixa do dia: 44k–55k). Está em linha com a média de 7 dias (+0%).
+- **Jovane Cabral (84)** subiu **+10.5%** em 24h, a **50k coins** (faixa do dia: 44k–50k). Está +12% acima da média de 7 dias (aquecida).
+
+- **Dailon Livramento (80)** subiu **+5.6%** em 24h, a **48k coins** (faixa do dia: 39k–48k). Está em linha com a média de 7 dias (+1%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Oskar Pietuszewski | 86 | Liga Portugal | 103k coins | -41.7% | +1.4% |
-| Paulo Futre | 92 | Liga Portugal | 48k coins | -35.8% | -32.6% |
-| Ousmane Diomande | 85 | Liga Portugal | 34k coins | -30.5% | -52.4% |
-| Rodrigo Zalazar | 84 | Liga Portugal | 45k coins | -10% | -9.1% |
-| Trincão | 86 | Liga Portugal | 39k coins | -8.9% | +80.2% |
-| Dailon Livramento | 80 | Liga Portugal | 45k coins | -5.3% | 0% |
-| Alexander Bah | 86 | Liga Portugal | 158k coins | -4.7% | -4.7% |
-| Santi García | 84 | Liga Portugal | 46k coins | -3% | +13.7% |
+| Ousmane Diomande | 85 | Liga Portugal | 30k coins | -44.1% | -57.9% |
+| Eduardo Quaresma | 88 | Liga Portugal | 34k coins | -33.3% | +106.9% |
+| Paulo Futre | 92 | Liga Portugal | 40k coins | -32.9% | -54.5% |
+| Quaresma | 85 | Liga Portugal | 30k coins | -16.8% | -78.7% |
+| Trincão | 86 | Liga Portugal | 35k coins | -14.8% | +58.2% |
+| Anatoliy Trubin | 88 | Liga Portugal | 330k coins | -9.3% | +35.8% |
+| Alexander Bah | 86 | Liga Portugal | 146k coins | -7.4% | -11.8% |
+| José Fonte | 85 | Liga Portugal | 64k coins | -5% | +67.3% |
 
 
 ### Análise das baixas
 
-- **Oskar Pietuszewski (86)** caiu **-41.7%** em 24h, a **103k coins** (faixa do dia: 60k–120k). Está +24% acima da média de 7 dias (aquecida).
+- **Ousmane Diomande (85)** caiu **-44.1%** em 24h, a **30k coins** (faixa do dia: 30k–73k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Paulo Futre (92)** caiu **-35.8%** em 24h, a **48k coins** (faixa do dia: 30k–110k). Está -9% abaixo da média de 7 dias (descontada).
+- **Eduardo Quaresma (88)** caiu **-33.3%** em 24h, a **34k coins** (faixa do dia: 22k–45k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **Ousmane Diomande (85)** caiu **-30.5%** em 24h, a **34k coins** (faixa do dia: 34k–75k). Está -28% abaixo da média de 7 dias (descontada).
+- **Paulo Futre (92)** caiu **-32.9%** em 24h, a **40k coins** (faixa do dia: 30k–110k). Está -22% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ivan Cavaleiro já avançou 19.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nicolás Otamendi já avançou 11.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Oskar Pietuszewski recuou -41.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ousmane Diomande recuou -44.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -97,13 +101,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Ivan Cavaleiro (85, Liga Portugal), com +19.8% em 24h, a 26k coins no PC.
+Nicolás Otamendi (86, Liga Portugal), com +11.1% em 24h, a 100k coins no PC.
 
 **E a maior queda do dia?**
-Oskar Pietuszewski (86), -41.7% em 24h, a 103k coins.
+Ousmane Diomande (85), -44.1% em 24h, a 30k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 11 cartas em alta contra 16 em queda (média 10.47%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 8 cartas em alta contra 14 em queda (média -4.75%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

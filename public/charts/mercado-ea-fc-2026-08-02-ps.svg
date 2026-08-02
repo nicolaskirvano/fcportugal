@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Francisco Moura</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alexander Bah</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Richard Ríos</text>
-<rect x="285" y="153" width="156" height="28" rx="7" fill="#22c55e"/>
-<text x="451" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.9%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
-<rect x="285" y="211" width="97" height="28" rx="7" fill="#22c55e"/>
-<text x="392" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">William Gomes</text>
-<rect x="285" y="269" width="70" height="28" rx="7" fill="#22c55e"/>
-<text x="365" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">João Carvalho</text>
-<rect x="285" y="327" width="44" height="28" rx="7" fill="#22c55e"/>
-<text x="339" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+4.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Vangelis Pavlidis</text>
-<rect x="285" y="385" width="29" height="28" rx="7" fill="#22c55e"/>
-<text x="324" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+3.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nicolás Otamendi</text>
+<rect x="285" y="153" width="264" height="28" rx="7" fill="#22c55e"/>
+<text x="559" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Richard Ríos</text>
+<rect x="285" y="211" width="224" height="28" rx="7" fill="#22c55e"/>
+<text x="519" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pizzi</text>
+<rect x="285" y="269" width="212" height="28" rx="7" fill="#22c55e"/>
+<text x="507" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Larrazabal</text>
+<rect x="285" y="327" width="56" height="28" rx="7" fill="#22c55e"/>
+<text x="351" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rodrigo Zalazar</text>
+<rect x="285" y="385" width="54" height="28" rx="7" fill="#22c55e"/>
+<text x="349" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.1%</text>
 </svg>
