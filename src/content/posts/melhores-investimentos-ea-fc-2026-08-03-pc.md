@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:31:15.000Z
+pubDatetime: 2026-08-03T10:40:19.000Z
 title: "Investimentos EA FC: Liga Portugal em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Oskar Pietuszewski (86, Liga Portugal) lidera, com +65.1% em 7 dias a 108k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Oskar Pietuszewski (86, Liga Portugal) lidera, com +71.4% em 7 dias a 108k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Oskar Pietuszewski (86) acumula **+65.1% em 7 dias** a 108k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Oskar Pietuszewski (86) acumula **+71.4% em 7 dias** a 108k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.4% em 24h** e **+26.1% em 7 dias**.
-- **3 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Liga Portugal** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+35.7% em 24h** e **+20.3% em 7 dias**.
+- **4 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Liga Portugal** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,19 +43,22 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Oskar Pietuszewski | 86 | Liga Portugal | 108k coins | +5.1% | +65.1% | Esticada |
+| Oskar Pietuszewski | 86 | Liga Portugal | 108k coins | +9.1% | +71.4% | Esticada |
 | Ivan Cavaleiro | 85 | Liga Portugal | 33k coins | +36.1% | +32% | Esticada |
 | João Carvalho | 84 | Liga Portugal | 48k coins | +35.7% | +20.3% | Esticada |
+| Jan Bednarek | 84 | Liga Portugal | 48k coins | +35.7% | +19.5% | Esticada |
 | Rodrigo Zalazar | 84 | Liga Portugal | 50k coins | +4.7% | +19% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Oskar Pietuszewski (86)** — 108k coins, **+65.1% em 7 dias** (+5.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Oskar Pietuszewski (86)** — 108k coins, **+71.4% em 7 dias** (+9.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Ivan Cavaleiro (85)** — 33k coins, **+32% em 7 dias** (+36.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **João Carvalho (84)** — 48k coins, **+20.3% em 7 dias** (+35.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Jan Bednarek (84)** — 48k coins, **+19.5% em 7 dias** (+35.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Rodrigo Zalazar (84)** — 50k coins, **+19% em 7 dias** (+4.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -75,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Oskar Pietuszewski (86, Liga Portugal) lidera, com +65.1% em 7 dias a 108k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Oskar Pietuszewski (86, Liga Portugal) lidera, com +71.4% em 7 dias a 108k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
