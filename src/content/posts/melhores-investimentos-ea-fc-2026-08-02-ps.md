@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:40:10.000Z
+pubDatetime: 2026-08-03T01:40:10.000Z
 title: "Investimentos EA FC: Liga Portugal em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Larrazabal (84, Liga Portugal) lidera, com +20% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "António Silva (87, Liga Portugal) lidera, com +65.5% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Larrazabal (84) acumula **+20% em 7 dias** a 58k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** António Silva (87) acumula **+65.5% em 7 dias** a 35k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Liga Portugal em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.7% em 24h** e **+13.0% em 7 dias**.
-- **0 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+19.6% em 24h** e **+35.5% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Liga Portugal** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Larrazabal | 84 | Liga Portugal | 58k coins | +10.1% | +20% | Momentum moderado |
-| Santi García | 84 | Liga Portugal | 50k coins | +5.3% | +17.6% | Momentum moderado |
-| Jan Bednarek | 84 | Liga Portugal | 56k coins | +16.9% | +14% | Momentum moderado |
-| Yanis Begraoui | 86 | Liga Portugal | 54k coins | +8.1% | +12% | Momentum moderado |
-| Rodrigo Zalazar | 84 | Liga Portugal | 42k coins | +4.4% | +10.6% | Entrada a observar |
-| Florian Grillitsch | 84 | Liga Portugal | 47k coins | +2.7% | +5% | Entrada a observar |
+| António Silva | 87 | Liga Portugal | 35k coins | +20% | +65.5% | Esticada |
+| Paulo Futre | 92 | Liga Portugal | 38k coins | +24.3% | +50% | Esticada |
+| José Fonte | 85 | Liga Portugal | 42k coins | +9.7% | +44.1% | Momentum moderado |
+| Geovany Quenda | 85 | Liga Portugal | 61k coins | +27% | +27% | Esticada |
+| Yanis Begraoui | 86 | Liga Portugal | 40k coins | +10.1% | +14.1% | Momentum moderado |
+| Jan Bednarek | 84 | Liga Portugal | 60k coins | +19.3% | +5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Larrazabal (84)** — 58k coins, **+20% em 7 dias** (+10.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **António Silva (87)** — 35k coins, **+65.5% em 7 dias** (+20% em 24h). Preço +62% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santi García (84)** — 50k coins, **+17.6% em 7 dias** (+5.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Futre (92)** — 38k coins, **+50% em 7 dias** (+24.3% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jan Bednarek (84)** — 56k coins, **+14% em 7 dias** (+16.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **José Fonte (85)** — 42k coins, **+44.1% em 7 dias** (+9.7% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Yanis Begraoui (86)** — 54k coins, **+12% em 7 dias** (+8.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Geovany Quenda (85)** — 61k coins, **+27% em 7 dias** (+27% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rodrigo Zalazar (84)** — 42k coins, **+10.6% em 7 dias** (+4.4% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yanis Begraoui (86)** — 40k coins, **+14.1% em 7 dias** (+10.1% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +79,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Larrazabal (84, Liga Portugal) lidera, com +20% em 7 dias a 58k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+António Silva (87, Liga Portugal) lidera, com +65.5% em 7 dias a 35k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,7 +97,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Liga Portugal em 02/08 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-08-02-ps/)
 - [Mercado EA FC em 02/08: Liga Portugal — Console (PS)](/posts/mercado-ea-fc-2026-08-02-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
