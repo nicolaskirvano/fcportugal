@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:40:08.000Z
+pubDatetime: 2026-08-08T13:40:08.000Z
 title: "Mercado EA FC em 08/08: Liga Portugal — Console (PS)"
 draft: false
 featured: true
